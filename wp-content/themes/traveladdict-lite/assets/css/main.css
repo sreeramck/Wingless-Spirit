@@ -1,0 +1,431 @@
+/**
+ *	01. Header
+ *	02. Content
+ *	03. Sidebar
+ *	04. Footer
+ *	05. Responsive
+ */
+
+body {
+	background-color: #11141d;
+	color: #333;
+	line-height: 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: inherit;
+}
+
+label {
+	color: #fff;
+}
+
+/* 01. Header */
+.branding-wrapper .container {
+	position: relative;
+}
+
+.site-branding {
+	width: 26.9740634%;
+	float: left;
+}
+
+.site-branding a {
+	display: block;
+}
+
+.site-branding h1.site-title a {
+	font-size: 26px;
+}
+
+.site-logo {
+	max-width: 468px;
+}
+
+.main-navigation {
+	width: 72%;
+	margin-right: -30px;
+	clear: none;
+	border-top: none;
+	border-bottom: none;
+	float: right;
+}
+
+.main-navigation ul {
+	float: right;
+}
+
+.main-navigation li {
+	padding: 0 30px 0 30px;
+	border-right: 1px solid #333;
+	font-weight: 700;
+	line-height: 1;
+}
+
+.main-navigation li ul li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 400;
+	line-height: 20px;
+}
+
+.main-navigation ul ul::before {
+	margin-left: 30px;
+}
+
+.main-navigation a {
+	color: #333;
+}
+
+.social-navigation {
+	padding: 0;
+	border-bottom: 0;
+	position: absolute;
+	top: 22px;
+	right: 15px;
+}
+
+.social-navigation ul {
+	text-align: right;
+}
+
+.social-navigation ul li {
+	text-align: center;
+}
+
+.social-navigation ul li {
+	margin-right: 35px;
+}
+
+.social-navigation ul li:last-child {
+	margin-right: 0;
+}
+
+.social-navigation li a {
+	padding: 0;
+}
+
+.header-image {
+	height: 468px;
+	border-bottom: none;
+}
+
+/* 02. Content */
+.content-area {
+	width: 66.686217008%;
+}
+
+.entry-title {
+	margin: 0 0 10px;
+}
+
+.entry-header {
+	margin-bottom: 10px;
+}
+
+h1.entry-title,
+.entry-title a {
+	font-weight: 700;
+	font-size: 26px;
+	color: #333;
+	text-transform: uppercase;
+	font-family: inherit;
+}
+
+.entry-thumb-inner {
+	background-color: transparent;
+}
+
+.entry-meta {
+	font-size: 14px;
+	color: #333;
+}
+
+.entry-meta a {
+	color: #333;
+}
+
+.entry-meta .posted-on:after,
+.entry-meta .author:after {
+	content: "|";
+}
+
+.post-inner {
+	padding: 85px 70px 120px 70px;
+}
+
+.post-inner .entry-content {
+	color: #333;
+}
+
+.post-inner .entry-content p {
+	line-height: 28px;
+	font-size: 14px;
+}
+
+.hentry {
+	margin-bottom: 70px;
+	border: 0;
+}
+
+/* 03. Sidebar */
+.widget-area {
+	width: 31.906158357%;
+}
+
+.photo-wrapper {
+	margin-top: -172px;
+	margin-bottom: 50px;
+}
+
+.photo-wrapper img {
+	max-height: 284px;
+}
+
+.amadeus_about {
+	margin-top: 137px !important;
+}
+
+.widget-area .widget {
+	margin-bottom: 70px;
+}
+
+.widget-area .widget-title {
+	margin: 0 0 10px 0;
+	padding: 0;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.widget-area .widget-title::after {
+	display: none;
+}
+
+.widget-area .widget label {
+	width: 100%;
+}
+
+.widget-area .widget label input {
+	box-sizing: border-box;
+}
+
+.amadeus_recent_comments .list-group-item,
+.amadeus_recent_posts_widget .list-group-item {
+	border-bottom: none;
+}
+
+.amadeus_recent_posts_widget h4 {
+	margin-top: 45px;
+}
+
+.amadeus_recent_posts_widget h4 a {
+	font-weight: 500 !important;
+	font-size: 20px !important;
+}
+
+.widget_categories li::before,
+.widget_pages li::before {
+	display: none;
+}
+
+.widget .children {
+	padding-left: 35px;
+}
+
+.widget ul li {
+	padding: 7px 0;
+	color: #333;
+}
+
+.widget ul li a {
+	font-weight: 700;
+	color: #333;
+	text-transform: uppercase;
+}
+
+.widget ul li ul li {
+	padding: 5px 0;
+	color: #888;
+}
+
+.widget ul li ul li a {
+	font-weight: 400;
+
+	color: #888;
+	text-transform: none;
+}
+
+/* 04. Footer */
+.footer-widget-area {
+	background-color: #363636;
+	padding: 30px 0 0 0;
+}
+
+.footer-widget-area h1,
+.footer-widget-area h2,
+.footer-widget-area h3,
+.footer-widget-area h4,
+.footer-widget-area h5,
+.footer-widget-area h6,
+.footer-widget-area .widget,
+.footer-widget-area .widget ul li,
+.footer-widget-area .widget ul li a,
+.footer-widget-area .widget a {
+	color: #c6c6c6;
+}
+
+.footer-widget-area .widget {
+	margin-top: 0;
+}
+
+.footer-widget-area h4 {
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.footer-widget-area .widget ul li {
+	font-size: 14px;
+}
+
+.footer-widget-area .container { }
+
+.footer-widget-area .container .footer-align-left {
+	width: 66.686217008%;
+}
+
+.footer-widget-area .container .footer-align-left .sidebar-column {
+	padding: 0 60px;
+	border-right: 1px solid #b7b7b7;
+}
+
+.footer-widget-area .container .footer-align-left .sidebar-column:last-child {
+	border-right: none;
+}
+
+.site-footer {
+	background-color: #363636;
+	padding: 40px 0;
+	border-top: 1px solid #535252;
+}
+
+.site-footer,
+.site-footer a {
+	line-height: 1;
+	color: #9f9f9f;
+	font-size: 16px;
+}
+
+/* 05. Responsive */
+@media (min-width: 1920px) {
+	.container {
+		width: 1735px;
+	}
+}
+
+@media (max-width: 1919px) {
+	.main-navigation li {
+		font-size: 14px;
+	}
+
+	.footer-widget-area .container .footer-align-left {
+		width: 100%;
+	}
+
+	.footer-widget-area .container .footer-align-left .sidebar-column {
+		padding: 0 15px;
+	}
+
+	.amadeus_recent_posts_widget h4 {
+		margin-top: 0;
+	}
+}
+
+@media (max-width: 1024px) {
+	body {
+		font-size: 15px;
+	}
+
+	.mobile-nav {
+		background-color: transparent;
+	}
+
+	.slicknav_btn {
+		margin-top: 85px;
+		text-align: right;
+	}
+
+	.slicknav_btn .fa {
+		color: #333;
+	}
+
+	.slicknav_nav {
+		margin-top: 30px;
+	}
+
+	.widget-area .widget-title {
+		font-size: 18px;
+	}
+
+	.widget ul li {
+		font-size: 15px;
+	}
+
+	.widget ul li a {
+		font-size: 15px;
+	}
+
+	.entry-meta {
+		font-size: 15px;
+	}
+}
+
+@media (max-width: 767px) {
+	.site-branding {
+		width: 50%;
+	}
+
+	div#primary {
+		width: 100%;
+	}
+
+	.widget-area {
+		width: 100%;
+	}
+
+	.footer-widget-area .container .footer-align-left .sidebar-column {
+		border-right: 0;
+	}
+
+	.site-footer, .site-footer a {
+		font-size: 15px;
+	}
+
+	.social-navigation {
+		width: 100%;
+		right: 0;
+	}
+
+	.social-navigation ul {
+		text-align: center;
+	}
+
+	.social-navigation ul li {
+		margin-right: 15px;
+	}
+}
+
+@media (max-width: 479px) {
+	.site-branding {
+		width: 70%;
+	}
+
+	.post-inner {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+}

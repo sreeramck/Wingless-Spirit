@@ -1,0 +1,33 @@
+### v1.0.4
+    - Minor CSS Tweaks
+    - Removed site_icon from parent
+    - Removed site_logo from parent
+    - Removed deprecated tag from style.css
+
+
+### v1.0.3
+	- Has been updated header image and screenshot.
+
+### v1.0.2
+	- Has been removed subpackage and changed the package name on all files.
+	- Has been removed README.md, LICENSE.md and CHANGELOG.md files.
+	- Has been fixed the text domain on content-single.php file.
+	- Has been removed protocal https/ http from Google Fonts enqueue functions.
+	- Has been removed logo image.
+
+### v1.0.1
+	- Has been removed Theme URI and Author URI from style.css.
+	- Has been added the content on LICENSE.md.
+	- Has been changed the header image.
+	- Has been changed the screenshot.
+	- Has been changed the README files.
+	- Has been added main.css in enqueue function.
+	- Has been added condition in header for pingback url.
+	- Has been changed the package name.
+	- Has been added get_stylesheet_directory_uri function in require_once.
+	- Has been deleted https from Google Fonts enqueue.
+	- Has been changed the text domain.
+	- Has been decreased font size on site title.
+
+### v1.0.0
+	- Initial release.
