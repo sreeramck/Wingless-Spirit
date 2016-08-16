@@ -1,0 +1,3654 @@
+# Copyright (C) 2015 WPtouch Pro
+# This file is distributed under the same license as the WPtouch Pro package.
+msgid ""
+msgstr "Project-Id-Version: WPtouch Pro 4.0\nReport-Msgid-Bugs-To: http://wordpress.org/tag/wptouch-pro\nPOT-Creation-Date: 2015-10-07 20:49:08+00:00\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPO-Revision-Date: 2015-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/customizer/wptouch-customizer.php:471
+msgid "Switch to Mobile Theme"
+msgstr "เปลี่ยนไปยังธีมมือถือ"
+
+#: admin/customizer/wptouch-customizer.php:472
+msgid "Switch to Desktop Theme"
+msgstr "เปลี่ยนเป็นธีมเดสก์ทอป"
+
+#: admin/html/license-modals.php:5
+msgid "Activating License"
+msgstr "กำลังเปิดใช้ใบอนุญาต"
+
+#: admin/html/license-modals.php:15
+msgid "Server Unavailable."
+msgstr "เซิร์ฟเวอร์ไม่พร้อมใช้งาน"
+
+#: admin/html/license-modals.php:16
+msgid "Our server cannot authorize your license. This could be caused by your webhost blocking the connection, or a temporary issue with our server."
+msgstr "เซิร์ฟเวอร์ของเราไม่สามารถอนุมัติใบอนุญาตของคุณได้ อาจเพราะเว็บโฮสต์ของคุณปิดกั้นการเชื่อมต่อ หรือเกิดปัญหาบางประการกับเซิร์ฟเวอร์ของเรา"
+
+#: admin/html/license-modals.php:17
+msgid "E-Mail Support"
+msgstr "รองรับอีเมล"
+
+#: admin/html/license-modals.php:22
+msgid "E-mail Address/License Key Rejected"
+msgstr "ปฏิเสธที่อยู่อีเมล/คีย์ใบอนุญาต"
+
+#: admin/html/license-modals.php:23
+#: admin/pages/custom/wptouch-admin-wizard.php:57
+msgid "Our server rejected your E-Mail Address/License Key."
+msgstr "เซิร์ฟเวอร์ของเราปฏิเสธที่อยู่อีเมล/คีย์ใบอนุญาตของคุณ"
+
+#: admin/html/license-modals.php:24
+#: admin/pages/custom/wptouch-admin-wizard.php:59
+msgid "Please check that they are correct and try again."
+msgstr "โปรดตรวจสอบความถูกต้องและลองอีกครั้ง"
+
+#: admin/html/license-modals.php:25
+msgid "Try Again"
+msgstr "ลองอีกครั้ง"
+
+#: admin/html/license-modals.php:30
+msgid "Your license has expired"
+msgstr "ใบอนุญาตของคุณหมดอายุแล้ว"
+
+#: admin/html/license-modals.php:31
+msgid "%sRenew your license%s to continue to receive product updates and support."
+msgstr "%sต่ออายุใบอนุญาตของคุณ%s เพื่ออัปเดตและรับการสนับสนุนผลิตภัณฑ์อย่างต่อเนื่อง"
+
+#: admin/html/license-modals.php:32
+#: admin/pages/custom/wptouch-admin-license.php:78
+msgid "Renew License"
+msgstr "ต่ออายุใบอนุญาต"
+
+#: admin/html/license-modals.php:37
+msgid "No licenses remaining"
+msgstr "ไม่มีใบอนุญาตคงเหลือ"
+
+#: admin/html/license-modals.php:38
+msgid "You have no licenses remaining. You can remove a license from another domain, or purchase an additional site license."
+msgstr "คุณไม่มีใบอนุญาตเหลือแล้ว คุณสามารถลบใบอนุญาตจากโดเมนอื่น หรือซื้อใบอนุญาตของไซต์เพิ่มเติมได้"
+
+#: admin/html/license-modals.php:39
+msgid "Manage Licenses"
+msgstr "จัดการใบอนุญาต"
+
+#: admin/html/license-modals.php:40
+msgid "Purchase Additional License"
+msgstr "ซื้อใบอนุญาตเพิ่มเติม"
+
+#: admin/html/license-modals.php:44
+msgid "License Activation Complete!"
+msgstr "เปิดใช้ใบอนุญาตเรียบร้อยแล้ว!"
+
+#: admin/html/license-modals.php:45
+msgid "Thanks for purchasing WPtouch Pro! Your installation is activated, you can receive support and product updates for this website."
+msgstr "ขอบคุณที่อุดหนุน WPtouch Pro! การติดตั้งของคุณเรียบร้อยแล้ว คุณจะได้รับการสนับสนุนและอัปเดตสินค้าสำหรับเว็บไซต์นี้"
+
+#: admin/html/plugin-area.php:11
+msgid "A new product version (%s) is available. %sRenew your license%s to download this update and receive additional product support."
+msgstr "ผลิตภัณฑ์รุ่นใหม่ (%s) พร้อมให้โหลดแล้ว %sต่ออายุใบอนุญาตของคุณ%s เพื่อดาวน์โหลดอัปเดตนี้ และรับการสนับสนุนผลิตภัณฑ์เพิ่มเติม"
+
+#: admin/html/plugin-area.php:13
+msgid "A new product version (%s) is available. Please %sactivate your license%s, or %spurchase a new license%s to enable updates and full product support."
+msgstr "ผลิตภัณฑ์รุ่นใหม่ (%s) พร้อมให้ใช้งานแล้ว โปรด %sเปิดใช้ใบอนุญาต%s ของคุณ หรือ %sซื้อใบอนุญาตใหม่%s เพื่อเปิดใช้ชุดอัปเดตและการสนับสนุนบนผลิตภัณฑ์แบบเต็มรูปแบบ"
+
+#: admin/html/plugin-area.php:30
+msgid "%sRenew your license%s to receive future product updates and product support."
+msgstr "%sต่ออายุใบอนุญาตของคุณ%s เพื่อรับอัปเดตผลิตภัณฑ์และการสนับสนุนผลิตภัณฑ์ในอนาคต"
+
+#: admin/html/plugin-area.php:32
+msgid "Please %sactivate your license%s, or %spurchase a license%s to fully enable product updates and product support."
+msgstr "กรุณา %sเปิดใช้ใบอนุญาตของคุณ%s หรือ %sซื้อใบอนุญาต%s เพื่อรับอัปเดตผลิตภัณฑ์และการสนับสนุนผลิตภัณฑ์ได้อย่างเต็มที่"
+
+#: admin/pages/custom/wptouch-admin-license.php:32
+msgid "Account & License"
+msgstr "บัญชีและใบอนุญาต"
+
+#: admin/pages/custom/wptouch-admin-license.php:72
+#: admin/pages/custom/wptouch-admin-wizard.php:65
+msgid "Account E-Mail Address"
+msgstr "บัญชีที่อยู่อีเมล"
+
+#: admin/pages/custom/wptouch-admin-license.php:74
+#: admin/pages/custom/wptouch-admin-wizard.php:67
+msgid "Product License Key"
+msgstr "คีย์ใบอนุญาตผลิตภัณฑ์"
+
+#: admin/pages/custom/wptouch-admin-license.php:80
+#: admin/settings/html/extension-browser-item-detail.php:65
+#: admin/settings/html/extension-browser-item-detail.php:77
+#: admin/settings/html/theme-browser-item-detail.php:80
+#: admin/settings/html/theme-browser-item-detail.php:93
+msgid "Activate"
+msgstr "เปิดใช้งาน"
+
+#: admin/pages/custom/wptouch-admin-license.php:83
+msgid "Clear License"
+msgstr "ล้างใบอนุญาต"
+
+#: admin/pages/custom/wptouch-admin-license.php:92
+msgid "Site License"
+msgstr "ใบอนุญาตเว็บไซต์"
+
+#: admin/pages/custom/wptouch-admin-license.php:93 core/menu-walkers.php:351
+msgid "Remove"
+msgstr "ลบออก"
+
+#: admin/pages/custom/wptouch-admin-license.php:96
+msgid "Licenses used"
+msgstr "ใช้ใบอนุญาตแล้ว"
+
+#: admin/pages/custom/wptouch-admin-license.php:97
+msgid "Manage"
+msgstr "จัดการ"
+
+#: admin/pages/custom/wptouch-admin-license.php:101
+msgid "License expiry"
+msgstr "ใบอนุญาตหมดอายุ"
+
+#: admin/pages/custom/wptouch-admin-license.php:109
+msgid "Support"
+msgstr "การสนับสนุน"
+
+#: admin/pages/custom/wptouch-admin-license.php:115
+#: admin/pages/custom/wptouch-admin-wizard.php:274
+msgid "Find support guides, file tickets and access our knowledgebase here."
+msgstr "ค้นหาคู่มือที่ให้การสนับสนุน ส่งคำถาม และเข้าดูฐานความรู้ของเราได้ที่นี่"
+
+#: admin/pages/custom/wptouch-admin-license.php:119
+#: admin/pages/custom/wptouch-admin-wizard.php:27
+#: admin/pages/custom/wptouch-admin-wizard.php:43
+#: admin/pages/custom/wptouch-admin-wizard.php:201
+#: admin/pages/custom/wptouch-admin-wizard.php:219
+#: admin/pages/custom/wptouch-admin-wizard.php:272
+#: admin/pages/custom/wptouch-admin-wizard.php:277
+msgid "Ornamental Image"
+msgstr "ภาพตกแต่ง"
+
+#: admin/pages/custom/wptouch-admin-license.php:121
+msgid "WPtouch Pro Account"
+msgstr "บัญชี WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:122
+msgid "Access your WPtouch Pro account to mange your license, access support resources, or upgrade your license."
+msgstr "เข้าถึงบัญชี WPtouch Pro เพื่อจัดการใบอนุญาตของคุณ เข้าถึงแหล่งสนับสนุน หรืออัปเกรดใบอนุญาตของคุณ"
+
+#: admin/pages/custom/wptouch-admin-license.php:129
+msgid "Installation"
+msgstr "การติดตั้ง"
+
+#: admin/pages/custom/wptouch-admin-license.php:134
+msgid "Download Settings"
+msgstr "ดาวน์โหลดการตั้งค่า"
+
+#: admin/pages/custom/wptouch-admin-license.php:135
+msgid "Download a copy of WPtouch Pro settings"
+msgstr "ดาวน์โหลดสำเนาการตั้งค่า WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:139
+msgid "Restore Settings"
+msgstr "เรียกคืนการตั้งค่า"
+
+#: admin/pages/custom/wptouch-admin-license.php:143
+msgid "Restore a WPtouch Pro settings file"
+msgstr "เรียกคืนไฟล์การตั้งค่า WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:148
+msgid "Erase Settings"
+msgstr "ลบการตั้งค่า"
+
+#: admin/pages/custom/wptouch-admin-license.php:149
+msgid "Erases WPtouch Pro settings without deleting files"
+msgstr "ลบการตั้งค่า WPtouch Pro โดยไม่ต้องลบไฟล์"
+
+#: admin/pages/custom/wptouch-admin-license.php:153
+msgid "Delete & Erase"
+msgstr "ลบและล้าง"
+
+#: admin/pages/custom/wptouch-admin-license.php:154
+msgid "Deletes the %s folder in your %s folder on disk, and erases WPtouch Pro settings"
+msgstr "ลบโฟลเดอร์ %s ในโฟลเดอร์ %s ของคุณบนดิสค์ และลบการตั้งค่า WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:157
+msgid "Delete, Erase & Deactivate"
+msgstr "ลบ ล้าง และปิดใช้งาน"
+
+#: admin/pages/custom/wptouch-admin-license.php:158
+msgid "Deletes the %s folder, erases WPtouch settings and deactivates WPtouch Pro"
+msgstr "ลบโฟลเดอร์ %s ล้างการตั้งค่า WPtouch และปิดการใช้งาน WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:25
+msgid "Choose a Language"
+msgstr "เลือกภาษา"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:26
+msgid "Setting Language..."
+msgstr "กำลังตั้งค่าภาษา..."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:44
+msgid "Welcome to WPtouch Pro 4"
+msgstr "ขอต้อนรับสู่ WPtouch Pro 4"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:45
+msgid "The most elegant and powerful way to create great mobile experiences for your website visitors. This guide will help you configure important WPtouch Pro settings before customizing your theme."
+msgstr "เส้นทางที่งดงามและมีประสิทธิภาพที่สุดในการสร้างประสบการณ์การใช้มือถือที่ยอดเยี่ยมสำหรับผู้เยี่ยมชมเว็บไซต์ของคุณ คู่มือนี้จะช่วยให้คุณกำหนดค่่า WPtouch Pro ที่สำคัญก่อนปรับแต่งธีมตามแบบของคุณเอง"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:53
+#: admin/pages/custom/wptouch-admin-wizard.php:70
+msgid "Activate License"
+msgstr "ใช้งานใบอนุญาต"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:54
+msgid "Adding a license is required to activate product updates and support, and provides access to more themes and extensions."
+msgstr "ต้องทำการเพิ่มใบอนุญาตเพื่อเปิดอัปเดตและรับการสนับสนุนผลิตภัณฑ์ ทั้งยังเข้าถึงธีมและส่วนขยายเพิ่มเติมอีกด้วย"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:76
+msgid "You can find your license key in the purchase receipt e-mail we sent you when you purchased WPtouch Pro. %s If you have lost your license e-mail, or are having issues activating WPtouch Pro please send an e-mail to %s"
+msgstr "คุณสามารถพบคีย์ใบอนุญาตในอีเมลใบเสร็จรับเงินที่เราส่งให้ตอนที่คุณซื้อ WPtouch Pro %s ถ้าคุณทำอีเมลใบอนุญาตหาย หรือมีปัญหาในการเปิดใช้งาน WPtouch Pro โปรดส่งอีเมลมาที่ %s"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:80
+msgid "License Activation Complete"
+msgstr "เปิดใช้ใบอนุญาตเรียบร้อยแล้ว"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:81
+msgid "Thank you for purchasing a %s licence!"
+msgstr "ขอบคุณที่ซื้อใบอนุญาต %s!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:88
+msgid "Download / Upload a Theme"
+msgstr "ดาวน์โหลด / อัปโหลดธีม"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:89
+#: admin/pages/custom/wptouch-admin-wizard.php:138
+msgid "We were unable to install automatically for you on this server. Instead, you can download and upload manually. To learn more about enabling automatic downloads, %sread this article on support.wptouch.com%s."
+msgstr "เราไม่สามารถติดตั้งอัตโนมัติให้คุณได้บนเซิร์ฟเวอร์นี้ แต่คุณสามารถดาวน์โหลดและอัปโหลดเองได้ด้วยตัวเอง หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับการเปิดใช้ดาวน์โหลดอัตโนมัติ %sโปรดอ่านบทความนี้บน support.wptouch.com%s"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:101
+#: admin/pages/custom/wptouch-admin-wizard.php:149
+#: admin/settings/html/extension-browser-item-detail.php:69
+#: admin/settings/html/theme-browser-item-detail.php:84
+#: admin/settings/html/updates-available.php:20
+#: admin/settings/html/updates-available.php:56 core/class-wptouch-pro.php:861
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:103
+#: admin/pages/custom/wptouch-admin-wizard.php:151
+#: admin/settings/html/installed_icon_sets_ajax.php:13
+#: admin/settings/html/installed_icon_sets_ajax.php:26
+#: core/class-wptouch-pro.php:860
+msgid "Installed"
+msgstr "ติดตั้งแล้ว"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+msgid "Theme Uploaded!"
+msgstr "อัปโหลดธีมแล้ว!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+msgid "Upload A Theme"
+msgstr "อัปโหลดธีม"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+#: admin/settings/html/image-upload.php:13
+msgid "Upload"
+msgstr "อัปโหลด"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Uploading..."
+msgstr "กำลังอัปโหลด..."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:110
+msgid "You can activate your theme in the next step"
+msgstr "คุณสามารถเปิดใช้ธีมในขั้นตอนต่อไป"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:115
+msgid "Choose a Theme"
+msgstr "เลือกธีม"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:116
+msgid "Select a theme which best suits your website. %s Themes are flexible—colors, fonts, layout and more can be changed in each theme. %s You can switch themes later at any time in the settings."
+msgstr "เลือกธีมที่เหมาะกับเว็บไซต์ของคุณที่สุด %s ธีมสามารถปรับเปลี่ยนได้—ทั้งสี แบบอักษร โครงร่าง และอื่นๆ สามารถเปลี่ยนได้ในทุกธีม %s คุณสามารถเปลี่ยนธีมภายหลังได้ทุกเมื่อในการตั้งค่า"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:137
+msgid "Download / Upload Extensions"
+msgstr "ดาวน์โหลด / อัปโหลดส่วนขยาย"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Extension Uploaded!"
+msgstr "อัปโหลดส่วนขยายแล้ว!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Upload Extension"
+msgstr "อัปโหลดส่วนขยาย"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:158
+msgid "You can activate extensions in the next step"
+msgstr "คุณสามารถเปิดใช้งานส่วนขยายได้ในขั้นตอนต่อไป"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:164
+msgid "Activate Extensions"
+msgstr "เปิดใช้งานส่วนขยาย"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:165
+msgid "Extensions are like mini-plugins that help you extend WPtouch Pro. You can also manage Extensions at any time from the WPtouch Pro settings panel."
+msgstr "ส่วนขยายเป็นเหมือนมินิปลั๊กอินที่ช่วยเสริมโปรแกรม WPtouch Pro ให้คุณ คุณจะสามารถจัดการส่วนเสริมได้ทุกเมื่อจากแผงการตั้งค่า WPtouch Pro ด้วยเช่นกัน"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:191
+msgid "Posts Page"
+msgstr "หน้าโพสต์"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:193
+msgid "Home Page & Posts"
+msgstr "หน้าหลักและโพสต์"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:195
+msgid "By default WPtouch Pro uses your WordPress settings for its homepage and blog settings. You can choose a different setup here."
+msgstr "ค่าตั้งต้นของ WPtouch Pro จะใช้การตั้งค่า WordPress ของคุณในการตั้งค่าหน้าหลักและบล็อก คุณสามารถเลือกการติดตั้งอื่นได้ที่นี่"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:208
+#: admin/pages/custom/wptouch-admin-wizard.php:226
+#: admin/pages/wptouch-admin-general-settings.php:121
+#: admin/settings/include/custom-latest-posts.php:11
+msgid "WordPress Reading Settings"
+msgstr "การตั้งค่าการอ่าน WordPress"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:215
+msgid "Mobile home page"
+msgstr "หน้าหลักบนมือถือ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:231
+msgid "Mobile posts listing"
+msgstr "รายการโพสต์บนมือถือ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:240
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:241
+msgid "WPtouch Pro supports analytics and usage statistics collection from Google Analytics."
+msgstr "WPtouch Pro สนับสนุนการวิเคราะห์และการจัดเก็บสถิติการใช้งานจาก Google Analytics"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:242
+msgid "WPtouch Pro can scan your site html and add it automatically."
+msgstr "WPtouch Pro สามารถสแกน html ไซต์ของคุณ และเพิ่มมันได้โดยอัตโนมัติ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:246
+msgid "Searching..."
+msgstr "กำลังค้นหา..."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:246
+msgid "Scan for Analytics Code"
+msgstr "สแกนการวิเคราะห์รหัส"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:255
+msgid "WPtouch Love"
+msgstr "ถูกใจ WPtouch"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:256
+msgid "Share your love for WPtouch Pro by including a small text link in your website's footer. Including the link helps us find new customers who will love WPtouch Pro like you do!"
+msgstr "แบ่งปันความรักของคุณให้ WPtouch Pro ด้วยการใส่ลิงค์ข้อความเล็กๆ ในส่วนท้ายบนเว็บไซต์ของคุณ การใส่ลิงค์นี้จะช่วยให้เราพบลูกค้ารายใหม่ที่จะหลงรัก WPtouch Pro อย่างที่คุณเป็น!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:259
+msgid "Show powered by WPtouch Pro"
+msgstr "ขับเคลื่อนโดย WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:267
+msgid "WPtouch Pro Support"
+msgstr "ความช่วยเหลือจาก WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:268
+msgid "WPtouch Pro 4 includes great support resources to help you get the most out of it."
+msgstr "WPtouch Pro 4 มีแหล่งให้การสนับสนุนที่ดีเยี่ยมที่จะช่วยให้คุณใช้งานได้เต็มศักยภาพ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:279
+msgid "Access your WPtouch Pro account to manage your license, access support resources, or upgrade your license."
+msgstr "เข้าถึงบัญชี WPtouch Pro ของคุณเพื่อจัดการใบอนุญาต เข้าถึงแหล่งให้การสนับสนุน หรืออัปเกรดใบอนุญาตของคุณ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:287
+msgid "Setup Complete!"
+msgstr "ติดตั้งเรียบร้อย!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:288
+msgid " Next you can customize your theme, or configure advanced settings."
+msgstr "ต่อไปคุณจะสามารถปรับแต่งธีม หรือกำหนดค่าขั้นสูงได้"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:293
+msgid "Customize your Theme"
+msgstr "ปรับแต่งธีมของคุณ"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:297
+msgid "Configure Settings"
+msgstr "กำหนดการตั้งค่า"
+
+#: admin/pages/wptouch-admin-general-settings.php:22 core/admin-render.php:57
+#: core/config.php:88
+msgid "Updates Available"
+msgstr "พร้อมให้อัปเดต"
+
+#: admin/pages/wptouch-admin-general-settings.php:48
+msgid "Mobile Site Title"
+msgstr "ชื่อไซต์บนมือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:54
+msgid "WPtouch Pro site title"
+msgstr "ชื่อเว็บไซต์ WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:68
+msgid "Display"
+msgstr "แสดงผล"
+
+#: admin/pages/wptouch-admin-general-settings.php:74
+msgid "Display WPtouch Pro for mobile visitors"
+msgstr "จอแสดงผล WPtouch Pro สำหรับผู้เยี่ยมชมบนมือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:75
+msgid "If disabled WPtouch Pro will be off for visitors but can be configured in the Customizer."
+msgstr "หากปิดใช้งาน WPtouch Pro จะถูกปิดสำหรับผู้เข้าชม แต่สามารถตั้งค่าได้ใน Customizer"
+
+#: admin/pages/wptouch-admin-general-settings.php:82
+msgid "URL filtering"
+msgstr "การกรอง URL"
+
+#: admin/pages/wptouch-admin-general-settings.php:87
+msgid "Show WPtouch Pro for all URLs"
+msgstr "แสดง WPtouch Pro สำหรับ URLs ทั้งหมด"
+
+#: admin/pages/wptouch-admin-general-settings.php:88
+msgid "Exclude WPtouch Pro on these URLs"
+msgstr "ไม่รวม WPtouch Pro บน URL เหล่านี้"
+
+#: admin/pages/wptouch-admin-general-settings.php:89
+msgid "Only show WPtouch Pro on these URLs"
+msgstr "แสดงเฉพาะ WPtouch Pro บน URL เหล่านี้"
+
+#: admin/pages/wptouch-admin-general-settings.php:95
+msgid "Apply filter to these URLs/Pages"
+msgstr "ใช้ตัวกรองกับ URL/หน้าเว็บเหล่านี้"
+
+#: admin/pages/wptouch-admin-general-settings.php:103
+msgid "Require exact match"
+msgstr "ต้องตรงกันทุกประการ"
+
+#: admin/pages/wptouch-admin-general-settings.php:116
+msgid "Mobile front page"
+msgstr "หน้าแรกบนมือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:117
+msgid "You can set a different front page for WPtouch Pro visitors."
+msgstr "คุณสามารถตั้งหน้าแรกที่แตกแต่างกันให้ผู้เยี่ยมชม WPtouch Pro ได้"
+
+#: admin/pages/wptouch-admin-general-settings.php:122
+msgid "Redirect to a page"
+msgstr "เปลี่ยนเส้นทางไปยังหน้า"
+
+#: admin/pages/wptouch-admin-general-settings.php:123
+msgctxt "Refers to a custom landing page"
+msgid "Redirect to a custom URL"
+msgstr "เปลี่ยนเส้นทางไปยัง URL ที่กำหนดเอง"
+
+#: admin/pages/wptouch-admin-general-settings.php:129
+msgid "Custom Slug or URL"
+msgstr "Slug หรือ URL ที่กำหนดเอง"
+
+#: admin/pages/wptouch-admin-general-settings.php:130
+msgid "Enter a Slug (i.e. \"/home\") or a full URL path"
+msgstr "ป้อน Slug (อย่างเช่น \"/home\") หรือชื่อ URL เต็ม"
+
+#: admin/pages/wptouch-admin-general-settings.php:148
+msgid "Landing Pages"
+msgstr "หน้าแรก"
+
+#: admin/pages/wptouch-admin-general-settings.php:157
+msgid "Desktop / Mobile Switching"
+msgstr "การสลับใช้บนเดสก์ทอป / มือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:163
+msgctxt "switches between desktop and mobile themes"
+msgid "Theme switch toggle"
+msgstr "สลับเปลี่ยนธีม"
+
+#: admin/pages/wptouch-admin-general-settings.php:174
+msgid "Shows a toggle in both the desktop mobile theme footers allowing users to switch between them."
+msgstr "แสดงลิงค์สลับเปลี่ยนธีมทั้งแบบเดสก์ทอปมือถือในส่วนท้าย เพื่อให้ผู้ใช้กดสลับธีมได้"
+
+#: admin/pages/wptouch-admin-general-settings.php:179
+msgid "Page Zoom"
+msgstr "ซูมหน้า"
+
+#: admin/pages/wptouch-admin-general-settings.php:185
+msgid "Allow mobile browser zooming"
+msgstr "อนุญาตให้ซูมเบราเซอร์มือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:186
+msgid "By default WPtouch Pro disables browser zooming."
+msgstr "ค่าตั้งต้นของ WPtouch Pro จะปิดใช้งานการซูมเบราเซอร์"
+
+#: admin/pages/wptouch-admin-general-settings.php:199
+msgid "Smart App Banner"
+msgstr "แบนเนอร์สมาร์ทแอป"
+
+#: admin/pages/wptouch-admin-general-settings.php:216
+msgid "Find your ID from the %siTunes Link Maker%s."
+msgstr "ค้นหา ID ของคุณจาก %sโปรแกรมทำลิงค์ iTunes%s"
+
+#: admin/pages/wptouch-admin-general-settings.php:221
+msgid "Analytics"
+msgstr "วิเคราะห์"
+
+#: admin/pages/wptouch-admin-general-settings.php:227
+msgid "Analytics Code"
+msgstr "วิเคราะห์รหัส"
+
+#: admin/pages/wptouch-admin-general-settings.php:232
+#: admin/pages/wptouch-admin-general-settings.php:660
+#: advertising/advertising.php:33 infinity-cache/infinity-cache.php:246
+msgid "None"
+msgstr "ไม่มี"
+
+#: admin/pages/wptouch-admin-general-settings.php:242
+msgid "Site ID"
+msgstr "ID ไซต์"
+
+#: admin/pages/wptouch-admin-general-settings.php:266
+msgid "WPtouch Pro Love"
+msgstr "ถูกใจ WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:272
+msgid "Show powered by WPtouch Pro link in theme footer"
+msgstr "แสดงลิงค์ WPtouch Pro ในส่วนท้ายของธีม"
+
+#: admin/pages/wptouch-admin-general-settings.php:284
+msgid "Language"
+msgstr "ภาษา"
+
+#: admin/pages/wptouch-admin-general-settings.php:290
+msgid "Theme Language"
+msgstr "ภาษาในธีม"
+
+#: admin/pages/wptouch-admin-general-settings.php:300
+msgid "Also applies to admin"
+msgstr "ใช้กับผู้ดูแลระบบด้วย"
+
+#: admin/pages/wptouch-admin-general-settings.php:320
+msgctxt "shortcodes are pieces of code [like_this] that users can drop into textareas that will convert to longer pieces of code"
+msgid "Shortcodes"
+msgstr "ชอร์ตโค้ด"
+
+#: admin/pages/wptouch-admin-general-settings.php:326
+msgid "Process desktop theme shortcodes"
+msgstr "จัดการรหัสย่อธีมเดสก์ทอป"
+
+#: admin/pages/wptouch-admin-general-settings.php:336
+msgid "Filter out shortcodes"
+msgstr "กรองรหัสย่อ"
+
+#: admin/pages/wptouch-admin-general-settings.php:337
+msgid "Filters out shortcodes from displaying when WPtouch Pro is active."
+msgstr "กรองรหัสย่อออกจากการแสดงผล เวลาที่มีการใช้งาน WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:351
+msgid "Active Plugins"
+msgstr "ปลั๊กอินที่ใช้งาน"
+
+#: admin/pages/wptouch-admin-general-settings.php:362
+msgid "Attempts to disable plugins for mobile visitors. Some plugins don‘t support this feature due to the way they load in WordPress."
+msgstr "มีความพยายามในการปิดใช้ปลั๊กอินสำหรับผู้เข้าชมบนมือถือ บางปลั๊กอินไม่รองรับคุณสมบัตินี้ เนื่องจากการโหลดใน WordPress"
+
+#: admin/pages/wptouch-admin-general-settings.php:373
+msgid "Mobile Devices & Browsers"
+msgstr "อุปกรณ์และเบราเซอร์บนมือถือ"
+
+#: admin/pages/wptouch-admin-general-settings.php:445
+#: mobilestore/root-functions.php:7
+msgid "Tablets"
+msgstr "แท็บเล็ต"
+
+#: admin/pages/wptouch-admin-general-settings.php:514
+msgid "Tablet Devices & Browsers"
+msgstr "อุปกรณ์และเบราเซอร์บนแท็บเลต"
+
+#: admin/pages/wptouch-admin-general-settings.php:531
+msgid "If your theme supports tablets, devices and browsers WPtouch Pro can be enabled for will be listed below."
+msgstr "อุปกรณ์แท็บเล็ตและเบราว์เซอร์ที่ Pro WPtouch สามารถใช้งานได้มีรายชื่อแสดงไว้ด้านล่าง หากธีมของคุณสนับสนุนแท็บเล็ต"
+
+#: admin/pages/wptouch-admin-general-settings.php:537
+msgid "Additional User Agents"
+msgstr "ตัวแทนผู้ใช้เพิ่มเติม"
+
+#: admin/pages/wptouch-admin-general-settings.php:543
+msgid "User agents to add"
+msgstr "ตัวแทนผู้ใช้ที่เพิ่ม"
+
+#: admin/pages/wptouch-admin-general-settings.php:544
+msgid "You can enter partial i.e. \"nokia\" or full agent strings"
+msgstr "คุณสามารถใส่บางส่วน เช่น \"โนเกีย\" หรือสตริงตัวแทนเต็มรูปแบบ"
+
+#: admin/pages/wptouch-admin-general-settings.php:562
+msgid "Menu Setup"
+msgstr "ตั้งค่าเมนู"
+
+#: admin/pages/wptouch-admin-general-settings.php:581
+msgid "Menu Options"
+msgstr "ตัวเลือกเมนู"
+
+#: admin/pages/wptouch-admin-general-settings.php:587
+msgid "Enable parent items as links"
+msgstr "เปิดใช้รายการผู้ปกครองเป็นลิงก์"
+
+#: admin/pages/wptouch-admin-general-settings.php:588
+msgid "If disabled, parent menu items will only toggle child items."
+msgstr "ถ้าปิดการใช้งาน รายการเมนูผู้ปกครองจะสลับเฉพาะรายการของเด็กเท่านั้น"
+
+#: admin/pages/wptouch-admin-general-settings.php:597
+msgid "Use menu icons"
+msgstr "ใช้ไอคอนเมนู"
+
+#: admin/pages/wptouch-admin-general-settings.php:598
+msgid "Adds the ability to associate icons with menu items"
+msgstr "เพิ่มความสามารถในการเชื่อมโยงไอคอนกับไอเท็มเมนู"
+
+#: admin/pages/wptouch-admin-general-settings.php:610
+msgid "Menu Icon Sets"
+msgstr "ชุดไอคอนเมนู"
+
+#: admin/pages/wptouch-admin-general-settings.php:623
+#: admin/settings/html/installed_icon_sets_ajax.php:4
+#: core/class-wptouch-pro.php:2015 core/class-wptouch-pro.php:2016
+#: core/config.php:54
+msgid "Custom Icons"
+msgstr "ไอคอนที่กำหนดเอง"
+
+#: admin/pages/wptouch-admin-general-settings.php:654
+msgid "WordPress Pages"
+msgstr "หน้าเว็บเวิร์ดเพรส"
+
+#: admin/pages/wptouch-admin-general-settings.php:672 core/admin-render.php:73
+#: core/config.php:93
+msgid "Customize Theme"
+msgstr "ปรับแต่งธีม"
+
+#: admin/pages/wptouch-admin-touchboard.php:3
+msgid "What's New"
+msgstr "มีอะไรใหม่"
+
+#: admin/settings/html/button.php:6 admin/settings/html/checkbox.php:4
+#: admin/settings/html/checklist.php:6 admin/settings/html/list.php:8
+#: admin/settings/html/multiline-comma.php:9
+#: admin/settings/html/multiline-newline.php:7
+#: admin/settings/html/numeric.php:10 admin/settings/html/radiolist.php:17
+#: admin/settings/html/text.php:8 admin/settings/html/textarea.php:11
+msgid "New"
+msgstr "ใหม่"
+
+#: admin/settings/html/custom-latest-posts.php:1
+msgid "Posts page (blog)"
+msgstr "หน้าโพสต์ (บล็อก)"
+
+#: admin/settings/html/custom_icon_management.php:3
+msgid "No icons have been uploaded yet"
+msgstr "ยังไม่มีไอคอนที่อัปโหลด"
+
+#: admin/settings/html/custom_icon_upload.php:3
+msgid "Upload Icon"
+msgstr "อัปโหลดไอคอน"
+
+#: admin/settings/html/customizing_in_customizer.php:9
+msgid "These settings are handled in the WordPress %s %sAppearance -> Customize%s settings."
+msgstr "การตั้งค่าเหล่านี้จะถูกจัดการใน WordPress %s %sลักษณะ -> ปรับแต่ง%s การตั้งค่า"
+
+#: admin/settings/html/customizing_in_customizer.php:10
+msgid "%sGo to the Customizer%s"
+msgstr "%sไปยังโปรแกรมปรับแต่ง%s"
+
+#: admin/settings/html/debuginfo.php:13
+msgid "View Debug File"
+msgstr "ดูไฟล์ดีบัก"
+
+#: admin/settings/html/debuginfo.php:18
+msgid "Server Configuration"
+msgstr "การกำหนดค่าเซิร์ฟเวอร์"
+
+#: admin/settings/html/extension-browser-item-detail.php:4
+msgid "Back to extensions"
+msgstr "กลับไปยังส่วนขยาย"
+
+#: admin/settings/html/extension-browser-item-detail.php:26
+#: admin/settings/html/theme-browser-item-detail.php:30
+#: admin/settings/html/updates-available.php:7
+msgid "Updating"
+msgstr "กำลังอัปเดต"
+
+#: admin/settings/html/extension-browser-item-detail.php:27
+#: admin/settings/html/updates-available.php:29
+#: admin/settings/html/updates-available.php:52
+msgid "Upgrade to %s"
+msgstr "อัปเกรดไปยัง %s"
+
+#: admin/settings/html/extension-browser-item-detail.php:31
+#: admin/settings/html/theme-browser-item-detail.php:34
+msgid "Download %s Update"
+msgstr "ดาวน์โหลด %s อัปเดท"
+
+#: admin/settings/html/extension-browser-item-detail.php:42
+#: admin/settings/html/theme-browser-item-detail.php:44
+msgid "Available in WPtouch Pro"
+msgstr "มีอยู่ใน WPtouch Pro"
+
+#: admin/settings/html/extension-browser-item-detail.php:48
+#: admin/settings/html/theme-browser-item-detail.php:51
+msgid "More Info"
+msgstr "ข้อมูลเพิ่มเติม"
+
+#: admin/settings/html/extension-browser-item-detail.php:53
+#: admin/settings/html/theme-browser-item-detail.php:57
+msgid "Add to License"
+msgstr "เพิ่มไปยังใบอนุญาต"
+
+#: admin/settings/html/extension-browser-item-detail.php:57
+#: admin/settings/html/theme-browser-item-detail.php:61
+msgid "Get License"
+msgstr "รับใบอนุญาต"
+
+#: admin/settings/html/extension-browser-item-detail.php:82
+msgid "Deactivate"
+msgstr "ปิดการใช้งาน"
+
+#: admin/settings/html/extension-browser-item-detail.php:90
+#: admin/settings/html/theme-browser-item-detail.php:116
+#: core/menu-walkers.php:301
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: admin/settings/html/extension-browser-item-detail.php:95
+#: admin/settings/html/theme-browser-item-detail.php:123
+msgid "Changelog"
+msgstr "บันทึกการปรับปรุง"
+
+#: admin/settings/html/extension-browser.php:3
+#: admin/settings/html/theme-browser.php:3
+#: admin/settings/html/updates-available.php:4
+msgid "Your server configuration is preventing WPtouch Pro from installing and updating from the Cloud. %sPlease visit %sthis article%s to follow the steps to enable Cloud install, or you can manually download and install into the wptouch-data/%s directory."
+msgstr "การกำหนดค่าเซิร์ฟเวอร์ของคุณจะกันไม่ให้ WPtouch Pro ทำการติดตั้งและอัปเดทจาก Cloud ได้ %sกรุณาดู %sบทความนี้%s เพื่อปฏิบัติตามขั้นตอนต่างๆ ในการติดตั้ง Cloud หรือคุณสามารถดาวน์โหลดและติดตั้งลงไดเรกทอรี wptouch-data%s ได้ด้วยตัวเอง"
+
+#: admin/settings/html/image-upload.php:7 core/class-wptouch-pro.php:853
+msgid "Upload Complete!"
+msgstr "อัปโหลดเรียบร้อย!"
+
+#: admin/settings/html/image-upload.php:17
+msgid "Delete"
+msgstr "ลบ"
+
+#: admin/settings/html/installed_icon_sets.php:3
+msgid "Loading icon sets"
+msgstr "กำลังโหลดชุดไอคอน"
+
+#: admin/settings/html/installed_icon_sets.php:7
+msgid "The %s%s%s directory is not writable. %sPlease fix this issue to install additional icon sets."
+msgstr "%s%s%s ไม่สามารถเขียนไดเรกทอรีได้ %sโปรดแก้ไขปัญหานี้เพื่อติดตั้งชุดไอคอนเพิ่มเติม"
+
+#: admin/settings/html/installed_icon_sets_ajax.php:25
+#: core/class-wptouch-pro.php:859
+msgid "Installing"
+msgstr "กำลังติดตั้ง"
+
+#: admin/settings/html/installed_icon_sets_ajax.php:25
+#: core/class-wptouch-pro.php:858
+msgid "Install"
+msgstr "ติดตั้ง"
+
+#: admin/settings/html/installed_icon_sets_ajax.php:27
+msgid "Unable to Install"
+msgstr "ไม่สามารถติดตั้งได้"
+
+#: admin/settings/html/menus_in_menus.php:9
+msgid "These settings are handled in the WordPress %s %sAppearance -> Menus%s settings"
+msgstr "การตั้งค่าเหล่านี้จะถูกจัดการใน WordPress %s %sลักษณะ -> การตั้งค่า%s เมนู"
+
+#: admin/settings/html/menus_in_menus.php:10
+msgid "%sGo to Menu Settings%s"
+msgstr "%sไปที่การตั้งค่าเมนู%s"
+
+#: admin/settings/html/no_tablet_support.php:6
+msgid "You're using %s, which currently does not support tablets."
+msgstr "คุณกำลังใช้ %s ซึ่งปัจจุบันไม่รองรับแท็บเลต"
+
+#: admin/settings/html/plugin-compat-ajax.php:10
+#: themes/foundation/modules/custom-posts/custom-posts.php:180
+msgid "%s"
+msgstr "%s"
+
+#: admin/settings/html/plugin-compat-ajax.php:19
+msgid "No plugins activated to disable."
+msgstr "ไม่มีปลั๊กอินใดเปิดไว้ให้ปิดได้"
+
+#: admin/settings/html/plugin-compat.php:3
+msgid "Your active plugin list is refreshing"
+msgstr "กำลังรีเฟรชปลั๊กอินที่คุณใช้งาน"
+
+#: admin/settings/html/redirect.php:1
+msgid "Redirect target"
+msgstr "เปลี่ยนเส้นทางเป้าหมาย"
+
+#: admin/settings/html/theme-browser-item-detail.php:4
+msgid "Back to themes"
+msgstr "กลับไปยังธีม"
+
+#: admin/settings/html/theme-browser-item-detail.php:25
+msgid "Customize"
+msgstr "ปรับแต่ง"
+
+#: admin/settings/html/theme-browser-item-detail.php:31
+msgid "Update to %s"
+msgstr "อัปเดทไปยัง %s"
+
+#: admin/settings/html/theme-browser-item-detail.php:70
+msgid "Buy Now"
+msgstr "ซื้อเลย"
+
+#: admin/settings/html/theme-browser-item-detail.php:101
+msgid "Screenshots"
+msgstr "ภาพหน้าจอ"
+
+#: admin/settings/html/touchboard.php:6
+msgid "Quick Links"
+msgstr "ลิงค์ที่ใช้บ่อย"
+
+#: admin/settings/html/touchboard.php:8
+msgid "What's New Changelog"
+msgstr "มีเชนจ์ล็อกอะไรใหม่"
+
+#: admin/settings/html/touchboard.php:11
+msgid "Knowledgebase & Support"
+msgstr "ฐานความรู้และการสนับสนุน"
+
+#: admin/settings/html/touchboard.php:12
+msgid "Manage Account & License"
+msgstr "จัดการบัญชีและใบอนุญาต"
+
+#: admin/settings/html/touchboard.php:14
+msgid "WPtouch User Guide"
+msgstr "คู่มือผู้ใช้งาน WPtouch"
+
+#: admin/settings/html/touchboard.php:15
+msgid "Mobile-Friendly Guide"
+msgstr "คู่มือที่ใช้ได้ดีบนมือถือ"
+
+#: admin/settings/html/touchboard.php:17
+msgid "WPtouch on Twitter"
+msgstr "WPtouch บน Twitter"
+
+#: admin/settings/html/touchboard.php:20
+msgid "Look at Pro Themes"
+msgstr "ดูธีมโปร"
+
+#: admin/settings/html/touchboard.php:21
+msgid "Look at Pro Extensions"
+msgstr "ดูส่วนขยายรุ่นโปร"
+
+#: admin/settings/html/touchboard.php:22
+msgid "Look at Pro Features"
+msgstr "ดูคุณสมบัติรุ่นโปร"
+
+#: admin/settings/html/touchboard.php:29
+msgid "WPtouch News"
+msgstr "ข่าว WPtouch"
+
+#: admin/settings/html/touchboard.php:30
+msgid "Read More"
+msgstr "อ่านเพิ่มเติม"
+
+#: admin/settings/html/touchboard.php:42
+msgid "%s Change Log"
+msgstr "%s Change Log"
+
+#: admin/settings/html/updates-available.php:7
+msgid "Update All"
+msgstr "อัปเดตทั้งหมด"
+
+#: admin/settings/html/updates-available.php:12 core/admin-render.php:67
+#: core/admin-render.php:69 core/config.php:94
+msgid "Themes"
+msgstr "ธีม"
+
+#: admin/settings/html/updates-available.php:40 core/admin-render.php:76
+#: core/admin-render.php:78 core/config.php:95
+msgid "Extensions"
+msgstr "ส่วนขยาย"
+
+#: advanced-type/advanced-type.php:46
+msgid "%sAdvanced Type for WPtouch Pro%s requires %s to be enabled on your server to load web fonts. Please enable this function on your webhost."
+msgstr "%sAdvanced Type ของ WPtouch Pro%s ต้องมี %s เพื่อเปิดใช้บนเซิร์ฟเวอร์ของคุณเพื่อโหลดแบบอักษรบนเว็บ โปรดเปิดใช้ฟังก์ชันนี้บนเว็บโฮสต์ของคุณ"
+
+#: advanced-type/advanced-type.php:98
+msgid "Load Fonts"
+msgstr "โหลดแบบอักษร"
+
+#: advanced-type/advanced-type.php:99
+msgid "Could not load your fonts. Please check project/kit details and reload."
+msgstr "ไม่สามารถโหลดแบบอักษรของคุณได้ โปรดตรวจสอบรายละเอียดโครงการ/ชุดอุปกรณ์แล้วโหลดใหม่"
+
+#: advanced-type/advanced-type.php:255 advanced-type/advanced-type.php:277
+msgid "Font Source"
+msgstr "แหล่งที่มาของแบบอักษร"
+
+#: advanced-type/advanced-type.php:261 advanced-type/advanced-type.php:283
+msgid "Select the source for your web fonts"
+msgstr "เลือกแหล่งที่มาของแบบอักษรของคุณ"
+
+#: advanced-type/advanced-type.php:262
+msgid "Other options will become available once allow_url_fopen is enabled"
+msgstr "ตัวเลือกอื่นจะใช้ได้เมื่อเปิดใช้งาน allow_url_fopen"
+
+#: advanced-type/advanced-type.php:266
+msgid "Theme Font Pairings"
+msgstr "เปรียบเทียบแบบอักษรบนธีม"
+
+#: advanced-type/advanced-type.php:300
+msgid "Typekit"
+msgstr "Typekit"
+
+#: advanced-type/advanced-type.php:319
+msgid "Fontdeck"
+msgstr "Fontdeck"
+
+#: advanced-type/advanced-type.php:325
+msgid "Domain"
+msgstr "โดเมน"
+
+#: advanced-type/advanced-type.php:333
+msgid "Project"
+msgstr "โครงการ"
+
+#: advanced-type/advanced-type.php:346
+msgid "Latin"
+msgstr "ละติน"
+
+#: advanced-type/advanced-type.php:347
+msgid "Latin Extended"
+msgstr "ละตินพร้อมส่วนขยาย"
+
+#: advanced-type/advanced-type.php:348
+msgid "Cyrillic"
+msgstr "ซีริลลิค"
+
+#: advanced-type/advanced-type.php:349
+msgid "Cyrillic Extended"
+msgstr "Cyrillic Extended"
+
+#: advanced-type/advanced-type.php:350
+msgid "Greek"
+msgstr "กรีก"
+
+#: advanced-type/advanced-type.php:351
+msgid "Greek Extended"
+msgstr "กรีกพร้อมส่วนขยาย"
+
+#: advanced-type/advanced-type.php:352
+msgid "Devanagari"
+msgstr "เทวนาครี"
+
+#: advanced-type/advanced-type.php:353
+msgid "Vietnamese"
+msgstr "เวียตนาม"
+
+#: advanced-type/advanced-type.php:360
+msgid "Google Font Subsets"
+msgstr "Google Font ชุดย่อย"
+
+#: advanced-type/advanced-type.php:366
+msgid "Load subsets"
+msgstr "โหลดส่วนย่อย"
+
+#: advanced-type/advanced-type.php:376
+msgid "Google fonts are available in multiple character sets. WPtouch Pro will load your selected subsets when available."
+msgstr "Google fonts มีอยู่ในหลายชุดอักขระ WPtouch Pro จะโหลดชุดย่อยที่คุณเลือกเมื่อพร้อมให้ใช้งาน"
+
+#: advanced-type/advanced-type.php:418
+msgid "Heading"
+msgstr "หัวเรื่อง"
+
+#: advanced-type/advanced-type.php:419
+msgid "Body"
+msgstr "เนื้อหา"
+
+#: advanced-type/advanced-type.php:420
+msgid "Meta"
+msgstr "เมต้า"
+
+#: advanced-type/advanced-type.php:445
+msgid "Advanced Type"
+msgstr "Advanced Type"
+
+#: advanced-type/advanced-type.php:457
+msgid "Setup Fonts"
+msgstr "ติดตั้งแบบอักษร"
+
+#: advertising/advertising.php:4
+msgid "Basic Ads"
+msgstr "โฆษณาพื้นฐาน"
+
+#: advertising/advertising.php:22
+msgid "Service"
+msgstr "บริการ"
+
+#: advertising/advertising.php:28
+msgid "Advertising type"
+msgstr "ประเภทโฆษณา"
+
+#: advertising/advertising.php:34
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+#: advertising/advertising.php:35
+msgctxt "Refers to a custom advertising service"
+msgid "Custom"
+msgstr "กำหนดเอง"
+
+#: advertising/advertising.php:45
+msgid "Google AdSense"
+msgstr "Google AdSense"
+
+#: advertising/advertising.php:51
+msgid "Publisher ID"
+msgstr "รหัสผู้เผยแพร่"
+
+#: advertising/advertising.php:59
+msgid "Slot ID"
+msgstr "รหัสช่อง"
+
+#: advertising/advertising.php:67
+msgid "Code Type"
+msgstr "ชนิดของรหัส"
+
+#: advertising/advertising.php:80
+msgid "Custom Ads"
+msgstr "โฆษณาที่กำหนดเอง"
+
+#: advertising/advertising.php:86
+msgid "Mobile advertising script"
+msgstr "สคริปท์โฆษณาบนโทรศัพท์มือถือ"
+
+#: advertising/advertising.php:99
+msgid "Ad Presentation"
+msgstr "การนำเสนอโฆษณา"
+
+#: advertising/advertising.php:105
+msgid "Theme location"
+msgstr "ตำแหน่งธีม"
+
+#: advertising/advertising.php:110
+msgid "In the header"
+msgstr "ในส่วนหัว"
+
+#: advertising/advertising.php:111
+msgid "Above the page content"
+msgstr "ด้านบนเนื้อหาหน้าเพจ"
+
+#: advertising/advertising.php:112
+msgid "Below the page content"
+msgstr "ใต้เนื้อหาหน้าเพจ"
+
+#: advertising/advertising.php:121
+msgid "Active Pages"
+msgstr "หน้าที่ใช้"
+
+#: advertising/advertising.php:124
+msgid "Blog listings"
+msgstr "รายชื่อบล็อก"
+
+#: advertising/advertising.php:125
+msgid "Single posts"
+msgstr "หน้าโพสต์เดี่ยว"
+
+#: advertising/advertising.php:126
+msgid "Static pages"
+msgstr "หน้าเพจตายตัว"
+
+#: advertising/advertising.php:127
+msgid "Taxonomy"
+msgstr "การจัดหมวดหมู่"
+
+#: advertising/advertising.php:128
+msgid "Search results"
+msgstr "ผลการค้นหา"
+
+#: bauhaus/default/404.php:6 classic-redux/default/404.php:6
+#: mobilestore/default/404.php:6 open/default/404.php:6
+#: prose/default/404.php:6 simple/default/404.php:6
+#: themes/foundation/default/404.php:6
+msgid "404 Not Found"
+msgstr "404 ไม่พบ"
+
+#: bauhaus/default/404.php:8 classic-redux/default/404.php:8
+#: mobilestore/default/404.php:8 open/default/404.php:8
+#: prose/default/404.php:8 simple/default/404.php:8
+#: themes/foundation/default/404.php:8
+msgid "The post or page you requested is no longer available."
+msgstr "โพสต์หรือหน้าเว็บที่คุณร้องขอไม่สามารถใช้ได้อีก"
+
+#: bauhaus/default/attachment.php:10 classic-redux/default/attachment.php:10
+#: mobilestore/default/attachment.php:10 open/default/attachment.php:10
+#: prose/default/attachment.php:10 simple/default/attachment.php:10
+#: themes/foundation/default/attachment.php:10
+msgid "Back to %s"
+msgstr "ย้อนกลับไปยัง %s"
+
+#: bauhaus/default/attachment.php:47 classic-redux/default/attachment.php:47
+#: mobilestore/default/attachment.php:47 open/default/attachment.php:47
+#: prose/default/attachment.php:47 simple/default/attachment.php:47
+#: themes/foundation/default/attachment.php:47
+msgid "&laquo; previous in gallery"
+msgstr "&laquo; ก่อนหน้านี้ในคลังภาพ"
+
+#: bauhaus/default/attachment.php:49 classic-redux/default/attachment.php:49
+#: mobilestore/default/attachment.php:49 open/default/attachment.php:49
+#: prose/default/attachment.php:49 simple/default/attachment.php:49
+#: themes/foundation/default/attachment.php:49
+msgid "next in gallery &raquo;"
+msgstr "ถัดไปในคลังภาพ &raquo;"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "no responses"
+msgstr "ไม่มีการตอบสนอง"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "1 response"
+msgstr "1 การตอบสนอง"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "% responses"
+msgstr "% การตอบสนอง"
+
+#: bauhaus/default/comments.php:20 bauhaus/default/comments.php:26
+#: classic-redux/default/comments.php:20 classic-redux/default/comments.php:26
+#: cms/default/comments.php:20 cms/default/comments.php:26
+#: mobilestore/default/comments.php:20 mobilestore/default/comments.php:26
+#: open/default/comments.php:20 open/default/comments.php:26
+#: prose/default/comments.php:20 prose/default/comments.php:26
+#: simple/default/comments.php:20 simple/default/comments.php:26
+#: themes/foundation/default/comments.php:20
+#: themes/foundation/default/comments.php:26
+msgid "Load More Comments&hellip;"
+msgstr "โหลดความคิดเห็นเพิ่มเติม&hellip;"
+
+#: bauhaus/default/comments.php:38 classic-redux/default/comments.php:38
+#: cms/default/comments.php:38 mobilestore/default/comments.php:38
+#: open/default/comments.php:38 prose/default/comments.php:38
+#: simple/default/comments.php:38 themes/foundation/default/comments.php:38
+msgid "Comments are closed"
+msgstr "ปิดรับความคิดเห็นแล้ว"
+
+#: bauhaus/default/comments.php:48 classic-redux/default/comments.php:48
+#: cms/default/comments.php:48 core/menu-walkers.php:352
+#: mobilestore/default/comments.php:48
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:91
+#: open/default/comments.php:48 prose/default/comments.php:48
+#: simple/default/comments.php:48 themes/foundation/default/comments.php:48
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: bauhaus/default/comments.php:51 classic-redux/default/comments.php:51
+#: cms/default/comments.php:51 mobilestore/default/comments.php:51
+#: open/default/comments.php:51 prose/default/comments.php:51
+#: simple/default/comments.php:51 themes/foundation/default/comments.php:51
+msgid "Leave a Reply"
+msgstr "ตอบกลับ"
+
+#: bauhaus/default/comments.php:51 classic-redux/default/comments.php:51
+#: cms/default/comments.php:51 mobilestore/default/comments.php:51
+#: open/default/comments.php:51 prose/default/comments.php:51
+#: simple/default/comments.php:51 themes/foundation/default/comments.php:51
+msgid "Leave a Reply to %s"
+msgstr "ตอบกลับไปยัง %s"
+
+#: bauhaus/default/comments.php:54 classic-redux/default/comments.php:54
+#: cms/default/comments.php:54 mobilestore/default/comments.php:54
+#: open/default/comments.php:54 prose/default/comments.php:54
+#: simple/default/comments.php:54 themes/foundation/default/comments.php:54
+msgid "You must be %slogged in%s to post a comment."
+msgstr "คุณต้อง %sเข้าสู่ระบบ%s เพื่อแสดงความคิดเห็น"
+
+#: bauhaus/default/comments.php:61 classic-redux/default/comments.php:61
+#: cms/default/comments.php:61 mobilestore/default/comments.php:61
+#: open/default/comments.php:61 prose/default/comments.php:61
+#: simple/default/comments.php:61 themes/foundation/default/comments.php:61
+msgid "Logged in as"
+msgstr "เข้าสู่ระบบในชื่อ"
+
+#: bauhaus/default/comments.php:61 classic-redux/default/comments.php:61
+#: cms/default/comments.php:61 mobilestore/default/comments.php:61
+#: open/default/comments.php:61 prose/default/comments.php:61
+#: simple/default/comments.php:61 themes/foundation/default/comments.php:61
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+#: bauhaus/default/comments.php:65 classic-redux/default/comments.php:65
+#: cms/default/comments.php:65 mobilestore/default/comments.php:65
+#: open/default/comments.php:65 prose/default/comments.php:65
+#: simple/default/comments.php:65 themes/foundation/default/comments.php:65
+msgid "Name"
+msgstr "ชื่อ"
+
+#: bauhaus/default/comments.php:67 classic-redux/default/comments.php:67
+#: cms/default/comments.php:67 mobilestore/default/comments.php:67
+#: open/default/comments.php:67 prose/default/comments.php:67
+#: simple/default/comments.php:67 themes/foundation/default/comments.php:67
+#: themes/foundation/modules/social-links/social-links.php:94
+msgid "E-Mail"
+msgstr "อีเมล"
+
+#: bauhaus/default/comments.php:69 classic-redux/default/comments.php:69
+#: cms/default/comments.php:69 mobilestore/default/comments.php:69
+#: open/default/comments.php:69 prose/default/comments.php:69
+#: simple/default/comments.php:69 themes/foundation/default/comments.php:69
+msgid "Website"
+msgstr "เว็บไซต์"
+
+#: bauhaus/default/comments.php:77 classic-redux/default/comments.php:77
+#: cms/default/comments.php:77 mobilestore/default/comments.php:77
+#: open/default/comments.php:77 prose/default/comments.php:77
+#: simple/default/comments.php:77 themes/foundation/default/comments.php:77
+msgid "Publish"
+msgstr "เผยแพร่"
+
+#: bauhaus/default/footer.php:10 cms/default/footer.php:10
+#: mobilestore/default/footer.php:10 open/default/footer.php:10
+#: prose/default/footer.php:10 simple/default/footer.php:10
+#: themes/foundation/default/footer.php:10
+msgid "Back to top"
+msgstr "กลับขึ้นข้างบน"
+
+#: bauhaus/default/header-bottom.php:13 bauhaus/default/header-bottom.php:15
+#: blueprint/default/header-bottom.php:35
+#: classic-redux/default/header-bottom.php:50
+#: simple/default/header-bottom.php:26
+msgid "Logout"
+msgstr "ออกจากระบบ"
+
+#: bauhaus/default/header-bottom.php:47 blueprint/default/header-bottom.php:24
+#: classic-redux/default/header-bottom.php:73
+msgid "Search this website"
+msgstr "ค้นหาเว็บไซต์นี้"
+
+#: bauhaus/default/header-bottom.php:48 blueprint/default/header-bottom.php:14
+#: blueprint/default/header-bottom.php:25
+#: classic-redux/default/header-bottom.php:44
+#: classic-redux/default/header-bottom.php:75 cms/root-functions.php:199
+#: mobilestore/default/header-bottom.php:87
+msgid "Search"
+msgstr "ค้นหา"
+
+#: bauhaus/default/index.php:33 classic-redux/default/index.php:34
+#: cms/default/header-bottom.php:67 cms/default/index.php:33
+#: mobilestore/default/index.php:33 open/default/index.php:45
+#: prose/default/index.php:33 simple/default/index.php:33
+#: themes/foundation/default/index.php:33
+msgid "newer posts"
+msgstr "โพสต์ที่ใหม่กว่า"
+
+#: bauhaus/default/index.php:33 classic-redux/default/index.php:34
+#: cms/default/header-bottom.php:63 cms/default/index.php:33
+#: mobilestore/default/index.php:33 open/default/index.php:45
+#: prose/default/index.php:33 simple/default/index.php:33
+#: themes/foundation/default/index.php:33
+msgid "older posts"
+msgstr "โพสต์ที่เก่ากว่า"
+
+#: bauhaus/default/nav-bar.php:6 classic-redux/default/nav-bar.php:6
+#: cms/default/nav-bar.php:6 mobilestore/default/nav-bar.php:6
+#: open/default/nav-bar.php:6 prose/default/nav-bar.php:6
+#: simple/default/nav-bar.php:6 themes/foundation/default/nav-bar.php:6
+msgid "previous post"
+msgstr "โพสต์ก่อนหน้า"
+
+#: bauhaus/default/nav-bar.php:13 classic-redux/default/nav-bar.php:12
+#: cms/default/nav-bar.php:13 mobilestore/default/nav-bar.php:12
+#: open/default/nav-bar.php:12 prose/default/nav-bar.php:12
+#: simple/default/nav-bar.php:12 themes/foundation/default/nav-bar.php:12
+msgid "next post"
+msgstr "โพสต์ถัดไป"
+
+#: bauhaus/default/one-comment.php:17 classic-redux/default/one-comment.php:17
+#: cms/default/one-comment.php:17 mobilestore/default/one-comment.php:17
+#: open/default/one-comment.php:17 prose/default/one-comment.php:17
+#: simple/default/one-comment.php:17
+#: themes/foundation/default/one-comment.php:17
+msgid "Your comment is awaiting moderation"
+msgstr "ความคิดเห็นของคุณกำลังรอการกลั่นกรอง"
+
+#: bauhaus/default/one-comment.php:21 classic-redux/default/one-comment.php:21
+#: cms/default/one-comment.php:21 mobilestore/default/one-comment.php:21
+#: open/default/one-comment.php:21 prose/default/one-comment.php:21
+#: simple/default/one-comment.php:21
+#: themes/foundation/default/one-comment.php:21
+msgid "Reply"
+msgstr "ตอบกลับ"
+
+#: bauhaus/default/post-loop.php:22 classic-redux/default/post-loop.php:24
+msgid "by"
+msgstr "โดย"
+
+#: bauhaus/default/related-posts.php:4
+#: related-posts/template/related-posts.php:3
+#: themes/foundation/default/related-posts.php:4
+msgid "Related"
+msgstr "ที่เกี่ยวข้อง"
+
+#: bauhaus/default/search.php:19 classic-redux/default/search.php:5
+#: cms/default/search.php:6 mobilestore/default/search.php:6
+#: open/default/search.php:6 simple/default/search.php:6
+#: themes/foundation/default/search.php:6
+msgid "You searched for \"%s\""
+msgstr "คุณได้ค้นหา \"%s\""
+
+#: bauhaus/default/search.php:27
+msgid "Show %s Results"
+msgstr "แสดง %s ผลลัพธ์"
+
+#: bauhaus/default/search.php:52 bauhaus/default/search.php:69
+msgid "No results found"
+msgstr "ไม่พบผลลัพธ์"
+
+#: bauhaus/default/search.php:60 classic-redux/default/search.php:47
+#: cms/default/search.php:43 mobilestore/default/search.php:43
+#: open/default/search.php:43 simple/default/search.php:43
+#: themes/foundation/default/search.php:43
+msgid "Load more %s results"
+msgstr "โหลดผลลัพธ์เพิ่มอีก %s รายการ"
+
+#: bauhaus/default/sharing.php:2 classic-redux/default/sharing.php:2
+#: cms/default/sharing.php:2 mobilestore/default/sharing.php:2
+#: open/default/sharing.php:2 prose/default/sharing.php:2
+#: simple/default/sharing.php:2 themes/foundation/default/sharing.php:2
+msgid "Share"
+msgstr "แบ่งปัน"
+
+#: bauhaus/default/sharing.php:3 classic-redux/default/sharing.php:3
+#: cms/default/sharing.php:3 mobilestore/default/sharing.php:3
+#: open/default/sharing.php:3 prose/default/sharing.php:3
+#: simple/default/sharing.php:3 themes/foundation/default/sharing.php:3
+msgid "Tweet"
+msgstr "ทวีต"
+
+#: bauhaus/default/sharing.php:4 classic-redux/default/sharing.php:4
+#: cms/default/sharing.php:4 mobilestore/default/sharing.php:4
+#: open/default/sharing.php:4 prose/default/sharing.php:4
+#: simple/default/sharing.php:4 themes/foundation/default/sharing.php:4
+msgid "Pin"
+msgstr "ปักหมุด"
+
+#: bauhaus/default/sharing.php:5 classic-redux/default/sharing.php:5
+#: cms/default/sharing.php:5 mobilestore/default/sharing.php:5
+#: open/default/sharing.php:5 prose/default/sharing.php:5
+#: simple/default/sharing.php:5 themes/foundation/default/sharing.php:5
+msgid "Mail"
+msgstr "จดหมาย"
+
+#: bauhaus/default/single.php:16
+msgid "no comments"
+msgstr "ไม่มีความคิดเห็น"
+
+#: bauhaus/default/single.php:16
+msgid "1 comment"
+msgstr "1 ความคิดเห็น"
+
+#: bauhaus/default/single.php:16
+msgid "% comments"
+msgstr "% ความคิดเห็น"
+
+#: bauhaus/default/single.php:36 classic-redux/default/header-bottom.php:37
+#: classic-redux/default/header-bottom.php:58
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: bauhaus/default/single.php:39 classic-redux/default/header-bottom.php:41
+#: classic-redux/default/header-bottom.php:65
+msgid "Tags"
+msgstr "แท็ก"
+
+#: bauhaus/default/switch-link.php:8 classic-redux/default/switch-link.php:8
+#: cms/default/switch-link.php:8 mobilestore/default/switch-link.php:8
+#: open/default/switch-link.php:8 prose/default/switch-link.php:8
+#: simple/default/switch-link.php:8
+#: themes/foundation/default/switch-link.php:8
+msgid "mobile"
+msgstr "มือถือ"
+
+#: bauhaus/default/switch-link.php:9 classic-redux/default/switch-link.php:9
+#: cms/default/switch-link.php:9 mobilestore/default/switch-link.php:9
+#: open/default/switch-link.php:9 prose/default/switch-link.php:9
+#: simple/default/switch-link.php:9
+#: themes/foundation/default/switch-link.php:9
+msgid "desktop"
+msgstr "เดสก์ทอป"
+
+#: bauhaus/root-functions.php:117 classic-redux/root-functions.php:89
+msgid "Header Menu"
+msgstr "เมนูส่วนหัว"
+
+#: bauhaus/root-functions.php:119 blueprint/root-functions.php:65
+#: classic-redux/root-functions.php:91 cms/root-functions.php:91
+#: cms/root-functions.php:100 mobilestore/root-functions.php:264
+#: mobilestore/root-functions.php:276 open/root-functions.php:105
+#: prose/root-functions.php:211 simple/root-functions.php:56
+#: simple/root-functions.php:66
+msgid "Choose a menu"
+msgstr "เลือกเมนู"
+
+#: bauhaus/root-functions.php:120
+msgid "Main menu selection"
+msgstr "การเลือกเมนูหลัก"
+
+#: bauhaus/root-functions.php:127 blueprint/root-functions.php:73
+#: classic-redux/root-functions.php:99 cms/root-functions.php:107
+#: open/root-functions.php:114 prose/root-functions.php:219
+#: simple/root-functions.php:74
+msgid "Theme background"
+msgstr "พื้นหลังธีม"
+
+#: bauhaus/root-functions.php:128
+msgid "Header & Menu"
+msgstr "ส่วนหัวและเมนู"
+
+#: bauhaus/root-functions.php:129 blueprint/root-functions.php:74
+#: classic-redux/root-functions.php:100 cms/root-functions.php:108
+#: mobilestore/root-functions.php:315 open/root-functions.php:115
+#: prose/root-functions.php:221 simple/root-functions.php:75
+msgid "Links"
+msgstr "ลิงก์"
+
+#: bauhaus/root-functions.php:130
+msgid "Post/Page Headers"
+msgstr "โพสต์/หัวกระดาษ"
+
+#: bauhaus/root-functions.php:223
+msgid "Menu animation style"
+msgstr "เมนูสไตล์อนิเมชัน"
+
+#: bauhaus/root-functions.php:228
+msgid "Off-canvas"
+msgstr "Off-canvas"
+
+#: bauhaus/root-functions.php:229
+msgid "Drop-down"
+msgstr "แบบเลื่อนลง"
+
+#: bauhaus/root-functions.php:237
+msgid "Show search in header"
+msgstr "แสดงการค้นหาในส่วนหัวกระดาษ"
+
+#: bauhaus/root-functions.php:254 classic-redux/root-functions.php:205
+msgid "Post thumbnails"
+msgstr "โพสต์ภาพขนาดย่อ"
+
+#: bauhaus/root-functions.php:259 classic-redux/root-functions.php:210
+msgid "No thumbnails"
+msgstr "ไม่มีภาพย่อ"
+
+#: bauhaus/root-functions.php:260 classic-redux/root-functions.php:211
+msgid "Blog listing only"
+msgstr "รายการบล็อกเท่านั้น"
+
+#: bauhaus/root-functions.php:261 classic-redux/root-functions.php:212
+msgid "Blog listing, single posts"
+msgstr "รายการบล็อก โพสต์เดียว"
+
+#: bauhaus/root-functions.php:262
+msgid "Blog listing, single posts & pages"
+msgstr "รายชื่อบล็อก หน้าเว็บและหน้าโพสต์เดี่ยว"
+
+#: bauhaus/root-functions.php:263
+msgid "All (blog, single, pages, search & archive)"
+msgstr "(บล็อก, หน้าเดี่ยว, หน้าเว็บ, การค้นหาและเอกสารถาวรทั้งหมด"
+
+#: bauhaus/root-functions.php:271
+msgid "Thumbnail Type"
+msgstr "แบบรูปขนาดย่อ"
+
+#: bauhaus/root-functions.php:276
+msgid "Post featured images"
+msgstr "โพสต์ภาพเด่น"
+
+#: bauhaus/root-functions.php:277 classic-redux/root-functions.php:227
+msgid "Post custom field"
+msgstr "โพสต์ฟิลด์ที่กำหนดเอง"
+
+#: bauhaus/root-functions.php:285 classic-redux/root-functions.php:235
+msgid "Thumbnail custom field name"
+msgstr "รูปย่อชื่อเขตข้อมูลที่กำหนดเอง"
+
+#: bauhaus/root-functions.php:296 classic-redux/root-functions.php:268
+msgid "Show post categories and tags"
+msgstr "แสดงหมวดหมู่และแท็กของโพสต์"
+
+#: bauhaus/root-functions.php:307 classic-redux/root-functions.php:246
+msgid "Show post date"
+msgstr "แสดงวันที่โพสต์"
+
+#: bauhaus/root-functions.php:318 classic-redux/root-functions.php:257
+msgid "Show post author"
+msgstr "แสดงผู้เขียนโพสต์"
+
+#: bauhaus/root-functions.php:329
+msgid "Show comment bubbles on posts"
+msgstr "แสดงกรอบความคิดเห็นบนโพสต์"
+
+#: bauhaus/root-functions.php:340 classic-redux/root-functions.php:279
+msgid "Use infinite scrolling for blog"
+msgstr "ใช้ตัวเลื่อนไม่จำกัดสำหรับบล็อก"
+
+#: blueprint/default/header-bottom.php:13
+#: classic-redux/default/header-bottom.php:23
+#: classic-redux/default/header-bottom.php:34
+#: classic-redux/default/header-bottom.php:109
+#: mobilestore/default/header-bottom.php:57 prose/default/header-bottom.php:21
+msgid "Menu"
+msgstr "เมนู"
+
+#: blueprint/default/header-bottom.php:33
+#: classic-redux/default/header-bottom.php:48
+#: simple/default/header-bottom.php:24
+#: themes/foundation/modules/login/login-html.php:20
+msgid "Login"
+msgstr "เข้าสู่ระบบ"
+
+#: blueprint/root-functions.php:63 mobilestore/root-functions.php:262
+#: open/root-functions.php:103 prose/root-functions.php:209
+msgid "Primary Menu"
+msgstr "เมนูเบื้องต้น"
+
+#: blueprint/root-functions.php:66 open/root-functions.php:106
+msgid "Menus are awesome!"
+msgstr "เมนูยอดเยี่ยมมาก!"
+
+#: classic-redux/default/header-bottom.php:85
+msgid "Tweets"
+msgstr "ทวีต"
+
+#: classic-redux/default/header-bottom.php:89
+msgid "Follow %s on Twitter"
+msgstr "ติดตาม %s บน Twitter"
+
+#: classic-redux/default/post-loop.php:56
+msgid "Read This Post"
+msgstr "อ่านโพสต์นี้"
+
+#: classic-redux/default/search.php:15 cms/default/search.php:16
+#: mobilestore/default/search.php:16 open/default/search.php:16
+#: simple/default/search.php:16 themes/foundation/default/search.php:16
+msgid "%s results"
+msgstr "%s ผลลัพธ์"
+
+#: classic-redux/default/search.php:38 cms/default/search.php:34
+#: mobilestore/default/search.php:34 open/default/search.php:34
+#: simple/default/search.php:34 themes/foundation/default/search.php:34
+msgid "No search results found"
+msgstr "ไม่พบผลลัพธ์ที่ค้นหา"
+
+#: classic-redux/default/single.php:18
+msgid "Written by %s"
+msgstr "เขียนโดย %s"
+
+#: classic-redux/root-functions.php:98 cms/root-functions.php:106
+#: open/root-functions.php:113 simple/root-functions.php:73
+msgid "Header background"
+msgstr "พื้นหลังของส่วนหัว"
+
+#: classic-redux/root-functions.php:213
+msgid "All (blog, single, search and archive)"
+msgstr "(การค้นหาและการจัดเก็บบล็อก, เดี่ยว) ทั้งหมด"
+
+#: classic-redux/root-functions.php:221
+msgid "Thumbnail Selection"
+msgstr "การเลือกภาพย่อ"
+
+#: classic-redux/root-functions.php:226
+msgid "Post featured image"
+msgstr "ภาพเด่นจากโพสต์"
+
+#: classic-redux/root-functions.php:290
+msgid "Use rounded corners"
+msgstr "ใช้มุมโค้งมน"
+
+#: classic-redux/root-functions.php:308
+msgid "Show page title areas on pages"
+msgstr "แสดงพื้นที่ชื่อหน้าบนหน้าเพจ"
+
+#: classic-redux/root-functions.php:322
+msgid "Header Menu Area"
+msgstr "พื้นที่เมนูส่วนหัว"
+
+#: classic-redux/root-functions.php:328
+msgid "Drop-down button says \"Menu\""
+msgstr "ปุ่มแบบเลื่อนลงชื่อ \"เมนู\""
+
+#: classic-redux/root-functions.php:336
+msgid "Show tab bar"
+msgstr "แสดงแท็บบาร์"
+
+#: classic-redux/root-functions.php:344
+msgid "Tab-bar shows categories or tags"
+msgstr "แท็บบาร์แสดงหมวดหมู่หรือแท็ก"
+
+#: classic-redux/root-functions.php:349
+msgid "Categories and tags"
+msgstr "หมวดหมู่และแท็บ"
+
+#: classic-redux/root-functions.php:350
+msgid "Categories only"
+msgstr "หมวดหมู่เท่านั้น"
+
+#: classic-redux/root-functions.php:351
+msgid "Tags only"
+msgstr "แท็กเท่านั้น"
+
+#: classic-redux/root-functions.php:352
+msgid "No categories or tags"
+msgstr "ไม่มีหมวดหมู่หรือแท็ก"
+
+#: classic-redux/root-functions.php:358
+msgid "Max categories / tags"
+msgstr "หมวดหมู่ / แท็กสูงสุด"
+
+#: cms/default/header-bottom.php:17
+msgid "menu"
+msgstr "เมนู"
+
+#: cms/default/header-bottom.php:26
+msgid "login"
+msgstr "เข้าสู่ระบบ"
+
+#: cms/default/header-bottom.php:30
+msgid "logout"
+msgstr "ออกจากระบบ"
+
+#: cms/default/header-bottom.php:44 simple/default/footer-top.php:3
+msgid "search this website"
+msgstr "ค้นหาเว็บไซต์นี้"
+
+#: cms/default/header-bottom.php:45 simple/default/footer-top.php:5
+msgid "search"
+msgstr "ค้นหา"
+
+#: cms/default/single.php:12 themes/foundation/default/single.php:13
+msgid "By"
+msgstr "โดย"
+
+#: cms/root-functions.php:45
+msgid "Alt Menu"
+msgstr "เมนู Alt"
+
+#: cms/root-functions.php:89
+msgid "Main Menu"
+msgstr "เมนูหลัก"
+
+#: cms/root-functions.php:98
+msgid "Alternate Menu"
+msgstr "เมนูทางเลือก"
+
+#: cms/root-functions.php:146
+msgid "Show featured images on single posts"
+msgstr "แสดงภาพเด่นบนโพสต์เดี่ยว"
+
+#: cms/root-functions.php:164
+msgid "Show titles on pages"
+msgstr "แสดงชื่อบนหน้าเว็บ"
+
+#: cms/root-functions.php:180
+msgid "Category Slider"
+msgstr "สไลด์หมวดหมู่"
+
+#: cms/root-functions.php:186
+msgid "Enable category slider"
+msgstr "เปิดใช้งานสไลด์หมวดหมู่"
+
+#: cms/root-functions.php:205
+msgid "Enable search"
+msgstr "เปิดใช้การค้นหา"
+
+#: cms/root-functions.php:219 simple/root-functions.php:219
+msgid "Tiled Background Image"
+msgstr "ภาพพื้นหลังแบบกระเบื้อง"
+
+#: cms/root-functions.php:225 simple/root-functions.php:225
+msgid "(Scaled for retina displays)"
+msgstr "(สเกลสำหรับหน้าจอเรติน่า)"
+
+#: cms/root-functions.php:238
+msgid "Second Menu"
+msgstr "เมนูรอง"
+
+#: cms/root-functions.php:244
+msgid "Second\t menu button label (if used)"
+msgstr "ป้ายปุ่มเมนูรอง (ถ้าใช้)"
+
+#: cms/root-functions.php:259
+msgid "Front Page Alternate Content"
+msgstr "เนื้อหาทางเลือกหน้าหลัก"
+
+#: cms/root-functions.php:265 simple/root-functions.php:206
+msgid "Front page alternate content"
+msgstr "เนื้อหาอื่นบนหน้าเพจแรก"
+
+#: core/addon-theme-installer.php:168
+msgid "No server support for directly downloading new Cloud packages."
+msgstr "ไม่มีเซิร์ฟเวอร์รองรับการดาวน์โหลดแพคเกจ Cloud ใหม่ได้โดยตรง"
+
+#: core/addon-theme-installer.php:173
+msgid "Unable to write to directory %s. Try relaxing permissions to allow writing to this location."
+msgstr "ไม่สามารถเขียนไปยังไดเรกทอรี %s ได้ โปรดลองอนุญาตผ่อนปรนให้เขียนได้ที่ตำแหน่งนี้"
+
+#: core/addon-theme-installer.php:178
+msgid "No server support for unzipping files."
+msgstr "ไม่มีเซิร์ฟเวอร์รองรับการขยายไฟล์"
+
+#: core/addon-theme-installer.php:193
+msgid "Unable to download the Cloud package."
+msgstr "ไม่สามารถดาวน์โหลดแพคเกจ Cloud"
+
+#: core/admin-ajax.php:98
+msgid "Version %s"
+msgstr "รุ่น %s"
+
+#: core/admin-ajax.php:104
+msgid "There is a temporary issue retrieving the change-log.  Please try again later."
+msgstr "พบปัญหาชั่วคราวในการเรียกข้อมูล change-log โปรดลองอีกครั้งในภายหลัง"
+
+#: core/admin-ajax.php:184
+msgid "Code found! %s Analytics was automatically configured for you."
+msgstr "พบรหัสแล้ว! %s สวนช่วยวิเคราะห์จะกำหนดค่าให้คุณโดยอัตโนมัติ"
+
+#: core/admin-ajax.php:203
+msgid "Unable to find your Google Analytics code. You can enter it manually in the settings later."
+msgstr "ไม่พบรหัส Google Analytics ของคุณ คุณจะสามารถใส่รหัสด้วยตัวเองในการตั้งค่าได้ในภายหลัง"
+
+#: core/admin-menu.php:34
+msgid "Setup Wizard"
+msgstr "ตัวช่วยติดตั้ง"
+
+#: core/admin-menu.php:35 core/class-wptouch-pro.php:1501
+#: web-app-mode/web-app-mode.php:36
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: core/admin-menu.php:36
+msgid "License %s Support"
+msgstr "ใบอนุญาต %s การสนับสนุน"
+
+#: core/admin-page-templates.php:17
+msgid "Mobile Page Template"
+msgstr "แม่แบบหน้าเพจบนมือถือ"
+
+#: core/admin-render.php:4
+msgid "Your WPtouch Pro license has expired. Renew now at a discount to continue receiving product updates and support."
+msgstr "ใบอนุญาต WPtouch Pro ของคุณหมดอายุแล้ว ต่ออายุตอนนี้รับส่วนลด เพื่อรับอัปเดตผลิตภัณฑ์และการสนับสนุนต่างๆ ได้อย่างต่อเนื่อง"
+
+#: core/admin-render.php:4
+msgid "Renew Now"
+msgstr "ต่ออายุตอนนี้"
+
+#: core/admin-render.php:10
+msgid "This copy of %s is currently unlicensed."
+msgstr "สำเนาของ %s นี้ปัจจุบันไม่มีใบอนุญาต"
+
+#: core/admin-render.php:13
+msgid "Add a license %s"
+msgstr "เพิ่มใบอนุญาต %s"
+
+#: core/admin-render.php:37
+msgid "Save Changes"
+msgstr "บันทึกการเปลี่ยนแปลง"
+
+#: core/admin-render.php:38
+msgid "Reset Settings"
+msgstr "รีเซ็ตการตั้งค่า"
+
+#: core/admin-render.php:51
+msgid "Setup"
+msgstr "ตั้งค่า"
+
+#: core/admin-render.php:61 core/config.php:89
+msgid "General"
+msgstr "ทั่วไป"
+
+#: core/admin-render.php:62
+msgid "Site Compatibility"
+msgstr "ความเข้ากันได้ของเว็บไซต์"
+
+#: core/admin-render.php:63 core/config.php:91
+msgid "Devices"
+msgstr "อุปกรณ์"
+
+#: core/admin-render.php:64 core/config.php:92
+msgid "Menu Settings"
+msgstr "การตั้งค่าเมนู"
+
+#: core/admin-render.php:71 themes/foundation/root-functions.php:9
+msgid "Theme Settings"
+msgstr "การตั้งค่าธีม"
+
+#: core/class-wptouch-pro.php:566
+msgid "Automatic theme migration from uploads/wptouch-data directory failed. Please manually move these files to wp-content/wptouch-data, or %scontact support%s to address this issue."
+msgstr "การโยกย้ายธีมอัตโนมัติจากไดเรคทอรี uploads/wptouch-data ล้มเหลว โปรดย้ายไฟล์เหล่านี้ไปยัง wp-content/wptouch-data ด้วยตัวเอง หรือ %sติดต่อฝ่ายสนับสนุน%s เพื่อแก้ไขปัญหานี้"
+
+#: core/class-wptouch-pro.php:585
+msgid "%sWPtouch: %s was recently disabled, but is still affecting your website and caching pages.%s"
+msgstr "%sWPtouch: %s ถูกปิดใช้งานเมื่อเร็วๆ นี้ แต่ยังมีผลกับเว็บไซต์และหน้าแคชของคุณ%s"
+
+#: core/class-wptouch-pro.php:586
+msgid "%sPlease reactivate the plugin, disable page caching, then deactivate the plugin again to correct this issue.%s"
+msgstr "%sโปรดใช้ปลั๊กอินอีกครั้ง ปิดหน้าเพจการแคช ปิดใช้งานปลั๊กอินอีกครั้งเพื่อแก้ไขปัญหานี้%s"
+
+#: core/class-wptouch-pro.php:587 core/class-wptouch-pro.php:596
+msgid "%sFixing this issue prevents cached desktop pages being served to mobile devices and vice-versa.%s"
+msgstr "%sกำลังแก้ไขปัญหานี้เพื่อป้องกันหน้าแคชเดสก์ทอปที่ใช้กับอุปกรณ์มือถือและในทางกลับ%s"
+
+#: core/class-wptouch-pro.php:588 core/class-wptouch-pro.php:597
+msgid "%sOnce fixed, this message will be dismissed automatically. Until fixed, %sWPtouch will not be shown%s to mobile visitors, and cannot be previewed.%s"
+msgstr "%sเมื่อแก้ไขแล้ว ข้อความนี้จะถูกยกเลิกโดยอัตโนมัติ จนกว่าจะแก้ไขเสร็จ %sWPtouch จะไม่แสดง%s แก่ผู้เข้าชมทางมือถือ และไม่สามารถแสดงตัวอย่างได้%s"
+
+#: core/class-wptouch-pro.php:595
+msgid "%sWPtouch: %s needs to be configured to work correctly with WPtouch.%s"
+msgstr "%sWPtouch: %s ต้องกำหนดค่าให้ทำงานกับ WPtouch ได้อย่างถูกต้อง%s"
+
+#: core/class-wptouch-pro.php:598
+msgid "%sTo fix the issue, follow our %sstep-by-step setup guide%s on support.wptouch.com%s"
+msgstr "%sหากต้องการแก้ไขปัญหา ให้ปฏิบัติตาม %sขั้นตอนคู่มือการติดตั้ง%s ของเราบน support.wptouch.com%s"
+
+#: core/class-wptouch-pro.php:610
+msgid "Repair Required"
+msgstr "ต้องซ่อมแซม"
+
+#: core/class-wptouch-pro.php:617
+msgid "Your theme was either broken or missing."
+msgstr "ธีมของคุณเสียหรือขาดหาย"
+
+#: core/class-wptouch-pro.php:618
+msgid "We downloaded a fresh copy for you."
+msgstr "เราดาวน์โหลดสำเนาใหม่ให้คุณ"
+
+#: core/class-wptouch-pro.php:619 core/class-wptouch-pro.php:629
+msgid "OK"
+msgstr "ตกลง"
+
+#: core/class-wptouch-pro.php:622
+msgid "We were unable to install your WPtouch Pro theme from the Cloud. %s Please visit %sthis article%s for more information."
+msgstr "เราไม่สามารถติดตั้งธีม WPtouch Pro ของคุณได้จากคลาวด์ %s โปรดดู %sบทความนี้%s เพื่อรับข้อมูลเพิ่มเติม"
+
+#: core/class-wptouch-pro.php:625
+msgid "Server Issue"
+msgstr "ปัญหาเซิร์ฟเวอร์"
+
+#: core/class-wptouch-pro.php:627
+msgid "Your server setup is preventing WPtouch Pro from installing from the Cloud. %s Please visit %sthis article%s for more information on how to fix it."
+msgstr "การติดตั้งเซิร์ฟเวอร์ของคุณทำให้ WPtouch Pro ไม่สามารถติดตั้งจากคลาวด์ได้ %s โปรดเข้าดู %sบทความนี้%s เพื่อรับข้อมูลเพิ่มเติมเกี่ยวกับวิธีการแก้ไข"
+
+#: core/class-wptouch-pro.php:848
+msgid "This will reset all WPtouch Pro settings.\nAre you sure?"
+msgstr "นี่เป็นการรีเซ็ทการตั้งค่าของ WPtouch Pro ทั้งหมด\nคุณแน่ใจหรือไม่?"
+
+#: core/class-wptouch-pro.php:849
+msgid "This will reset all WPtouch Pro settings and delete the wptouch-data folder.\nAre you sure?"
+msgstr "สิ่งนี้จะรีเซ็ตการตั้งค่า WPtouch Pro ทั้งหมด แล้วลบโฟลเดอร์ wptouch-data\nแน่ใจหรือไม่?"
+
+#: core/class-wptouch-pro.php:850
+msgid "This will reset all WPtouch Pro settings, delete the wptouch-data folder, and deactivate the plugin. Are you sure?"
+msgstr "สิ่งนี้จะรีเซ็ตการตั้งค่า WPtouch Pro ทั้งหมด แล้วลบโฟลเดอร์ wptouch-data และปิดการใช้งานปลั๊กอิน แน่ใจหรือไม่?"
+
+#: core/class-wptouch-pro.php:851
+msgid "The item failed to download for this reason: %reason%"
+msgstr "ไม่สามารถดาวน์โหลดรายการได้จากสาเหตุนี้: %เหตุผล%"
+
+#: core/class-wptouch-pro.php:852
+msgid "You are about to reset your license information. Proceed?"
+msgstr "คุณกำลังรีเซ็ตใบอนุญาตใหม่ ดำเนินการต่อ?"
+
+#: core/class-wptouch-pro.php:854
+msgid "Upload Failed: Not a valid image."
+msgstr "อัปโหลดล้มเหลว: ไม่มีภาพที่เหมาะสม"
+
+#: core/class-wptouch-pro.php:855
+msgid "WPtouch is saving settings. Please do not refresh the page while saving."
+msgstr "WPtouch กำลังบันทึกการตั้งค่า กรุณาอย่ารีเฟรชหน้าเพจระหว่างการบันทึก"
+
+#: core/class-wptouch-pro.php:856
+msgid "Install Themes"
+msgstr "ติดตั้งธีม"
+
+#: core/class-wptouch-pro.php:857
+msgid "Install Extensions"
+msgstr "ติดตั้งส่วนขยาย"
+
+#: core/class-wptouch-pro.php:1537
+msgid "%s Changelog"
+msgstr "%s Changelog"
+
+#: core/class-wptouch-pro.php:2889
+msgid "Directory Problem"
+msgstr "ปัญหาไดเรกทอรี"
+
+#: core/class-wptouch-pro.php:2890
+msgid "One or more required directories could not be created"
+msgstr "ไม่สามารถสร้างหนึ่งไดเรกทอรีที่จำเป็นหรือมากกว่านั้นได้"
+
+#: core/config.php:90
+msgid "Compatibility"
+msgstr "ความเข้ากันได้"
+
+#: core/globals.php:193
+msgid "smartphone"
+msgstr "สมาร์ทโฟน"
+
+#: core/globals.php:195
+msgid "tablet"
+msgstr "แท็บเล็ต"
+
+#: core/globals.php:462
+msgid "Auto-detect"
+msgstr "ตรวจจับอัตโนมัติ"
+
+#. translators: %s: title of menu item which is invalid
+#: core/menu-walkers.php:206
+msgid "%s (Invalid)"
+msgstr "%s (ไม่ถูกต้อง)"
+
+#. translators: %s: title of menu item in draft status
+#: core/menu-walkers.php:210
+msgid "%s (Pending)"
+msgstr "%s (รอดำเนินการ)"
+
+#: core/menu-walkers.php:223
+msgid "sub item"
+msgstr "รายการย่อย"
+
+#: core/menu-walkers.php:238
+msgid "Move up"
+msgstr "ขยับขึ้น"
+
+#: core/menu-walkers.php:251
+msgid "Move down"
+msgstr "ขยับลง"
+
+#: core/menu-walkers.php:253 core/menu-walkers.php:255
+msgid "Edit Menu Item"
+msgstr "แก้ไขไอเท็มเมนู"
+
+#: core/menu-walkers.php:264
+msgid "URL"
+msgstr "URL"
+
+#: core/menu-walkers.php:271
+msgid "Navigation Label"
+msgstr "ป้ายนำร่อง"
+
+#: core/menu-walkers.php:277
+msgid "Title Attribute"
+msgstr "Title Attribute"
+
+#: core/menu-walkers.php:284
+msgid "Open link in a new window/tab"
+msgstr "เปิดลิงค์ในหน้าต่าง/แท็บใหม่"
+
+#: core/menu-walkers.php:289
+msgid "CSS Classes (optional)"
+msgstr "CSS Classes (ถ้ามี)"
+
+#: core/menu-walkers.php:295
+msgid "Link Relationship (XFN)"
+msgstr "ความสัมพันธ์ลิงค์ (XFN)"
+
+#: core/menu-walkers.php:303
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "แสดงรายละเอียดในเมนู ถ้าธีมในปัจจุบันรองรับ"
+
+#: core/menu-walkers.php:313
+msgid "Mobile Menu Icon"
+msgstr "ไอคอนเมนูบนมือถือ"
+
+#: core/menu-walkers.php:317
+msgid "WPtouch Icons"
+msgstr "ไอคอน WPtouch"
+
+#: core/menu-walkers.php:317
+msgid "Change Icon"
+msgstr "เปลี่ยนไอคอน"
+
+#: core/menu-walkers.php:318
+msgid "Use Default"
+msgstr "ใช้ค่าเริ่มต้น"
+
+#: core/menu-walkers.php:326
+msgid "Move"
+msgstr "ขยับ"
+
+#: core/menu-walkers.php:327
+msgid "Up one"
+msgstr "ขึ้นหนึ่ง"
+
+#: core/menu-walkers.php:328
+msgid "Down one"
+msgstr "ลงหนึ่ง"
+
+#: core/menu-walkers.php:331
+msgid "To the top"
+msgstr "ขึ้นบนสุด"
+
+#: core/menu-walkers.php:338
+msgid "Original: %s"
+msgstr "ต้นฉบับ: %s"
+
+#: core/menu-walkers.php:581
+msgid "Feed for all posts filed under %s"
+msgstr "ฟีดสำหรับโพสต์ทั้งหมดที่ยื่นไว้ภายใต้ %s"
+
+#: include/html/desktop-switch.php:2
+msgid "Desktop Version"
+msgstr "รุ่นเดสก์ทอป"
+
+#: include/html/desktop-switch.php:2
+msgid "Switch To Mobile Version"
+msgstr "เปลี่ยนเป็นรุ่นมือถือ"
+
+#: include/html/footer.php:7
+msgid "Powered by<br/>%s%s%s"
+msgstr "ขับเคลื่อนโดย<br/>%s%s%s"
+
+#: include/html/load-times.php:2
+msgid "%d queries in %0.1f ms"
+msgstr "%d คำสั่งใน %0.1f ms"
+
+#: include/html/page-template.php:8
+msgid "Default Template"
+msgstr "แม่แบบเริ่มต้น"
+
+#: infinity-cache/infinity-cache.php:89 infinity-cache/infinity-cache.php:270
+msgid "Purge Page Cache"
+msgstr "Purge Page Cache"
+
+#: infinity-cache/infinity-cache.php:163
+msgid "Enable Infinity Cache"
+msgstr "เปิดใช้แคชไม่จำกัด"
+
+#: infinity-cache/infinity-cache.php:171
+msgid "Create cache for desktop users"
+msgstr "สร้างแคชสำหรับผู้ใช้บนเดสก์ทอป"
+
+#: infinity-cache/infinity-cache.php:172
+msgid "If you are using another cache plugin such as W3, you can disable this."
+msgstr "ถ้าคุณจะใช้ปลั๊กอินแคชอื่น เช่น W3 คุณสามารถปิดใช้ปลั๊กอินนี้ได้"
+
+#: infinity-cache/infinity-cache.php:193
+msgid "Compress output using GZIP"
+msgstr "บีบอัดเอาท์พุทโดยใช้ GZIP"
+
+#: infinity-cache/infinity-cache.php:203
+msgid "Maximum age of cached content"
+msgstr "อายุสูงสุดของเนื้อหาที่แคช"
+
+#: infinity-cache/infinity-cache.php:204
+msgid "Each cached page will automatically be regenerated after this period elapses"
+msgstr "แต่ละหน้าที่แคชจะถูกสร้างขึ้นใหม่โดยอัตโนมัติหลังผ่านช่วงนี้ไปแล้ว"
+
+#: infinity-cache/infinity-cache.php:208 infinity-cache/infinity-cache.php:209
+#: infinity-cache/infinity-cache.php:210 infinity-cache/infinity-cache.php:211
+#: infinity-cache/infinity-cache.php:212
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d ชั่วโมง"
+msgstr[1] "%d ชั่วโมง"
+
+#: infinity-cache/infinity-cache.php:219
+msgid "Remove stale cache file interval"
+msgstr "ลบช่วงไฟล์สเตลแคช"
+
+#: infinity-cache/infinity-cache.php:224
+msgid "Hourly"
+msgstr "รายชั่วโมง"
+
+#: infinity-cache/infinity-cache.php:225
+msgid "Daily"
+msgstr "รายวัน"
+
+#: infinity-cache/infinity-cache.php:232
+msgid "Disable caching for any of these matched URL fragments"
+msgstr "ปิดการแคชสำหรับส่วนย่อยของ URL ที่ตรงกันเหล่านี้"
+
+#: infinity-cache/infinity-cache.php:233
+msgid "Add one URL fragment per line, i.e. %s, to not cache pages that contain each URL fragment"
+msgstr "เพิ่มส่วนย่อยของ URL หนึ่งต่อแถว เช่น %s เพื่อไม่ให้แคชหน้าที่มีส่วนย่อยของแต่ละ URL"
+
+#: infinity-cache/infinity-cache.php:241
+msgid "Content Distribution Network Service"
+msgstr "บริการเครือข่ายส่งมอบคอนเทนท์"
+
+#: infinity-cache/infinity-cache.php:242
+msgid "Using a content distribution network (CDN) can significantly enhance the responsiveness of your website."
+msgstr "การใช้เครือข่ายส่งมอบคอนเทนท์ (CDN) สามารถเพิ่มการตอบสนองบนเว็บไซต์ของคุณได้อย่างมีนัยสำคัญ"
+
+#: infinity-cache/infinity-cache.php:255
+msgid "URL %d"
+msgstr "URL %d"
+
+#: infinity-cache/infinity-cache.php:256
+msgid "Add the URLs you have configured for your CDN, for example http://cdn%d.mysite.com. Add your domain for multisite as well."
+msgstr "เพิ่ม URLs ที่คุณได้กำหนดค่าไว้สำหรับ CDN ของคุณ ยกตัวอย่างเช่น http://cdn%d.mysite.com พร้อมเพิ่มโดเมนของคุณสำหรับการใช้งานหลายไซต์ด้วย"
+
+#: infinity-cache/infinity-cache.php:278
+msgid "Infinity Cache"
+msgstr "แคชไม่จำกัด"
+
+#: infinity-cache/infinity-cache.php:287
+msgid "CDN"
+msgstr "CDN"
+
+#: infinity-cache/infinity-cache.php:706
+msgid "An example for this URL is: %s%s%s."
+msgstr "ตัวอย่างของ URL นี้คือ: %s%s%s"
+
+#: jquery-enhanced/jquery-enhanced.php:29
+msgid "Enable jQuery Enhanced"
+msgstr "เปิดใช้งาน jQuery Enhanced"
+
+#: jquery-enhanced/jquery-enhanced.php:38
+msgid "Choose a version"
+msgstr "เลือกรุ่น"
+
+#: jquery-enhanced/jquery-enhanced.php:39
+msgid "jQuery 2.x does not include support for older mobile devices and operating systems. Can cause issues with other plugins that rely on older jQuery code. Use with caution."
+msgstr "jQuery 2.x ไม่สนับสนุนอุปกรณ์มือถือและระบบปฏิบัติการที่เก่ากว่า ซึ่งอาจสร้างปัญหากับปลั๊กอินอื่นที่อาศัยรหัส jQuery ที่เก่ากว่า โปรดใช้อย่างระมัดระวัง"
+
+#: jquery-enhanced/jquery-enhanced.php:43
+msgid "Latest jQuery 1.x"
+msgstr "jQuery 1.x ใหม่ล่าสุด"
+
+#: jquery-enhanced/jquery-enhanced.php:44
+msgid "Latest jQuery 2.x"
+msgstr "jQuery 2.x ล่าสุด"
+
+#: jquery-enhanced/jquery-enhanced.php:51
+msgid "Load jQuery in the footer instead of the header"
+msgstr "โหลด jQuery ในส่วนท้ายแทนส่วนหัว"
+
+#: jquery-enhanced/jquery-enhanced.php:59
+msgid "jQuery Enhanced"
+msgstr "jQuery Enhanced"
+
+#: make-child/make-child.php:28
+msgid "Title of child theme"
+msgstr "ชื่อของธีมเด็ก"
+
+#: make-child/make-child.php:37
+msgid "Parent theme"
+msgstr "ธีมผู้ปกครอง"
+
+#: make-child/make-child.php:38
+msgid "The parent theme your child will be based off of."
+msgstr "ธีมผู้ปกครองที่เหมาะกับบุตรหลานของคุณ"
+
+#: make-child/make-child.php:42
+msgid "Bauhaus"
+msgstr "Bauhaus"
+
+#: make-child/make-child.php:43
+msgid "CMS"
+msgstr "CMS"
+
+#: make-child/make-child.php:44
+msgid "MobileStore"
+msgstr "MobileStore"
+
+#: make-child/make-child.php:45
+msgid "Prose"
+msgstr "ร้อยแก้ว"
+
+#: make-child/make-child.php:46
+msgid "Classic"
+msgstr "คลาสสิค"
+
+#: make-child/make-child.php:47
+msgid "Open"
+msgstr "เปิด"
+
+#: make-child/make-child.php:48
+msgid "Simple"
+msgstr "เรียบง่าย"
+
+#: make-child/make-child.php:54
+msgid "Make Child Theme"
+msgstr "สร้างธีมเด็ก"
+
+#: mobile-content/mobile-content.php:25
+msgid "WPtouch Alternate Mobile Content"
+msgstr "WPtouch เนื้อหาบนมือถือทางเลือก"
+
+#: mobile-content/mobile-content.php:49
+msgid "Mobile Content"
+msgstr "เนื้อหาบนมือถือ"
+
+#: mobile-content/mobile-content.php:55
+msgid "Enable mobile content display"
+msgstr "เปิดใช้การแสดงผลเนื้อหาบนมือถือ"
+
+#: mobile-content/mobile-content.php:63
+msgid "Mobile Content adds a content meta box to post and page editors."
+msgstr "Mobile Content เพิ่มกล่องเมตาเนื้อหาไปยังโพสต์และโปรแกรมตกแต่งหน้าเพจ"
+
+#: mobilestore/default/functions.php:135
+#: mobilestore/default/woocommerce/checkout/form-login.php:16
+msgid "Login now"
+msgstr "เข้าสู่ระบบตอนนี้"
+
+#: mobilestore/default/functions.php:136
+msgid "Close"
+msgstr "ปิด"
+
+#: mobilestore/default/functions.php:137
+msgid "Add Company Name"
+msgstr "เพิ่มชื่อบริษัท"
+
+#: mobilestore/default/functions.php:138
+msgid "Add Order Notes"
+msgstr "เพิ่มหมายเหตุการสั่งซื้อ"
+
+#: mobilestore/default/functions.php:139
+msgid "CVC"
+msgstr "CVC"
+
+#: mobilestore/default/functions.php:200
+msgid "view more products"
+msgstr "ดูสินค้าเพิ่มเติม"
+
+#: mobilestore/default/functions.php:218
+msgid "Added to cart"
+msgstr "เพิ่มใส่รถเข็นแล้ว"
+
+#: mobilestore/default/functions.php:401
+msgid "More"
+msgstr "เพิ่มเติม"
+
+#: mobilestore/default/header-bottom.php:10
+msgid "Product Categories"
+msgstr "หมวดหมู่สินค้า"
+
+#: mobilestore/default/header-bottom.php:16
+msgid "Recently Viewed"
+msgstr "ดูล่าสุด"
+
+#: mobilestore/default/header-bottom.php:21
+msgid "Site Menu"
+msgstr "เมนูบนเว็บไซต์"
+
+#: mobilestore/default/header-bottom.php:75
+msgid "Cart"
+msgstr "รถเข็น"
+
+#: mobilestore/default/header-bottom.php:85
+msgid "Search the store"
+msgstr "ค้นหาร้านค้า"
+
+#: mobilestore/default/header-bottom.php:90
+msgid "Recent Searches"
+msgstr "ค้นหาล่าสุด"
+
+#: mobilestore/default/header-bottom.php:90
+msgid "Clear"
+msgstr "ล้าง"
+
+#: mobilestore/default/header-bottom.php:138
+msgid "Most Popular Products"
+msgstr "ผลิตภัณฑ์ยอดนิยม"
+
+#: mobilestore/default/header-bottom.php:151
+msgid "%s: Most Popular"
+msgstr "%s: ยอดนิยม"
+
+#: mobilestore/default/header-bottom.php:172
+msgid "Back to blog index"
+msgstr "กลับไปยังดัชนีบล็อก"
+
+#: mobilestore/default/header-bottom.php:184
+msgid "sorting"
+msgstr "เรียงลำดับ"
+
+#: mobilestore/default/header-bottom.php:185
+msgid "filter by"
+msgstr "กรองตาม"
+
+#: mobilestore/default/post-loop.php:9 open/default/post-loop.php:9
+#: simple/default/post-loop.php:9
+msgid "Read This Post &rsaquo;"
+msgstr "อ่านโพสต์นี้ &rsaquo;"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:18
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:33
+msgid "Shipping #%d"
+msgstr "จัดส่งสินค้า #%d"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:20
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:35
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:112
+msgid "Shipping"
+msgstr "การขนส่ง"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:74
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr "โปรดใช้เครื่องคำนวณค่าใช้จ่ายในการจัดส่งสินค้าเพื่อดูรูปแบบการจัดส่งที่มีไว้บริการ"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:78
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr "โปรดดำเนินการชำระเงินแล้วให้ที่อยู่ของคุณอย่างครบถ้วน เพื่อดูว่าจะมีแนวทางการขนส่งใดบ้าง"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:82
+msgid "Please fill in your details to see available shipping methods."
+msgstr "โปรดให้รายละเอียดของคุณเพื่อเรียกดูรูปแบบการจัดส่งที่มี"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:91
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:97
+msgid "There doesn&lsquo;t seem to be any available shipping methods. Please double check your address, or contact us if you need any help."
+msgstr "ไม่มีรูปแบบการขนส่งที่ใช้ได้ โปรดตรวจดูที่อยู่ของคุณอีกครั้ง หรือติดต่อเราในกรณีที่ต้องการความช่วยเหลืออื่นใด"
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:19
+#: mobilestore/default/woocommerce/cart/mini-cart.php:77
+#: mobilestore/default/woocommerce/checkout/review-order.php:68
+msgid "Subtotal"
+msgstr "รวมรายการ"
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:66
+msgid " (taxes estimated for %s)"
+msgstr "(ภาษีโดยประมาณ %s)"
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:69
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr "หมายเหตุ: ค่าขนส่งและค่าภาษีประมาณ%s และจะได้รับการอัปเดตระหว่างการชำระเงินตามข้อมูลการเรียกเก็บเงินและการจัดส่งของคุณ"
+
+#: mobilestore/default/woocommerce/cart/cart.php:51
+msgid "Available on backorder"
+msgstr "มีให้จองซื้อล่วงหน้า"
+
+#: mobilestore/default/woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr "ลบไอเท็มนี้"
+
+#: mobilestore/default/woocommerce/cart/cart.php:83
+msgid "Update Cart"
+msgstr "อัปเดตรถเข็น"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+msgid "Coupon"
+msgstr "คูปอง"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+#: mobilestore/default/woocommerce/checkout/review-order.php:84
+msgid "Coupon code"
+msgstr "รหัสคูปอง"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+#: mobilestore/default/woocommerce/checkout/review-order.php:86
+msgid "Apply"
+msgstr "ใช้"
+
+#: mobilestore/default/woocommerce/cart/cart.php:113
+msgid "Proceed to Checkout"
+msgstr "ดำเนินการชำระเงิน"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:23
+msgid "edit cart"
+msgstr "แก้ไขรถเข็น"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:26
+msgid "checkout"
+msgstr "ชำระเงิน"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:69
+msgid "No products in the cart."
+msgstr "ไม่มีสินค้าในรถเข็น"
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "คุณต้องเข้าสู่ระบบจึงจะชำระเงินได้"
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:45
+msgid "Your Order"
+msgstr "ใบสั่งซื้อของคุณ"
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:45
+msgid "Edit Items"
+msgstr "แก้ไขไอเท็ม"
+
+#: mobilestore/default/woocommerce/checkout/form-login.php:16
+msgid "Shopped here before?"
+msgstr "เคยซื้อที่นี่มาก่อนไหม?"
+
+#: mobilestore/default/woocommerce/checkout/form-login.php:23
+msgid "Enter your login details in the boxes below. If you are a new customer please proceed to the Billing &amp; Shipping section."
+msgstr "ใส่รายละเอียดการเข้าสู่ระบบของคุณในช่องด้านล่าง ถ้าคุณคือลูกค้าใหม่โปรดไปที่ส่วนการเรียกเก็บเงินและจัดส่งสินค้าเพื่อดำเนินการต่อ"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:19
+#: mobilestore/default/woocommerce/checkout/review-order.php:31
+#: mobilestore/default/woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr "สินค้า"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:20
+msgid "Totals"
+msgstr "รวมทั้งหมด"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:52
+msgid "Payment"
+msgstr "ชำระเงิน"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:77
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "ขออภัย ดูเหมือนว่าจะไม่มีวิธีการชำระเงินสำหรับสถานที่ของคุณ โปรดติดต่อเราหากคุณต้องการความช่วยเหลือหรือต้องการทางเลือกอื่นในการดำเนินการ"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr "ชำระตามใบสั่งซื้อ"
+
+#: mobilestore/default/woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr "ส่งไปยังที่อยู่อื่น?"
+
+#: mobilestore/default/woocommerce/checkout/form-shipping.php:57
+msgid "Additional Information"
+msgstr "ข้อมูลเพิ่มเติม"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:30
+#: mobilestore/default/woocommerce/checkout/review-order.php:175
+msgid "Please fill in your details above to see available payment methods."
+msgstr "โปรดใส่รายละเอียดของคุณด้านบนเพื่อดูวิธีการชำระเงินอื่น"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:32
+#: mobilestore/default/woocommerce/checkout/review-order.php:177
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr "ขออภัย ดูเหมือนว่าจะไม่มีวิธีการชำระเงินอื่นสำหรับรัฐของคุณ โปรดติดต่อเราถ้าคุณต้องการความช่วยเหลือหรือต้องการใช้ทางเลือกอื่นในการจัดการ"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:43
+#: mobilestore/default/woocommerce/checkout/review-order.php:188
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr "เนื่องจากเบราเซอร์ของคุณไม่รองรับจาวาสคริปท์ หรือปิดใช้งานอยู่ โปรดตรวจสอบให้แน่ใจว่าคุณคลิกปุ่ม <em>อัปเดตทั้งหมด</em> ก่อนส่งคำสั่งซื้อของคุณ หากละเลยคุณอาจถูกเรียกเก็บเงินมากกว่าจำนวนที่แสดงไว้ข้างต้น"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:43
+#: mobilestore/default/woocommerce/checkout/review-order.php:188
+msgid "Update totals"
+msgstr "อัปเดตทั้งหมด"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:54
+#: mobilestore/default/woocommerce/checkout/review-order.php:205
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr "ฉันอ่านและยอมรับ <a href=\"%s\" target=\"_blank\">เงื่อนไข &amp; ข้อกำหนด</a> แล้ว"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:32
+#: mobilestore/default/woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr "รวมทั้งหมด"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:129
+msgid "Order Total"
+msgstr "ยอดรวมการสั่งซื้อ"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:195
+msgid "Place order"
+msgstr "ส่งคำสั่งซื้อ"
+
+#: mobilestore/default/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your search."
+msgstr "ไม่พบสินค้าที่ตรงกับการค้นหาของคุณ"
+
+#: mobilestore/default/woocommerce/myaccount/my-account.php:19
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr "สวัสดี <strong>%1$s</strong> (ไม่ใช่ %1$s? <a href=\"%2$s\">ออกจากระบบ</a>)"
+
+#: mobilestore/default/woocommerce/myaccount/my-account.php:26
+msgid "<a href=\"%s\">Edit your password and account details</a>."
+msgstr "<a href=\"%s\">แก้ไขรหัสผ่านของคุณและข้อมูลบัญชี</a>"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:52
+msgid "Recent Orders"
+msgstr "การสั่งซื้อล่าสุด"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:75
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s สำหรับ %s ไอเท็ม"
+msgstr[1] "%s สำหรับ %s ไอเท็ม"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "จ่าย"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:97
+msgid "View"
+msgstr "ดู"
+
+#: mobilestore/default/woocommerce/order/order-details.php:66
+msgid "Download file%s"
+msgstr "ดาวน์โหลด %s"
+
+#: mobilestore/default/woocommerce/order/order-details.php:97
+msgid "Your details"
+msgstr "ข้อมูลของคุณ"
+
+#: mobilestore/default/woocommerce/order/order-details.php:101
+msgid "Email"
+msgstr "อีเมล"
+
+#: mobilestore/default/woocommerce/order/order-details.php:102
+msgid "Telephone"
+msgstr "โทรศัพท์"
+
+#: mobilestore/default/woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr "ที่อยู่สำหรับเรียกเก็บเงิน"
+
+#: mobilestore/default/woocommerce/order/order-details.php:122
+#: mobilestore/default/woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr "N/A"
+
+#: mobilestore/default/woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr "ที่อยู่ในการจัดส่ง"
+
+#: mobilestore/root-functions.php:6
+msgid "Store"
+msgstr "ร้านค้า"
+
+#: mobilestore/root-functions.php:47
+msgid "%s %s is not installed and activated.%s %s requires it to work properly."
+msgstr "%s %s ไม่ได้ติดตั้งและเปิดใช้งาน %s %s จำเป็นต้องใช้เพื่อให้ทำงานได้อย่างถูกต้อง"
+
+#: mobilestore/root-functions.php:112
+msgid "Web-App Mode is not available because your site does not use a supported payment gateway.%sSee %s for further information."
+msgstr "ไม่มีโหมดเว็บแอป เนื่องจากเว็บไซต์ของคุณไม่ได้ใช้ช่องทางการชำระการชำระเงินที่สนับสนุน%sดูที่ %s เพื่อรับข้อมูลเพิ่มเติม"
+
+#: mobilestore/root-functions.php:265
+msgid "Off-Canvas left menu"
+msgstr "เมนูซ้าย Off-Canvas"
+
+#: mobilestore/root-functions.php:274
+msgid "Footer Menu"
+msgstr "เมนูส่วนท้าย"
+
+#: mobilestore/root-functions.php:277
+msgid "Menu shown in the MobileStore footer"
+msgstr "เมนูแสดงอยู่ในส่วนท้ายของ MobileStore"
+
+#: mobilestore/root-functions.php:284
+msgid "Menu & Cart Background"
+msgstr "เมนูและภาพพื้นหลังรถเข็น"
+
+#: mobilestore/root-functions.php:287
+msgid "Header & Footer Background"
+msgstr "พื้นหลังส่วนหัวและส่วนท้าย"
+
+#: mobilestore/root-functions.php:305
+msgid "Body Background"
+msgstr "พื้นหลังเนื้อหา"
+
+#: mobilestore/root-functions.php:343
+msgid "Primary Actions & Purchase Flow"
+msgstr "การดำเนินการหลักและกระบวนการซื้อ"
+
+#: mobilestore/root-functions.php:348
+msgid "Highlight Color"
+msgstr "สีที่ใช้เน้น"
+
+#: mobilestore/root-functions.php:464
+msgid "Product Listing"
+msgstr "รายการสินค้า"
+
+#: mobilestore/root-functions.php:470
+msgid "Show top-selling products carousel above product listings"
+msgstr "หมุนเวียนแสดงสินค้าขายดีเหนือรายชื่อสินค้า"
+
+#: mobilestore/root-functions.php:478
+msgid "Number of products shown per page in product listings"
+msgstr "จำนวนสินค้าที่แสดงต่อหน้าในรายการสินค้า"
+
+#: mobilestore/root-functions.php:486
+msgid "First Product Listing View"
+msgstr "มุมมองรายการสินค้าแรก"
+
+#: mobilestore/root-functions.php:491
+msgid "Grid view"
+msgstr "มุมมองตาราง"
+
+#: mobilestore/root-functions.php:492
+msgid "List view"
+msgstr "มุมมองรายการ"
+
+#: mobilestore/root-functions.php:503
+msgid "Pagination"
+msgstr "การเรียงลำดับหน้า"
+
+#: mobilestore/root-functions.php:509
+msgid "Product Pagination Type"
+msgstr "รูปแบบการลำดับสินค้า"
+
+#: mobilestore/root-functions.php:514
+msgid "Use AJAX load more"
+msgstr "ใช้ AJAX โหลดเพิ่ม"
+
+#: mobilestore/root-functions.php:515
+msgid "Use numbered pages"
+msgstr "ใช้เลขหน้า"
+
+#: mobilestore/root-functions.php:528
+msgid "Product Filters"
+msgstr "ตัวกรองสินค้า"
+
+#: mobilestore/root-functions.php:534
+msgid "Include WooCommerce product filters for"
+msgstr "มีตัวครองผลิตภัณฑ์ WooCommerce สำหรับ"
+
+#: mobilestore/root-functions.php:550
+msgid "Single Product Pages"
+msgstr "หน้าสินค้าเดี่ยว"
+
+#: mobilestore/root-functions.php:556
+msgid "Allow zooming on product images"
+msgstr "อนุญาตให้ซูมบนภาพสินค้า"
+
+#: mobilestore/root-functions.php:571
+msgid "Side Menu Options"
+msgstr "ตัวเลือกเมนูด้านข้าง"
+
+#: mobilestore/root-functions.php:577
+msgid "Show category menu"
+msgstr "แสดงเมนูหมวดหมู่"
+
+#: mobilestore/root-functions.php:585
+msgid "Show recently viewed products"
+msgstr "แสดงสินค้าที่ดูเมื่อเร็วๆ นี้"
+
+#: mobilestore/root-functions.php:599
+msgid "Cart Options"
+msgstr "ตัวเลือกรถเข็น"
+
+#: mobilestore/root-functions.php:605
+msgid "Enable off-canvas mini-cart"
+msgstr "เปิดใช้งานมินิคาร์ทแบบออฟแคนวาส"
+
+#: mobilestore/root-functions.php:614
+msgid "Enable AJAX add to cart"
+msgstr "เปิดใช้ AJAX เพิ่มไปยังรถเข็น"
+
+#: mobilestore/root-functions.php:790
+msgid "Site logo display size"
+msgstr "ขนาดการแสดงผลโลโก้บนเว็บไซต์"
+
+#: mobilestore/root-functions.php:795
+msgid "Short (default)"
+msgstr "สั้น (ค่าเริ่มต้น)"
+
+#: mobilestore/root-functions.php:796
+msgid "Tall (longer vertically for square logos)"
+msgstr "สูง (แนวตั้งช่วงที่ยาวของโลโก้เหลี่ยม)"
+
+#: mobilestore/root-functions.php:804
+msgid "Show site description in large header"
+msgstr "แสดงรายละเอียดของเว็บไซต์ในส่วนหัว"
+
+#: multi-ads/multi-ads.php:257
+msgid "Header Ad"
+msgstr "โฆษณาตรงส่วนหัว"
+
+#: multi-ads/multi-ads.php:259
+msgid "Footer Ad"
+msgstr "โฆษณาส่วนท้าย"
+
+#: multi-ads/multi-ads.php:261
+msgid "Pre-content Ad"
+msgstr "โฆษณาก่อนเข้าเนื้อหา"
+
+#: multi-ads/multi-ads.php:263
+msgid "Post-content Ad"
+msgstr "โฆษณาหลังแสดงเนื้อหา"
+
+#: multi-ads/multi-ads.php:265
+msgid "Mid-content Ad"
+msgstr "โฆษณากลางเนื้อหา"
+
+#: multi-ads/multi-ads.php:286
+msgid "Enable ad location"
+msgstr "เปิดใช้สถานที่โฆษณา"
+
+#: multi-ads/multi-ads.php:294
+msgid "Perform A/B test with secondary advertising unit"
+msgstr "ดำเนินการทดสอบ A/B กับหน่วยโฆษณารอง"
+
+#: multi-ads/multi-ads.php:302
+msgid "Primary Advertising Unit"
+msgstr "หน่วยโฆษณาหลัก"
+
+#: multi-ads/multi-ads.php:303
+msgid "HTML, CSS and JS are all accepted."
+msgstr "ยอมรับ HTML, CSS และ JS ทั้งหมด"
+
+#: multi-ads/multi-ads.php:310
+msgid "Secondary Advertising Unit"
+msgstr "หน่วยโฆษณารอง"
+
+#: multi-ads/multi-ads.php:311
+msgid "If defined, secondary advertising code will be shown 50% of the time."
+msgstr "ถ้ากำหนดไว้แล้ว รหัสโฆษณารองจะปรากฏนานถึง 50% ของเวลาทั้งหมด"
+
+#: multi-ads/multi-ads.php:318
+msgid "Display on archive/post listings"
+msgstr "แสดงรายการที่เก็บเอกสารถาวร/โพสต์"
+
+#: multi-ads/multi-ads.php:326
+msgid "Display on single posts"
+msgstr "แสดงบนโพสต์เดี่ยว"
+
+#: multi-ads/multi-ads.php:334
+msgid "Display on static pages"
+msgstr "แสดงบนหน้าเพจแบบคงที่"
+
+#: multi-ads/multi-ads.php:342
+msgid "Display on taxonomy listings"
+msgstr "แสดงในรายการอนุกรมวิธาน"
+
+#: multi-ads/multi-ads.php:350
+msgid "Display in search results"
+msgstr "แสดงในผลการค้นหา"
+
+#: multi-ads/multi-ads.php:358
+msgid "Minimum characters in post/page to show ad."
+msgstr "อักขระขั้นต่ำในโพสต์/หน้าเว็บที่แสดงโฆษณา"
+
+#: multi-ads/multi-ads.php:371
+msgid "Ignored URLs"
+msgstr "URL ที่ข้าม"
+
+#: multi-ads/multi-ads.php:377
+msgid "Do not show ads on these URLs"
+msgstr "อย่าแสดงโฆษณาบน URL เหล่านี้"
+
+#: multi-ads/multi-ads.php:378
+msgid "Each permalink URL fragment should be on its own line and relative, e.g. \"/about\" or \"/products/store\""
+msgstr "permalink URLแต่ละส่วนควรอยู่ในสายของตัวเองและมีความสัมพันธ์กัน อย่างเช่น \"/about\" หรือ \"/products/store\""
+
+#: open/default/front-page.php:26
+msgid "We&lsquo;re <em>open</em> every %s %s."
+msgstr "เรา&lsquo; <em>เปิด</em> ทุก %s %s"
+
+#: open/default/front-page.php:28
+msgid "Sorry, we&lsquo;re <em>closed</em> every %s."
+msgstr "ขออภัย เรา&lsquo; <em>ปิด</em> ทุก %s"
+
+#: open/default/functions.php:20 open/default/location.php:5
+#: simple/default/front-page.php:20
+msgid "Our Location"
+msgstr "ที่ตั้งของเรา"
+
+#: open/default/functions.php:24 open/default/hours.php:5
+msgid "Our Hours"
+msgstr "ชั่วโมงของเรา"
+
+#: open/default/hours.php:12 open/root-functions.php:286
+msgid "Sunday"
+msgstr "วันอาทิตย์"
+
+#: open/default/hours.php:13 open/root-functions.php:294
+msgid "Monday"
+msgstr "วันจันทร์"
+
+#: open/default/hours.php:14 open/root-functions.php:302
+msgid "Tuesday"
+msgstr "วันอังคาร"
+
+#: open/default/hours.php:15 open/root-functions.php:310
+msgid "Wednesday"
+msgstr "วันพุธ"
+
+#: open/default/hours.php:16 open/root-functions.php:318
+msgid "Thursday"
+msgstr "วันพฤหัส"
+
+#: open/default/hours.php:17 open/root-functions.php:326
+msgid "Friday"
+msgstr "วันศุกร์"
+
+#: open/default/hours.php:18 open/root-functions.php:334
+msgid "Saturday"
+msgstr "วันเสาร์"
+
+#: open/default/hours.php:34
+msgid "Closed"
+msgstr "ปิดแล้ว"
+
+#: open/root-functions.php:112
+msgid "Main branding colour"
+msgstr "สีตราสินค้าหลัก"
+
+#: open/root-functions.php:133
+msgid "Open Homepage Menu"
+msgstr "เปิดเมนูหน้าหลัก"
+
+#: open/root-functions.php:139
+msgid "Show full menu on Open homepage"
+msgstr "แสดงเมนูเต็มรูปแบบบนหน้าแรกของ Open"
+
+#: open/root-functions.php:156
+msgid "Tagline"
+msgstr "แท็กไลน์"
+
+#: open/root-functions.php:162
+msgid "Displayed below your logo on the homepage."
+msgstr "แสดงใต้โลโก้ของคุณในหน้าแรก"
+
+#: open/root-functions.php:176 prose/root-functions.php:116
+msgid "Header Image"
+msgstr "ภาพส่วนหัว"
+
+#: open/root-functions.php:182
+msgid "Displayed behind header on pages."
+msgstr "แสดงอยู่ท้ายส่วนหัวของหน้าเพจ"
+
+#: open/root-functions.php:196
+msgid "Homepage Logo Background"
+msgstr "หน้าหลัก โลโก้ พื้นหลัง"
+
+#: open/root-functions.php:202
+msgid "Display a white background behind the site logo."
+msgstr "แสดงพื้นหลังสีขาวหลังโลโก้เว็บไซต์"
+
+#: open/root-functions.php:216
+msgid "Location"
+msgstr "ตำแหน่ง"
+
+#: open/root-functions.php:222
+msgid "Map address"
+msgstr "ที่อยู่"
+
+#: open/root-functions.php:236
+msgid "Call to Action"
+msgstr "เรียกร้องให้ดำเนินการ"
+
+#: open/root-functions.php:242
+msgid "Use Call to Action button on pages"
+msgstr "ใช้ปุ่มเพื่อสร้างการมีส่วนร่วมบนหน้าเพจ"
+
+#: open/root-functions.php:250
+msgid "Button Label"
+msgstr "ป้ายกำกับปุ่ม"
+
+#: open/root-functions.php:258
+msgid "Target URL (prefix phone numbers with tel:)"
+msgstr "URL เป้าหมาย (เลขหน้าหมายเลขโทรซัพท์พร้อมเลขหมาย:)"
+
+#: open/root-functions.php:272
+msgid "Hours"
+msgstr "ชั่วโมง"
+
+#: open/root-functions.php:278
+msgid "Use built-in Hours feature"
+msgstr "ใช้คุณสมบัติบอกชั่วโมงในตัว"
+
+#: open/root-functions.php:342
+msgid "Note"
+msgstr "หมายเหตุ"
+
+#: pro/professional.php:17
+msgid "Show WPML language switcher in theme footer"
+msgstr "แสดงตัวสลับภาษา WPML ในส่วนท้ายของธีม"
+
+#: pro/professional.php:195 pro/professional.php:219
+msgid "Unknown error"
+msgstr "ข้อผิดพลาดที่ไม่ทราบสาเหตุ"
+
+#: pro/professional.php:604
+msgid "Some themes or extensions could not be updated."
+msgstr "บางธีมหรือส่วนขยายบางอย่างไม่สามารถอัปเดตได้"
+
+#: prose/default/functions.php:33
+msgid "Load more from this collection"
+msgstr "โหลดเพิ่มเติมจากคอลเลคชันนี้"
+
+#: prose/default/functions.php:34
+msgid "%d minute"
+msgstr "%d นาที"
+
+#: prose/default/functions.php:35
+msgid "%d minutes"
+msgstr "%d นาที"
+
+#: prose/default/functions.php:36
+msgid "%d minute remaining"
+msgstr "เหลืออีก %d นาที"
+
+#: prose/default/functions.php:37
+msgid "%d minutes remaining"
+msgstr "เหลืออีก %d นาที"
+
+#: prose/default/functions.php:38
+msgid "Share post"
+msgstr "แชร์โพสต์"
+
+#: prose/default/header-bottom.php:19
+msgid "Collections"
+msgstr "คอลเลคชัน"
+
+#: prose/default/header-bottom.php:22
+msgid "Options"
+msgstr "ตัวเลือก"
+
+#: prose/default/header-bottom.php:43
+msgid "Reading Text Size"
+msgstr "ขนาดอักษรการอ่าน"
+
+#: prose/default/header-bottom.php:46
+msgid "Small"
+msgstr "เล็ก"
+
+#: prose/default/header-bottom.php:49
+msgid "Medium"
+msgstr "กลาง"
+
+#: prose/default/header-bottom.php:52
+msgid "Large"
+msgstr "ใหญ่"
+
+#: prose/default/header-bottom.php:55
+msgid "Text Sample"
+msgstr "ตัวอย่างข้อความ"
+
+#: prose/default/header-bottom.php:101
+msgid "Collection"
+msgstr "คอลเลคชัน"
+
+#: prose/default/header-bottom.php:103
+msgid "Posts Tagged"
+msgstr "ติดแท็กโพสต์"
+
+#: prose/default/related-posts.php:8
+msgid "Read Next"
+msgstr "อ่านถัดไป"
+
+#: prose/default/single.php:31
+msgid "Discuss this post"
+msgstr "พูดคุยถึงโพสต์นี้"
+
+#: prose/default/single.php:33
+msgid "View discussion"
+msgstr "ดูการอภิปราย"
+
+#: prose/root-functions.php:60
+msgid "Show comments when reading posts"
+msgstr "แสดงความคิดเห็นเมื่ออ่านโพสต์"
+
+#: prose/root-functions.php:61
+msgid "Comment form will not appear for posts with comments turned off."
+msgstr "แบบแสดงความคิดเห็นจะไม่ปรากฏในโพสต์ที่ปิดการแสดงความคิดเห็น"
+
+#: prose/root-functions.php:72
+msgid "Show categories as \"collections\" in menu"
+msgstr "แสดงหมวดหมู่เป็น \"คอลเลคชัน\" ในเมนู"
+
+#: prose/root-functions.php:84
+msgid "Use featured image as the header background when viewing single posts"
+msgstr "ใช้ภาพเด่นเป็นพื้นหลังในส่วนหัวเมื่อดูโพสต์เดี่ยว"
+
+#: prose/root-functions.php:96
+msgid "Maximum number of items in categories/collections"
+msgstr "จำนวนไอเท็มสูงสุดในหมวดหมู่/คอลเลคชัน"
+
+#: prose/root-functions.php:122
+msgid "Displayed behind header on pages and posts without featured images."
+msgstr "แสดงไว้ท้ายส่วนหัวของหน้าเพจและโพสต์โดยไม่มีภาพเด่น"
+
+#: prose/root-functions.php:136
+msgid "Site Intro"
+msgstr "อินโทรของเว็บไซต์"
+
+#: prose/root-functions.php:142
+msgid "Displayed on post listing page below site name."
+msgstr "แสดงบนหน้ารายการโพสต์ใต้ชื่อเว็บไซต์"
+
+#: prose/root-functions.php:156
+msgid "Drop Caps"
+msgstr "ตัวอักษรขึ้นต้นขนาดใหญ่"
+
+#: prose/root-functions.php:162
+msgid "Use a drop cap at the start of each blog post."
+msgstr "ใช้ตัวอักษรขึ้นต้นขนาดใหญ่ในช่วงต้นของแต่ละบทความในบล็อก"
+
+#: prose/root-functions.php:212
+msgid "Off-canvas menu for Prose"
+msgstr "เมนู Off-canvas สำหรับ Prose"
+
+#: prose/root-functions.php:220 themes/foundation/root-functions.php:10
+msgid "Branding"
+msgstr "การสร้างแบรนด์"
+
+#: related-posts/related-posts.php:3 related-posts/related-posts.php:12
+#: related-posts/related-posts.php:30
+msgid "Related Posts"
+msgstr "โพสต์ที่เกี่ยวข้อง"
+
+#: related-posts/related-posts.php:36
+msgid "Ignore tags when identifying related posts"
+msgstr "ละเว้นแท็กเมื่อระบุโพสต์ที่เกี่ยวข้อง"
+
+#: related-posts/related-posts.php:44
+msgid "Include post excerpts"
+msgstr "มีข้อความบางส่วนของโพสต์"
+
+#: related-posts/related-posts.php:52
+msgid "Maximum number of related posts to show"
+msgstr "จำนวนสูงสุดโพสต์ของที่เกี่ยวข้องสูงสุดที่จะแสดง"
+
+#: responsive-images/responsive-images.php:107
+msgid "Responsive Images"
+msgstr "ภาพที่ปรับตามขนาดหน้าจอ"
+
+#: responsive-images/responsive-images.php:113
+msgid "Include desktop optimizations for mobile devices"
+msgstr "รวมถึงการเพิ่มประสิทธิภาพเดสก์ทอปสำหรับอุปกรณ์มือถือ"
+
+#: responsive-images/responsive-images.php:114
+msgid "Normally only images on mobile are optimized"
+msgstr "ปกติจะใช้ได้ดีเฉพาะกับภาพบนมือถือ"
+
+#: responsive-images/responsive-images.php:121
+msgid "Performance preference"
+msgstr "กำหนดค่าการปฏิบัติงาน"
+
+#: responsive-images/responsive-images.php:126
+msgid "Optimize for page speed"
+msgstr "เพิ่มประสิทธิภาพความเร็วของหน้าเว็บ"
+
+#: responsive-images/responsive-images.php:127
+msgid "Optimize for quality"
+msgstr "เพิ่มคุณภาพ"
+
+#: simple/default/front-page.php:14
+msgid "Call Us"
+msgstr "โทรหาเรา"
+
+#: simple/default/header-bottom.php:17
+msgid "Toggle Menu"
+msgstr "เมนูแบบสลับ"
+
+#: simple/root-functions.php:54
+msgid "Site Menu (Pulldown)"
+msgstr "เมนูไซต์ (เลื่อนลง)"
+
+#: simple/root-functions.php:57
+msgid "Pull-down menu at top of pages"
+msgstr "เมนูแบบเลื่อนลงตรงด้านบนของหน้าเว็บ"
+
+#: simple/root-functions.php:64
+msgid "Front Page Menu"
+msgstr "เมนูหน้าแรก"
+
+#: simple/root-functions.php:67
+msgid "Displayed below front page menu and content"
+msgstr "แสดงเมนูและเนื้อหาหน้าแรกไว้ด้านล่าง"
+
+#: simple/root-functions.php:158
+msgid "Enable search on blog pages"
+msgstr "เปิดใช้งานการค้นหาบนหน้าเพจบล็อก"
+
+#: simple/root-functions.php:173
+msgid "Special Menu Items"
+msgstr "ไอเท็มเมนูพิเศษ"
+
+#: simple/root-functions.php:179
+msgid "Phone number"
+msgstr "หมายเลขโทรศัพท์"
+
+#: simple/root-functions.php:187
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: simple/root-functions.php:200
+msgid "Front Page Content"
+msgstr "เนื้อหาหน้าแรก"
+
+#: themes/foundation/default/formerror.php:6
+msgid "Comment Error"
+msgstr "ข้อผิดพลาดบนความเห็น"
+
+#: themes/foundation/default/formerror.php:8
+msgid "Please enter all fields correctly to post a comment."
+msgstr "โปรดป้อนข้อมูลให้ถูกต้องครบถ้วนเพื่อโพสต์ความคิดเห็น"
+
+#: themes/foundation/default/formerror.php:9
+msgid "Go back"
+msgstr "ย้อนกลับ"
+
+#: themes/foundation/modules/base/base.php:64
+msgid "Loading"
+msgstr "กำลังโหลด"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:160
+msgid "Custom Post Support"
+msgstr "สนับสนุนโพสต์ที่กำหนดเอง"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:166
+msgid "Enable custom post-type support"
+msgstr "เปิดใช้การสนับสนุนการโพสต์แบบกำหนดเอง"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:193
+msgid "Include custom post-type posts in blog index"
+msgstr "มีโพสต์แบบโพสต์ที่กำหนดเองไว้ในดัชนีบล็อก"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:201
+msgid "Custom Post Types"
+msgstr "ประเภทโพสต์แบบกำหนดเอง"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:207
+msgid "Select which custom post types WPtouch Pro should load when displaying your site."
+msgstr "เลือกรูปแบบโพสต์ที่กำหนดเอง WPtouch Pro จะโหลดขึ้นมาเมื่อมีการแสดงผลเว็บไซต์ของคุณ"
+
+#: themes/foundation/modules/featured/featured.php:294
+msgid "Number of posts in slider"
+msgstr "จำนวนโพสต์ในแถบเลื่อน"
+
+#: themes/foundation/modules/featured/featured.php:307
+msgid "Slide automatically "
+msgstr "เลื่อนอัตโนมัติ"
+
+#: themes/foundation/modules/featured/featured.php:315
+msgid "Slides repeat"
+msgstr "เลื่อนซ้ำ"
+
+#: themes/foundation/modules/featured/featured.php:323
+msgid "Make images grayscale"
+msgstr "สร้างภาพสีเทา"
+
+#: themes/foundation/modules/featured/featured.php:331
+msgid "Slider posts also show in listings"
+msgstr "โพสต์เลื่อนแสดงในรายการด้วย"
+
+#: themes/foundation/modules/featured/featured.php:339
+msgid "Slide transition speed"
+msgstr "ความเร็วในการเปลี่ยนสไลด์"
+
+#: themes/foundation/modules/featured/featured.php:344
+msgid "Slow"
+msgstr "ช้า"
+
+#: themes/foundation/modules/featured/featured.php:345
+msgid "Normal"
+msgstr "ปกติ"
+
+#: themes/foundation/modules/featured/featured.php:346
+msgid "Fast"
+msgstr "เร็ว"
+
+#: themes/foundation/modules/featured/featured.php:357
+msgid "Show latest posts"
+msgstr "แสดงโพสต์ล่าสุด"
+
+#: themes/foundation/modules/featured/featured.php:358
+msgid "Show posts from a specific tag"
+msgstr "แสดงโพสต์จากแท็กเฉพาะ"
+
+#: themes/foundation/modules/featured/featured.php:359
+msgid "Show posts from a specific category"
+msgstr "แสดงโพสต์จากหมวดหมู่เฉพาะ"
+
+#: themes/foundation/modules/featured/featured.php:360
+msgid "Show posts from a specific post type"
+msgstr "แสดงโพสต์จากประเภทโพสต์ที่ระบุ"
+
+#: themes/foundation/modules/featured/featured.php:361
+msgid "Show only specific posts or pages"
+msgstr "แสดงเฉพาะโพสต์หรือหน้าเพจที่ระบุเท่านั้น"
+
+#: themes/foundation/modules/featured/featured.php:367
+#: themes/foundation/modules/featured/featured.php:375
+msgid "Only this tag"
+msgstr "เฉพาะแท็กนี้"
+
+#: themes/foundation/modules/featured/featured.php:368
+#: themes/foundation/modules/featured/featured.php:376
+#: themes/foundation/modules/featured/featured.php:385
+msgid "Enter the tag/category slug name"
+msgstr "ใส่ชื่อ slug แท็ก/หมวดหมู่"
+
+#: themes/foundation/modules/featured/featured.php:384
+msgid "Only this category"
+msgstr "เฉพาะหมวดหมู่นี้"
+
+#: themes/foundation/modules/featured/featured.php:393
+msgid "Only this post type"
+msgstr "เฉพาะโพสต์ประเภทนี้เท่านั้น"
+
+#: themes/foundation/modules/featured/featured.php:402
+msgid "Comma-separated list of post/page IDs"
+msgstr "รายชื่อรหัสโพสต์/หน้าเว็บที่คั่นด้วยจุลภาค"
+
+#: themes/foundation/modules/featured/featured.php:411
+msgid "Featured Slider"
+msgstr "สไลด์รายการเด่น"
+
+#: themes/foundation/modules/featured/featured.php:418
+msgid "Enable featured slider"
+msgstr "เปิดใช้งานสไลด์รายการเด่น"
+
+#: themes/foundation/modules/featured/featured.php:419
+msgid "Requires at least 2 entries to contain featured images"
+msgstr "ต้องมีอย่างน้อย 2 รายการที่มีภาพเด่น"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:20
+msgid "Browser Default Fonts"
+msgstr "แบบอักษรเริ่มต้นของเบราเซอร์"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:28
+msgid "Typography"
+msgstr "การพิมพ์"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:34
+msgid "Font Pairing"
+msgstr "เปรียบเทียบแบบอักษร"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:35
+msgid "Choose a Google font pairing designed for this theme, or default browser fonts."
+msgstr "เลือกจับคู่ตัวอักษร Google ที่ออกแบบไว้สำหรับธีมนี้หรือแบบอักษรเบราว์เซอร์เริ่มต้น"
+
+#: themes/foundation/modules/login/login-html.php:7
+msgid "Remember Me"
+msgstr "จดจำฉัน"
+
+#: themes/foundation/modules/login/login-html.php:9
+msgid "Log In"
+msgstr "เข้าสู่ระบบ"
+
+#: themes/foundation/modules/login/login-html.php:30
+msgid "Sign-up"
+msgstr "ลงทะเบียน"
+
+#: themes/foundation/modules/login/login-html.php:31
+msgid "Lost password?"
+msgstr "ลืมรหัสผ่าน?"
+
+#: themes/foundation/modules/login/login.php:22
+msgid "Account Username"
+msgstr "ชื่อผู้ใช้บัญชี"
+
+#: themes/foundation/modules/login/login.php:23
+msgid "Account Password"
+msgstr "รหัสผ่านบัญชี"
+
+#: themes/foundation/modules/login/login.php:32
+msgid "Login Form"
+msgstr "การเข้าสู่ระบบ"
+
+#: themes/foundation/modules/login/login.php:38
+msgid "Allow Login"
+msgstr "อนุญาตให้เข้าสู่ระบบ"
+
+#: themes/foundation/modules/login/login.php:39
+msgid "Will add login/out links"
+msgstr "จะเพิ่มลิงค์เข้าสู่ระบบ/ออกจากระบบ"
+
+#: themes/foundation/modules/login/login.php:46
+msgid "Include \"Sign-up\" and \"Lost Password?\" links"
+msgstr "มีลิงค์ \"ลงทะเบียน\" และ \"ลืมรหัสผ่าน?\""
+
+#: themes/foundation/modules/media/media.php:34
+msgid "Video Handling"
+msgstr "การจัดการวิดีโอ"
+
+#: themes/foundation/modules/media/media.php:40
+msgid "Use FitVids to automatically scale videos"
+msgstr "ใช้ FitVids เพื่อปรับขนาดวิดีโอโดยอัตโนมัติ"
+
+#: themes/foundation/modules/media/media.php:41
+msgid "FitVids is a small JavaScript helper that will detect videos from a variety of web sources and automatically scale them to fill the container and format them with the correct aspect ratio."
+msgstr "FitVids คือตัวช่วย JavaScript ที่จะตรวจจับวิดีโอจากแหล่งทรัพยากรของเว็บที่หลากหลาย และปรับขนาดเพื่อเติมเต็มพื้นที่และจัดรูปแบบตามอัตราส่วนที่ถูกต้องเหมาะสม"
+
+#: themes/foundation/modules/sharing/sharing.php:94
+msgid "Social Sharing"
+msgstr "การแชร์ทางสังคม"
+
+#: themes/foundation/modules/sharing/sharing.php:100
+msgid "Will show Facebook, Twitter, Pinterest and Email buttons."
+msgstr "จะแสดงปุ่ม Facebook, Twitter, Pinterest และอีเมล"
+
+#: themes/foundation/modules/sharing/sharing.php:108
+msgid "Show sharing links on posts"
+msgstr "แสดงลิงค์แชร์บนโพสต์"
+
+#: themes/foundation/modules/sharing/sharing.php:116
+msgid "Also show on pages"
+msgstr "แสดงบนหน้าเพจด้วย"
+
+#: themes/foundation/modules/sharing/sharing.php:124
+msgid "Sharing links location"
+msgstr "ตำแหน่งลิงก์ที่แบ่งปัน"
+
+#: themes/foundation/modules/sharing/sharing.php:129
+msgid "Above post content"
+msgstr "ด้านบนเนื้อหาโพสต์"
+
+#: themes/foundation/modules/sharing/sharing.php:130
+msgid "Below post content"
+msgstr "เนื้อหาโพสต์ด้านล่าง"
+
+#: themes/foundation/modules/sharing/sharing.php:136
+msgid "Color scheme"
+msgstr "โทนสี"
+
+#: themes/foundation/modules/sharing/sharing.php:141
+msgid "Theme colors"
+msgstr "สีธีม"
+
+#: themes/foundation/modules/sharing/sharing.php:142
+msgid "Social network colors"
+msgstr "สีเครือข่ายสังคม"
+
+#: themes/foundation/modules/social-links/social-links.php:8
+msgid "Social Media Links"
+msgstr "ลิงค์สื่อสังคม"
+
+#: themes/foundation/modules/social-links/social-links.php:15
+msgid "Full URL to your Facebook page"
+msgstr "URL แบบเต็มของหน้า Facebook ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:23
+msgid "Full URL to your Twitter profile"
+msgstr "URL แบบเต็มของโปรไฟล์ Twitter ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:31
+msgid "Full URL to your Google+ profile"
+msgstr "URL แบบเต็มของ Google+ ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:39
+msgid "Full URL to your Instagram profile"
+msgstr "ให้ URL แบบเต็มลงบนโปรไฟล์ Instagram ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:46
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: themes/foundation/modules/social-links/social-links.php:47
+msgid "Full URL to your Tumblr profile"
+msgstr "ให้ URL แบบเต็มลงบนโปรไฟล์ Tumblr ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:55
+msgid "Full URL to your Pinterest page"
+msgstr "URL แบบเต็มของหน้า Pinterest ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:63
+msgid "Full URL to your Vimeo page"
+msgstr "URL แบบเต็มของหน้า Vimeo ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:71
+msgid "Full URL to your %s profile"
+msgstr "URL เต็มไปยังโปรไฟล์ %s ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:78
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: themes/foundation/modules/social-links/social-links.php:79
+msgid "Full URL to your LinkedIn profile"
+msgstr "URL แบบเต็มของโปรไฟล์ LinkedIn ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:87
+msgid "Full URL to your Yelp profile"
+msgstr "URL แบบเต็มไปยังโปรไฟล์ Yelp ของคุณ"
+
+#: themes/foundation/modules/social-links/social-links.php:95
+msgid "E-Mail address"
+msgstr "ที่อยู่อีเมล"
+
+#: themes/foundation/modules/social-links/social-links.php:103
+msgid "Full URL to your RSS feed"
+msgstr "URL แบบเต็มของฟีด RSS ของคุณ"
+
+#: themes/foundation/modules/tablets/tablets.php:58
+msgid "iPad"
+msgstr "iPad"
+
+#: themes/foundation/modules/tablets/tablets.php:64
+#: themes/foundation/root-functions.php:409
+msgid "%d by %d pixels (PNG)"
+msgstr "%d คูณ %d พิกเซล (PNG)"
+
+#: themes/foundation/root-functions.php:11
+msgid "Media Handling"
+msgstr "การจัดการสื่อ"
+
+#: themes/foundation/root-functions.php:12
+msgid "Bookmark Icons"
+msgstr "ไอคอนบุ๊คมาร์ก"
+
+#: themes/foundation/root-functions.php:13
+msgid "Custom Content"
+msgstr "เนื้อหาที่กำหนดเอง"
+
+#: themes/foundation/root-functions.php:44
+msgid "Language: "
+msgstr "ภาษา:"
+
+#: themes/foundation/root-functions.php:349
+msgid "Number of posts in post listings"
+msgstr "จำนวนโพสต์ในรายการโพสต์"
+
+#: themes/foundation/root-functions.php:350
+msgid "Overrides the WordPress Reading settings for \"Blog pages show at most\""
+msgstr "แทนที่การตั้งค่าการอ่านเวิร์ดเพรสสำหรับ \"หน้าบล็อกที่แสดงมากที่สุด\""
+
+#: themes/foundation/root-functions.php:362
+msgid "Excluded categories"
+msgstr "หมวดหมู่ที่ถูกยกเว้น"
+
+#: themes/foundation/root-functions.php:363
+msgid "Comma separated by category name"
+msgstr "จุลภาคคั่นตามชื่อของหมวดหมู่"
+
+#: themes/foundation/root-functions.php:370
+msgid "Excluded tags"
+msgstr "แท็กที่ถูกเว้น"
+
+#: themes/foundation/root-functions.php:371
+msgid "Comma separated by tag name"
+msgstr "จุลภาคคั่นตามชื่อแท็ก"
+
+#: themes/foundation/root-functions.php:382
+msgid "Blog"
+msgstr "บล๊อก"
+
+#: themes/foundation/root-functions.php:392
+#: themes/foundation/root-functions.php:1129
+msgid "Pages"
+msgstr "หน้า"
+
+#: themes/foundation/root-functions.php:403
+msgid "Site Icon"
+msgstr "ไอคอนเว็บไซต์"
+
+#: themes/foundation/root-functions.php:425
+msgid "Site Logo"
+msgstr "โลโก้ของไซต์"
+
+#: themes/foundation/root-functions.php:437
+msgid "Header"
+msgstr "ส่วนหัว"
+
+#: themes/foundation/root-functions.php:447
+msgid "Footer"
+msgstr "ส่วนท้าย"
+
+#: themes/foundation/root-functions.php:453
+msgid "Custom footer content (HTML is allowed)"
+msgstr "เนื้อหาตอนท้ายที่กำหนดเอง (อนุญาตให้ใช้ HTML)"
+
+#: themes/foundation/root-functions.php:794
+msgid "search results for '%s'"
+msgstr "ผลการค้นหาของ '%s'"
+
+#: themes/foundation/root-functions.php:796
+msgid "%sCategories &rsaquo;%s %s"
+msgstr "%sหมวดหมู่ &rsaquo;%s %s"
+
+#: themes/foundation/root-functions.php:798
+msgid "Tags &rsaquo; %s"
+msgstr "แท็ก &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:800
+#: themes/foundation/root-functions.php:802
+#: themes/foundation/root-functions.php:804
+msgid "Archives &rsaquo; %s"
+msgstr "คลังเอกสาร &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:819
+msgid "Load more from this category"
+msgstr "โหลดเพิ่มจากหมวดหมู่นี้"
+
+#: themes/foundation/root-functions.php:821
+msgid "Load more tagged like this"
+msgstr "โหลดทีติดแท็กแบบนี้เพิ่ม"
+
+#: themes/foundation/root-functions.php:823
+msgid "Load more from this day"
+msgstr "โหลดเพิ่มจากวันนี้"
+
+#: themes/foundation/root-functions.php:825
+msgid "Load more from this month"
+msgstr "โหลดเพิ่มจากเดือนนี้"
+
+#: themes/foundation/root-functions.php:827
+msgid "Load more from this year"
+msgstr "โหลดเพิ่มจากปีนี้"
+
+#: themes/foundation/root-functions.php:829
+msgid "Load more in this section"
+msgstr "โหลดเพิ่มจากส่วนนี้"
+
+#: themes/foundation/root-functions.php:831
+msgid "Load more entries"
+msgstr "โหลดรายการเพิ่มเติม"
+
+#: themes/foundation/root-functions.php:1078
+msgid "Post"
+msgstr "โพสต์"
+
+#: themes/foundation/root-functions.php:1080
+msgid "Page"
+msgstr "หน้า"
+
+#: web-app-mode/web-app-mode.php:3
+msgid "Web-App Mode"
+msgstr "โหมดเว็บแอป"
+
+#: web-app-mode/web-app-mode.php:18
+msgid "Web-App Mode Unavailable"
+msgstr "โหมดเว็บแอปไม่สามารถใช้งานได้"
+
+#: web-app-mode/web-app-mode.php:42
+msgid "Enable persistence"
+msgstr "เปิดใช้งานอยู่"
+
+#: web-app-mode/web-app-mode.php:43
+msgid "Loads the last visited URL for visitors on open."
+msgstr "โหลด URL ที่เยี่ยมชมล่าสุดของผู้เยี่ยมชมที่เปิดใช้แอป"
+
+#: web-app-mode/web-app-mode.php:50
+msgid "URLs to ignore in Web-App Mode"
+msgstr "URLs ที่ละเว้นในโหมดเว็บแอป"
+
+#: web-app-mode/web-app-mode.php:62
+msgid "Notice Message"
+msgstr "ข้อความแจ้งเตือน"
+
+#: web-app-mode/web-app-mode.php:68
+msgid "Show a web app notice message for new iOS visitors"
+msgstr "แสดงข้อความแจ้งล่วงหน้าบนเว็บแอปแก่ผู้เยี่ยมชมบน iOS รุ่นใหม่"
+
+#: web-app-mode/web-app-mode.php:76
+msgid "Message will be shown again for visitors"
+msgstr "ข้อความจะแสดงแก่ผู้เข้าชมอีกครั้ง"
+
+#: web-app-mode/web-app-mode.php:81
+msgid "Every visit"
+msgstr "ทุกครั้งที่เข้าชม"
+
+#: web-app-mode/web-app-mode.php:82
+msgid "After 1 day"
+msgstr "หลังจากนั้น 1 วัน"
+
+#: web-app-mode/web-app-mode.php:83
+msgid "After 7 days"
+msgstr "หลังจากนั้น 7 วัน"
+
+#: web-app-mode/web-app-mode.php:84
+msgid "In 1 month"
+msgstr "ใน 1 เดือน"
+
+#: web-app-mode/web-app-mode.php:90
+msgid "Notice message contents"
+msgstr "เนื้อหาข้อความแจ้งเตือน"
+
+#: web-app-mode/web-app-mode.php:91
+msgid "[icon] is used to display your bookmark icon. Do not remove it."
+msgstr "[icon] จะถูกใช้เพื่อแสดงไอคอนคั่นหน้าของคุณ ห้ามลบ"
+
+#: web-app-mode/web-app-mode.php:101
+msgid "Startup Images"
+msgstr "ภาพเริ่มต้น"
+
+#: web-app-mode/web-app-mode.php:126 web-app-mode/web-app-mode.php:134
+msgid "iPad (%d by %d pixels)"
+msgstr "iPad (%d คูณ %d พิกเซล)"
+
+#: web-app-mode/web-app-mode.php:149
+msgid "iPhone (%d by %d pixels)"
+msgstr "iPhone (%d คูณ %d พิกเซล)"
+
+#: web-app-mode/web-app-mode.php:158
+msgid "Web-App Startup Screens (iOS)"
+msgstr "หน้าจอเริ่มต้นเว็บแอป (iOS)"
+
+#: web-app-mode/web-app-mode.php:327
+msgid "Install this Web-App on your home screen: tap [icon] then \"Add to Home Screen\""
+msgstr "ติดตั้งเว็บแอปนี้บนหน้าจอหลักของคุณ: แตะ [icon] แล้ว \"เพิ่มไปยังหน้าจอหลัก\""
+
+#: web-app-mode/web-app-mode.php:374
+msgid "External link— open it in the browser?"
+msgstr "ลิงก์ภายนอก— เปิดในเบราว์เซอร์?"
+
+#: web-app-mode/web-app-mode.php:375
+msgid "File link— Do you want to open it in the browser?"
+msgstr "ลิงก์ไฟล์— คุณต้องการที่จะเปิดในเบราว์เซอร์?"
+
+#. Plugin Name of the plugin/theme
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+#. #-#-#-#-#  wptouch-pro.pot (WPtouch Pro 4.0)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wptouch-pro.pot (WPtouch Pro 4.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.wptouch.com/"
+msgstr "http://www.wptouch.com/"
+
+#. Description of the plugin/theme
+msgid "The easy way to create great mobile experiences with your WordPress website."
+msgstr "หนทางที่ง่ายดายในการสร้างประสบการณ์ที่ดีกับเว็บไซต์ WordPress ของคุณบนมือถือ"
+
+#. Author of the plugin/theme
+msgid "BraveNewCode Inc."
+msgstr "BraveNewCode Inc."

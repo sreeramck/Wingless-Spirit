@@ -1,0 +1,4105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPtouch Pro 3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wptouch-pro\n"
+"POT-Creation-Date: 2016-06-01 07:47-0700\n"
+"PO-Revision-Date: 2016-06-01 12:14-0700\n"
+"Last-Translator: Emilio Rivera <emilio12345@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_419\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: admin/customizer/wptouch-customizer.php:471
+msgid "Switch to Mobile Theme"
+msgstr "Cambiar a versión móvil"
+
+#: admin/customizer/wptouch-customizer.php:472
+msgid "Switch to Desktop Theme"
+msgstr "Cambiar a versión de escritorio"
+
+#: admin/html/license-modals.php:5
+msgid "Activating License"
+msgstr "Activando licencia"
+
+#: admin/html/license-modals.php:15
+msgid "Server Unavailable."
+msgstr "El servidor está indisponible."
+
+#: admin/html/license-modals.php:16
+msgid ""
+"Our server cannot authorize your license. This could be caused by your "
+"webhost blocking the connection, or a temporary issue with our server."
+msgstr ""
+"Nuestro servidor no ha podido autorizar su licencia. Puede que haya un "
+"bloqueo en la conexión de parte del servicio de alojamiento o un problema "
+"temporal con el servidor."
+
+#: admin/html/license-modals.php:17
+msgid "E-Mail Support"
+msgstr "Soporte por e-mail"
+
+#: admin/html/license-modals.php:22
+msgid "E-mail Address/License Key Rejected"
+msgstr "Dirección de correo electrónico/Llave de licencia rechazada"
+
+#: admin/html/license-modals.php:23
+#: admin/pages/custom/wptouch-admin-wizard.php:57
+msgid "Our server rejected your E-Mail Address/License Key."
+msgstr ""
+"Nuestro servidor no ha reconocido su dirección de correo electrónico/llave "
+"de licencia."
+
+#: admin/html/license-modals.php:24
+#: admin/pages/custom/wptouch-admin-wizard.php:59
+msgid "Please check that they are correct and try again."
+msgstr ""
+"Por favor, asegúrese de que los datos estén correctos y pruebe otra vez."
+
+#: admin/html/license-modals.php:25
+msgid "Try Again"
+msgstr "Intente otra vez"
+
+#: admin/html/license-modals.php:30
+msgid "Your license has expired"
+msgstr "La licencia ha vencido"
+
+#: admin/html/license-modals.php:31
+msgid ""
+"%sRenew your license%s to continue to receive product updates and support."
+msgstr ""
+"%sRenueve su licencia%s para seguir recibiendo actualizaciones del producto "
+"y soporte."
+
+#: admin/html/license-modals.php:32
+#: admin/pages/custom/wptouch-admin-license.php:78
+msgid "Renew License"
+msgstr "Renovar la licencia"
+
+#: admin/html/license-modals.php:37
+msgid "No licenses remaining"
+msgstr "No quedan licencias restantes"
+
+#: admin/html/license-modals.php:38
+msgid ""
+"You have no licenses remaining. You can remove a license from another "
+"domain, or purchase an additional site license."
+msgstr ""
+"No hay licencias restantes. Puede eliminar una licencia de otro dominio o "
+"comprar una licencia de sitio adicional."
+
+#: admin/html/license-modals.php:39
+msgid "Manage Licenses"
+msgstr "Administrar licencias"
+
+#: admin/html/license-modals.php:40
+msgid "Purchase Additional License"
+msgstr "Comprar una licencia adicional"
+
+#: admin/html/license-modals.php:44
+msgid "License Activation Complete!"
+msgstr "¡Activación de la licencia finalizada!"
+
+#: admin/html/license-modals.php:45
+msgid ""
+"Thanks for purchasing WPtouch Pro! Your installation is activated, you can "
+"receive support and product updates for this website."
+msgstr ""
+"¡Gracias por comprar WPtouch Pro! Su instalación ha sido activada, ya puede "
+"recibir soporte y actualizaciones de producto para este sitio."
+
+#: admin/html/plugin-area.php:11
+msgid ""
+"A new product version (%s) is available. %sRenew your license%s to download "
+"this update and receive additional product support."
+msgstr ""
+"Hay una nueva versión del producto (%s) disponible. %sRenueve su licencia%s "
+"para descargar la actualización y recibir soporte adicional para el producto."
+
+#: admin/html/plugin-area.php:13
+msgid ""
+"A new product version (%s) is available. Please %sactivate your license%s, "
+"or %spurchase a new license%s to enable updates and full product support."
+msgstr ""
+"Una nueva versión del producto (%s) está disponible. Por favor, active su "
+"licencia%s, o %scompre una nueva licencia%s para permitir actualizaciones y "
+"soporte completo al producto."
+
+#: admin/html/plugin-area.php:30
+msgid ""
+"%sRenew your license%s to receive future product updates and product support."
+msgstr ""
+"%sRenueve su licencia%s para recibir actualizaciones futuras y soporte al "
+"producto."
+
+#: admin/html/plugin-area.php:32
+msgid ""
+"Please %sactivate your license%s, or %spurchase a license%s to fully enable "
+"product updates and product support."
+msgstr ""
+"Por favor, %sactive su licencia%s, o %scompre una licencia%s para permitir "
+"actualizaciones y soporte al producto."
+
+#: admin/pages/custom/wptouch-admin-license.php:32
+msgid "Account & License"
+msgstr "Cuenta y licencia"
+
+#: admin/pages/custom/wptouch-admin-license.php:72
+#: admin/pages/custom/wptouch-admin-wizard.php:65
+msgid "Account E-Mail Address"
+msgstr "Dirección de correo electrónico de la cuenta"
+
+#: admin/pages/custom/wptouch-admin-license.php:74
+#: admin/pages/custom/wptouch-admin-wizard.php:67
+msgid "Product License Key"
+msgstr "Llave de licencia del producto"
+
+#: admin/pages/custom/wptouch-admin-license.php:80
+#: admin/settings/html/extension-browser-item-detail.php:65
+#: admin/settings/html/extension-browser-item-detail.php:77
+#: admin/settings/html/theme-browser-item-detail.php:80
+#: admin/settings/html/theme-browser-item-detail.php:93
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/pages/custom/wptouch-admin-license.php:83
+msgid "Clear License"
+msgstr "Borrar licencia"
+
+#: admin/pages/custom/wptouch-admin-license.php:92
+msgid "Site License"
+msgstr "Licencia del sitio"
+
+#: admin/pages/custom/wptouch-admin-license.php:93 core/menu-walkers.php:351
+msgid "Remove"
+msgstr "Eliminar"
+
+#: admin/pages/custom/wptouch-admin-license.php:96
+msgid "Licenses used"
+msgstr "Licencias utilizadas"
+
+#: admin/pages/custom/wptouch-admin-license.php:97
+msgid "Manage"
+msgstr "Administrar"
+
+#: admin/pages/custom/wptouch-admin-license.php:101
+msgid "License expiry"
+msgstr "Caducidad de la licencia"
+
+#: admin/pages/custom/wptouch-admin-license.php:109
+msgid "Support"
+msgstr "Soporte"
+
+#: admin/pages/custom/wptouch-admin-license.php:115
+#: admin/pages/custom/wptouch-admin-wizard.php:274
+msgid "Find support guides, file tickets and access our knowledgebase here."
+msgstr ""
+"Encuentre guías de soporte, archive incidentes y acceda a nuestra base de "
+"conocimiento aquí."
+
+#: admin/pages/custom/wptouch-admin-license.php:119
+#: admin/pages/custom/wptouch-admin-wizard.php:27
+#: admin/pages/custom/wptouch-admin-wizard.php:43
+#: admin/pages/custom/wptouch-admin-wizard.php:201
+#: admin/pages/custom/wptouch-admin-wizard.php:219
+#: admin/pages/custom/wptouch-admin-wizard.php:272
+#: admin/pages/custom/wptouch-admin-wizard.php:277
+msgid "Ornamental Image"
+msgstr "Imagen decorativa"
+
+#: admin/pages/custom/wptouch-admin-license.php:121
+msgid "WPtouch Pro Account"
+msgstr "Cuenta WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:122
+msgid ""
+"Access your WPtouch Pro account to mange your license, access support "
+"resources, or upgrade your license."
+msgstr ""
+"Acceda a su cuenta WPtouch Pro para administrar su licencia, acceder a "
+"recursos de soporte o hacer upgrade de la licencia."
+
+#: admin/pages/custom/wptouch-admin-license.php:129
+msgid "Installation"
+msgstr "Instalación"
+
+#: admin/pages/custom/wptouch-admin-license.php:134
+msgid "Download Settings"
+msgstr "Configuraciones de descarga"
+
+#: admin/pages/custom/wptouch-admin-license.php:135
+msgid "Download a copy of WPtouch Pro settings"
+msgstr "Descargar una copia de los ajustes WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:139
+msgid "Restore Settings"
+msgstr "Restaurar las configuraciones"
+
+#: admin/pages/custom/wptouch-admin-license.php:143
+msgid "Restore a WPtouch Pro settings file"
+msgstr "Restaurar un archivo de configuraciones WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:148
+msgid "Erase Settings"
+msgstr "Borrar configuraciones"
+
+#: admin/pages/custom/wptouch-admin-license.php:149
+msgid "Erases WPtouch Pro settings without deleting files"
+msgstr "Borra los ajustes WPtouch Pro sin eliminar los archivos"
+
+#: admin/pages/custom/wptouch-admin-license.php:153
+msgid "Delete & Erase"
+msgstr "Eliminar y borrar"
+
+#: admin/pages/custom/wptouch-admin-license.php:154
+msgid ""
+"Deletes the %s folder in your %s folder on disk, and erases WPtouch Pro "
+"settings"
+msgstr ""
+"Elimina la carpeta %s en la carpeta %s en el disco y borra las "
+"configuraciones WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-license.php:157
+msgid "Delete, Erase & Deactivate"
+msgstr "Eliminar, borrar y desactivar"
+
+#: admin/pages/custom/wptouch-admin-license.php:158
+msgid ""
+"Deletes the %s folder, erases WPtouch settings and deactivates WPtouch Pro"
+msgstr ""
+"Elimina la carpeta %s, borra los ajustes WPtouch y desactiva WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:25
+msgid "Choose a Language"
+msgstr "Elegir un idioma"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:26
+msgid "Setting Language..."
+msgstr "Ajustando idioma…"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:44
+msgid "Welcome to WPtouch Pro 4"
+msgstr "Bienvenido(a) a WPtouch Pro 4"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:45
+msgid ""
+"The most elegant and powerful way to create great mobile experiences for "
+"your website visitors. This guide will help you configure important WPtouch "
+"Pro settings before customizing your theme."
+msgstr ""
+"La manera más elegante y eficaz de crear una excelente experiencia móvil "
+"para los visitantes del sitio. Esta guía le ayudará a definir ajustes "
+"importantes de WPtouch Pro antes de personalizar el tema."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:53
+#: admin/pages/custom/wptouch-admin-wizard.php:70
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:54
+msgid ""
+"Adding a license is required to activate product updates and support, and "
+"provides access to more themes and extensions."
+msgstr ""
+"Es necesario agregar una licencia para activar actualizaciones de producto y "
+"soporte, además de tener acceso a más temas y extensiones."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:76
+msgid ""
+"You can find your license key in the purchase receipt e-mail we sent you "
+"when you purchased WPtouch Pro. %s If you have lost your license e-mail, or "
+"are having issues activating WPtouch Pro please send an e-mail to %s"
+msgstr ""
+"Usted puede encontrar su llave de licencia en el recibo de compra que le "
+"enviamos por e-mail quando compró WPtouch Pro. %s Si ha perdido el correo "
+"con la licencia o tiene dificultad para activar WPtouch Pro, envíe un e-mail "
+"a %s"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:80
+msgid "License Activation Complete"
+msgstr "Activación de la licencia finalizada"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:81
+msgid "Thank you for purchasing a %s licence!"
+msgstr "¡Gracias por comprar una licencia %s!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:88
+msgid "Download / Upload a Theme"
+msgstr "Descargar/cargar un tema"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:89
+#: admin/pages/custom/wptouch-admin-wizard.php:138
+msgid ""
+"We were unable to install automatically for you on this server. Instead, you "
+"can download and upload manually. To learn more about enabling automatic "
+"downloads, %sread this article on support.wptouch.com%s."
+msgstr ""
+"No ha sido posible instalar automáticamente en este servidor. Sin embargo, "
+"puede intentar hacer descargas y envíos manualmente. Para saber más sobre "
+"cómo permitir descargas automáticas, %slea este artículo en el sitio support."
+"wptouch.com%s."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:101
+#: admin/pages/custom/wptouch-admin-wizard.php:149
+#: admin/settings/html/extension-browser-item-detail.php:69
+#: admin/settings/html/theme-browser-item-detail.php:84
+#: admin/settings/html/updates-available.php:20
+#: admin/settings/html/updates-available.php:56 core/class-wptouch-pro.php:861
+msgid "Download"
+msgstr "Descargar"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:103
+#: admin/pages/custom/wptouch-admin-wizard.php:151
+#: admin/settings/html/installed_icon_sets_ajax.php:13
+#: admin/settings/html/installed_icon_sets_ajax.php:26
+#: core/class-wptouch-pro.php:860
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+msgid "Theme Uploaded!"
+msgstr "¡Tema cargado!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+msgid "Upload A Theme"
+msgstr "Cargar un tema"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+#: admin/settings/html/image-upload.php:13
+msgid "Upload"
+msgstr "Cargar"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:109
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Uploading..."
+msgstr "Enviando…"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:110
+msgid "You can activate your theme in the next step"
+msgstr "Puede activar el tema en el próximo paso"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:115
+msgid "Choose a Theme"
+msgstr "Elija un tema"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:116
+msgid ""
+"Select a theme which best suits your website. %s Themes are flexible—colors, "
+"fonts, layout and more can be changed in each theme. %s You can switch "
+"themes later at any time in the settings."
+msgstr ""
+"Seleccione un tema que se adapte a su sitio. %s Los temas son flexibles - es "
+"posible cambiar colores, fuentes, la disposición y otras características en "
+"cada tema. %s Se puede cambiar de tema en cualquier momento en las "
+"configuraciones."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:137
+msgid "Download / Upload Extensions"
+msgstr "Descargar/cargar extensiones"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Extension Uploaded!"
+msgstr "¡Extensión cargada!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:157
+msgid "Upload Extension"
+msgstr "Cargar extensión"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:158
+msgid "You can activate extensions in the next step"
+msgstr "Se pueden activar extensiones en el próximo paso"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:164
+msgid "Activate Extensions"
+msgstr "Activar extensiones"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:165
+msgid ""
+"Extensions are like mini-plugins that help you extend WPtouch Pro. You can "
+"also manage Extensions at any time from the WPtouch Pro settings panel."
+msgstr ""
+"Las extensiones son como mini-plugins que ayudan a ampliar WPtouch Pro. "
+"También se pueden administrar las extensiones en cualquier momento desde el "
+"panel de ajustes WPtouch Pro."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:191
+msgid "Posts Page"
+msgstr "Página de entradas"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:193
+msgid "Home Page & Posts"
+msgstr "Página de inicio y entradas"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:195
+msgid ""
+"By default WPtouch Pro uses your WordPress settings for its homepage and "
+"blog settings. You can choose a different setup here."
+msgstr ""
+"En los ajustes predeterminados, WPtouch Pro usa los ajustes de WordPress "
+"para su pagina de inicio y configuraciones de blog."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:208
+#: admin/pages/custom/wptouch-admin-wizard.php:226
+#: admin/pages/wptouch-admin-general-settings.php:121
+#: admin/settings/include/custom-latest-posts.php:11
+msgid "WordPress Reading Settings"
+msgstr "Configuraciones de lectura de WordPress"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:215
+msgid "Mobile home page"
+msgstr "Página de inicio móvil"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:231
+msgid "Mobile posts listing"
+msgstr "Lista de entradas móviles"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:240
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:241
+msgid ""
+"WPtouch Pro supports analytics and usage statistics collection from Google "
+"Analytics."
+msgstr ""
+"WPtouch Pro soporte la recolección de analítica y estadísticas de uso de "
+"parte de Google Analytics."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:242
+msgid "WPtouch Pro can scan your site html and add it automatically."
+msgstr "WPtouch Pro puede escanear su sitio html y agregarlo automáticamente."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:246
+msgid "Searching..."
+msgstr "Buscando…"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:246
+msgid "Scan for Analytics Code"
+msgstr "Escanear código de Analítica"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:255
+msgid "WPtouch Love"
+msgstr "Me gusta WPtouch"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:256
+msgid ""
+"Share your love for WPtouch Pro by including a small text link in your "
+"website's footer. Including the link helps us find new customers who will "
+"love WPtouch Pro like you do!"
+msgstr ""
+"Es fácil compartir que le gusta WPtouch Pro incluyendo un enlace con un "
+"pequeño texto en el pie de su sitio. Eso nos ayuda a encontrar nuevos "
+"clientes a los que también les gusta WPtouch Pro."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:259
+msgid "Show powered by WPtouch Pro"
+msgstr "Mostrar texto “Creado con WPtouch Pro”"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:267
+msgid "WPtouch Pro Support"
+msgstr "Soporte WPtouch Pro"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:268
+msgid ""
+"WPtouch Pro 4 includes great support resources to help you get the most out "
+"of it."
+msgstr ""
+"WPtouch Pro 4 incluye excelentes recursos de soporte para ayudarlo a sacar "
+"máximo ventaja del programa."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:279
+msgid ""
+"Access your WPtouch Pro account to manage your license, access support "
+"resources, or upgrade your license."
+msgstr ""
+"Acceda a su cuenta WPtouch Pro para administrar su licencia, acceder a "
+"recursos de soporte o hacer upgrade de la licencia."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:287
+msgid "Setup Complete!"
+msgstr "¡Configuración finalizada!"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:288
+msgid " Next you can customize your theme, or configure advanced settings."
+msgstr ""
+" En la próxima etapa, puede personalizar su tema o configurar ajustes "
+"avanzados."
+
+#: admin/pages/custom/wptouch-admin-wizard.php:293
+msgid "Customize your Theme"
+msgstr "Personalizar su tema"
+
+#: admin/pages/custom/wptouch-admin-wizard.php:297
+msgid "Configure Settings"
+msgstr "Configurar ajustes"
+
+#: admin/pages/wptouch-admin-general-settings.php:22 core/admin-render.php:57
+#: core/config.php:88
+msgid "Updates Available"
+msgstr "Actualizaciones disponibles"
+
+#: admin/pages/wptouch-admin-general-settings.php:48
+msgid "Mobile Site Title"
+msgstr "Título del sitio móvil"
+
+#: admin/pages/wptouch-admin-general-settings.php:54
+msgid "WPtouch Pro site title"
+msgstr "Título del sitio WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:68
+msgid "Display"
+msgstr "Exhibición"
+
+#: admin/pages/wptouch-admin-general-settings.php:74
+msgid "Display WPtouch Pro for mobile visitors"
+msgstr "Exhibir WPtouch Pro a visitantes móviles"
+
+#: admin/pages/wptouch-admin-general-settings.php:75
+msgid ""
+"If disabled WPtouch Pro will be off for visitors but can be configured in "
+"the Customizer."
+msgstr ""
+"Si desactivado, WPtouch Pro quedará apagado para los visitantes, pero se "
+"podrá configurar en Customizer"
+
+#: admin/pages/wptouch-admin-general-settings.php:82
+msgid "URL filtering"
+msgstr "Filtro URL"
+
+#: admin/pages/wptouch-admin-general-settings.php:87
+msgid "Show WPtouch Pro for all URLs"
+msgstr "Mostrar WPtouch Pro para todas las URLs"
+
+#: admin/pages/wptouch-admin-general-settings.php:88
+msgid "Exclude WPtouch Pro on these URLs"
+msgstr "Eliminar WPtouch Pro en estas URLs"
+
+#: admin/pages/wptouch-admin-general-settings.php:89
+msgid "Only show WPtouch Pro on these URLs"
+msgstr "Mostrar WPtouch Pro solamente en estas URLs"
+
+#: admin/pages/wptouch-admin-general-settings.php:95
+msgid "Apply filter to these URLs/Pages"
+msgstr "Aplicar el filtro para estas URLs/páginas"
+
+#: admin/pages/wptouch-admin-general-settings.php:103
+msgid "Require exact match"
+msgstr "Exigir correspondencia exacta"
+
+#: admin/pages/wptouch-admin-general-settings.php:116
+msgid "Mobile front page"
+msgstr "Página de inicio móvil"
+
+#: admin/pages/wptouch-admin-general-settings.php:117
+msgid "You can set a different front page for WPtouch Pro visitors."
+msgstr ""
+"Se puede definir una página de inicio diferente para visitantes WPtouch Pro."
+
+#: admin/pages/wptouch-admin-general-settings.php:122
+msgid "Redirect to a page"
+msgstr "Redireccionar a una página"
+
+#: admin/pages/wptouch-admin-general-settings.php:123
+msgctxt "Refers to a custom landing page"
+msgid "Redirect to a custom URL"
+msgstr "Redireccionar a una URL personalizada"
+
+#: admin/pages/wptouch-admin-general-settings.php:129
+msgid "Custom Slug or URL"
+msgstr "Título o URL personalizado"
+
+#: admin/pages/wptouch-admin-general-settings.php:130
+msgid "Enter a Slug (i.e. \"/home\") or a full URL path"
+msgstr "Ingrese un Título (ej.: \"/home\") o una ruta de URL completa"
+
+#: admin/pages/wptouch-admin-general-settings.php:148
+msgid "Landing Pages"
+msgstr "Páginas de destino"
+
+#: admin/pages/wptouch-admin-general-settings.php:157
+msgid "Desktop / Mobile Switching"
+msgstr "Alternar entre Versión de escritorio / Versión móvil"
+
+#: admin/pages/wptouch-admin-general-settings.php:163
+msgctxt "switches between desktop and mobile themes"
+msgid "Theme switch toggle"
+msgstr "Botón para cambiar el tema"
+
+#: admin/pages/wptouch-admin-general-settings.php:174
+msgid ""
+"Shows a toggle in both the desktop mobile theme footers allowing users to "
+"switch between them."
+msgstr ""
+"Muestra un botón en el pie del tema de escritorio y del tema móvil para "
+"cambiar entre ellos."
+
+#: admin/pages/wptouch-admin-general-settings.php:179
+msgid "Page Zoom"
+msgstr "Zoom de la página"
+
+#: admin/pages/wptouch-admin-general-settings.php:185
+msgid "Allow mobile browser zooming"
+msgstr "Permitir zoom en el navegador móvil"
+
+#: admin/pages/wptouch-admin-general-settings.php:186
+msgid "By default WPtouch Pro disables browser zooming."
+msgstr ""
+"En los ajustes predeterminados, WPtouch Pro desactiva el zoom del navegador."
+
+#: admin/pages/wptouch-admin-general-settings.php:199
+msgid "Smart App Banner"
+msgstr "Smart App Banner"
+
+#: admin/pages/wptouch-admin-general-settings.php:216
+msgid "Find your ID from the %siTunes Link Maker%s."
+msgstr "Encuentre su ID en el %siTunes Link Maker%s."
+
+#: admin/pages/wptouch-admin-general-settings.php:221
+msgid "Analytics"
+msgstr "Analítica"
+
+#: admin/pages/wptouch-admin-general-settings.php:227
+msgid "Analytics Code"
+msgstr "Código de Analítica"
+
+#: admin/pages/wptouch-admin-general-settings.php:232
+#: admin/pages/wptouch-admin-general-settings.php:660
+#: advertising/advertising.php:33 infinity-cache/infinity-cache.php:246
+msgid "None"
+msgstr "Ninguno"
+
+#: admin/pages/wptouch-admin-general-settings.php:234
+#: infinity-cache/infinity-cache.php:247
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/pages/wptouch-admin-general-settings.php:242
+msgid "Site ID"
+msgstr "ID del sitio"
+
+#: admin/pages/wptouch-admin-general-settings.php:266
+msgid "WPtouch Pro Love"
+msgstr "Me gusta WPtouch Pro"
+
+#: admin/pages/wptouch-admin-general-settings.php:272
+msgid "Show powered by WPtouch Pro link in theme footer"
+msgstr ""
+"Mostrar un enlace con el texto “Creado con WPtouch Pro” en el pie del tema"
+
+#: admin/pages/wptouch-admin-general-settings.php:284
+msgid "Language"
+msgstr "Idioma"
+
+#: admin/pages/wptouch-admin-general-settings.php:290
+msgid "Theme Language"
+msgstr "Idioma del tema"
+
+#: admin/pages/wptouch-admin-general-settings.php:300
+msgid "Also applies to admin"
+msgstr "También se aplica al administrador"
+
+#: admin/pages/wptouch-admin-general-settings.php:320
+msgctxt ""
+"shortcodes are pieces of code [like_this] that users can drop into textareas "
+"that will convert to longer pieces of code"
+msgid "Shortcodes"
+msgstr "Códigos cortos"
+
+#: admin/pages/wptouch-admin-general-settings.php:326
+msgid "Process desktop theme shortcodes"
+msgstr "Procesar los códigos cortos del tema de desktop"
+
+#: admin/pages/wptouch-admin-general-settings.php:336
+msgid "Filter out shortcodes"
+msgstr "Filtrar códigos cortos"
+
+#: admin/pages/wptouch-admin-general-settings.php:337
+msgid "Filters out shortcodes from displaying when WPtouch Pro is active."
+msgstr ""
+"Filtra los códigos cortos para que no aparezcan cuando WPtouch Pro está "
+"activo."
+
+#: admin/pages/wptouch-admin-general-settings.php:351
+msgid "Active Plugins"
+msgstr "Plugins activos"
+
+#: admin/pages/wptouch-admin-general-settings.php:362
+msgid ""
+"Attempts to disable plugins for mobile visitors. Some plugins don‘t support "
+"this feature due to the way they load in WordPress."
+msgstr ""
+"Intenta inhabilitar plugins para visitantes móviles. Algunos plugins no "
+"soportan esta característica debido a la forma como se cargan en WordPress."
+
+#: admin/pages/wptouch-admin-general-settings.php:373
+msgid "Mobile Devices & Browsers"
+msgstr "Dispositivos y navegadores - móviles"
+
+#: admin/pages/wptouch-admin-general-settings.php:445
+#: mobilestore/root-functions.php:7
+msgid "Tablets"
+msgstr "Tablets"
+
+#: admin/pages/wptouch-admin-general-settings.php:514
+msgid "Tablet Devices & Browsers"
+msgstr "Dispositivos y navegadores - tablets"
+
+#: admin/pages/wptouch-admin-general-settings.php:531
+msgid ""
+"If your theme supports tablets, devices and browsers WPtouch Pro can be "
+"enabled for will be listed below."
+msgstr ""
+"Si su tema soporta tablets, dispositivos y navegadores, a continuación verá "
+"una lista de dónde se puede activar WPtouch Pro."
+
+#: admin/pages/wptouch-admin-general-settings.php:537
+msgid "Additional User Agents"
+msgstr "Agentes de usuario adicionales"
+
+#: admin/pages/wptouch-admin-general-settings.php:543
+msgid "User agents to add"
+msgstr "Agentes de usuario para añadir"
+
+#: admin/pages/wptouch-admin-general-settings.php:544
+msgid "You can enter partial i.e. \"nokia\" or full agent strings"
+msgstr ""
+"Se pueden ingresar secuencias parciales (por ejemplo: “nokia”) o completas"
+
+#: admin/pages/wptouch-admin-general-settings.php:562
+msgid "Menu Setup"
+msgstr "Configuración de menú"
+
+#: admin/pages/wptouch-admin-general-settings.php:581
+msgid "Menu Options"
+msgstr "Opciones del menú"
+
+#: admin/pages/wptouch-admin-general-settings.php:587
+msgid "Enable parent items as links"
+msgstr "Activar elementos del menú superior como enlaces"
+
+#: admin/pages/wptouch-admin-general-settings.php:588
+msgid "If disabled, parent menu items will only toggle child items."
+msgstr ""
+"Si desactivado, los elementos del menú superior sólo van a alternar "
+"elementos del menú inferior."
+
+#: admin/pages/wptouch-admin-general-settings.php:597
+msgid "Use menu icons"
+msgstr "Usar íconos del menú"
+
+#: admin/pages/wptouch-admin-general-settings.php:598
+msgid "Adds the ability to associate icons with menu items"
+msgstr "Permite asociar íconos con elementos del menú"
+
+#: admin/pages/wptouch-admin-general-settings.php:610
+msgid "Menu Icon Sets"
+msgstr "Grupos de íconos de menú"
+
+#: admin/pages/wptouch-admin-general-settings.php:623
+#: admin/settings/html/installed_icon_sets_ajax.php:4
+#: core/class-wptouch-pro.php:2015 core/class-wptouch-pro.php:2016
+#: core/config.php:54
+msgid "Custom Icons"
+msgstr "Íconos personalizados"
+
+#: admin/pages/wptouch-admin-general-settings.php:654
+msgid "WordPress Pages"
+msgstr "Páginas WordPress"
+
+#: admin/pages/wptouch-admin-general-settings.php:672 core/admin-render.php:73
+#: core/config.php:93
+msgid "Customize Theme"
+msgstr "Personalizar tema"
+
+#: admin/pages/wptouch-admin-touchboard.php:3
+msgid "What's New"
+msgstr "Qué hay de nuevo"
+
+#: admin/settings/html/button.php:6 admin/settings/html/checkbox.php:4
+#: admin/settings/html/checklist.php:6 admin/settings/html/list.php:8
+#: admin/settings/html/multiline-comma.php:9
+#: admin/settings/html/multiline-newline.php:7
+#: admin/settings/html/numeric.php:10 admin/settings/html/radiolist.php:17
+#: admin/settings/html/text.php:8 admin/settings/html/textarea.php:11
+msgid "New"
+msgstr "Nuevo"
+
+#: admin/settings/html/custom-latest-posts.php:1
+msgid "Posts page (blog)"
+msgstr "Página de entradas (blog)"
+
+#: admin/settings/html/custom_icon_management.php:3
+msgid "No icons have been uploaded yet"
+msgstr "Todavía no se han cargado íconos"
+
+#: admin/settings/html/custom_icon_upload.php:3
+msgid "Upload Icon"
+msgstr "Cargar ícono"
+
+#: admin/settings/html/customizing_in_customizer.php:9
+msgid ""
+"These settings are handled in the WordPress %s %sAppearance -> Customize%s "
+"settings."
+msgstr ""
+"Estos ajustes se pueden administrar en las configuraciones de WordPress, en "
+"%s %sApariencia -> Personalizar%s."
+
+#: admin/settings/html/customizing_in_customizer.php:10
+msgid "%sGo to the Customizer%s"
+msgstr "%sIr al menú Customizer%s"
+
+#: admin/settings/html/debuginfo.php:13
+msgid "View Debug File"
+msgstr "Ver archivo de depuración"
+
+#: admin/settings/html/debuginfo.php:18
+msgid "Server Configuration"
+msgstr "Configuración del servidor"
+
+#: admin/settings/html/extension-browser-item-detail.php:4
+msgid "Back to extensions"
+msgstr "Volver a extensiones"
+
+#: admin/settings/html/extension-browser-item-detail.php:26
+#: admin/settings/html/theme-browser-item-detail.php:30
+#: admin/settings/html/updates-available.php:7
+msgid "Updating"
+msgstr "Actualizando"
+
+#: admin/settings/html/extension-browser-item-detail.php:27
+#: admin/settings/html/updates-available.php:29
+#: admin/settings/html/updates-available.php:52
+msgid "Upgrade to %s"
+msgstr "Hacer upgrade a %s"
+
+#: admin/settings/html/extension-browser-item-detail.php:31
+#: admin/settings/html/theme-browser-item-detail.php:34
+#, fuzzy
+msgid "Download %s Update"
+msgstr "Descargar/cargar un tema"
+
+#: admin/settings/html/extension-browser-item-detail.php:42
+#: admin/settings/html/theme-browser-item-detail.php:44
+#, fuzzy
+msgid "Available in WPtouch Pro"
+msgstr "WPtouch Pro"
+
+#: admin/settings/html/extension-browser-item-detail.php:48
+#: admin/settings/html/theme-browser-item-detail.php:51
+msgid "More Info"
+msgstr "Más información"
+
+#: admin/settings/html/extension-browser-item-detail.php:53
+#: admin/settings/html/theme-browser-item-detail.php:57
+msgid "Add to License"
+msgstr "Añadir a la licencia"
+
+#: admin/settings/html/extension-browser-item-detail.php:57
+#: admin/settings/html/theme-browser-item-detail.php:61
+#, fuzzy
+msgid "Get License"
+msgstr "Licencia del sitio"
+
+#: admin/settings/html/extension-browser-item-detail.php:82
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: admin/settings/html/extension-browser-item-detail.php:90
+#: admin/settings/html/theme-browser-item-detail.php:116
+#: core/menu-walkers.php:301
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/settings/html/extension-browser-item-detail.php:95
+#: admin/settings/html/theme-browser-item-detail.php:123
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: admin/settings/html/extension-browser.php:3
+#: admin/settings/html/theme-browser.php:3
+#: admin/settings/html/updates-available.php:4
+msgid ""
+"Your server configuration is preventing WPtouch Pro from installing and "
+"updating from the Cloud. %sPlease visit %sthis article%s to follow the steps "
+"to enable Cloud install, or you can manually download and install into the "
+"wptouch-data/%s directory."
+msgstr ""
+"La configuración de su servidor no permite que WPtouch Pro sea instalado y "
+"actualizado desde la nube. %sPor favor, lea %seste artículo%s para ver los "
+"pasos para permitir la instalación en la nube; otra opción es descargarlo "
+"manualmente e instalarlo en el directorio wptouch-data/%s."
+
+#: admin/settings/html/image-upload.php:7 core/class-wptouch-pro.php:853
+msgid "Upload Complete!"
+msgstr "¡Carga finalizada!"
+
+#: admin/settings/html/image-upload.php:17
+msgid "Delete"
+msgstr "Eliminar"
+
+#: admin/settings/html/installed_icon_sets.php:3
+msgid "Loading icon sets"
+msgstr "Cargando grupos de íconos"
+
+#: admin/settings/html/installed_icon_sets.php:7
+msgid ""
+"The %s%s%s directory is not writable. %sPlease fix this issue to install "
+"additional icon sets."
+msgstr ""
+"El directorio %s%s%s no se puede modificar. %sSolucione el problema para "
+"permitir la instalación de grupos de íconos adicionales."
+
+#: admin/settings/html/installed_icon_sets_ajax.php:25
+#: core/class-wptouch-pro.php:859
+msgid "Installing"
+msgstr "Instalando"
+
+#: admin/settings/html/installed_icon_sets_ajax.php:25
+#: core/class-wptouch-pro.php:858
+msgid "Install"
+msgstr "Instalar"
+
+#: admin/settings/html/installed_icon_sets_ajax.php:27
+msgid "Unable to Install"
+msgstr "No fue posible instalar"
+
+#: admin/settings/html/menus_in_menus.php:9
+msgid ""
+"These settings are handled in the WordPress %s %sAppearance -> Menus%s "
+"settings"
+msgstr ""
+"Estos ajustes se pueden administrar en las configuraciones de WordPress, en "
+"%s %sApariencia -> Menús%s."
+
+#: admin/settings/html/menus_in_menus.php:10
+msgid "%sGo to Menu Settings%s"
+msgstr "%sIr a las configuraciones del menú%s"
+
+#: admin/settings/html/no_tablet_support.php:6
+msgid "You're using %s, which currently does not support tablets."
+msgstr "Está utilizando %s, que actualmente no ofrece soporte para tablets."
+
+#: admin/settings/html/plugin-compat-ajax.php:10
+#: themes/foundation/modules/custom-posts/custom-posts.php:180
+msgid "%s"
+msgstr "%s"
+
+#: admin/settings/html/plugin-compat-ajax.php:19
+msgid "No plugins activated to disable."
+msgstr "No hay plugins activados para inhabilitar."
+
+#: admin/settings/html/plugin-compat.php:3
+msgid "Your active plugin list is refreshing"
+msgstr "Su lista de plugins activos se está actualizando"
+
+#: admin/settings/html/redirect.php:1
+msgid "Redirect target"
+msgstr "Redireccionar destino"
+
+#: admin/settings/html/theme-browser-item-detail.php:4
+msgid "Back to themes"
+msgstr "Volver a temas"
+
+#: admin/settings/html/theme-browser-item-detail.php:25
+msgid "Customize"
+msgstr "Personalizar"
+
+#: admin/settings/html/theme-browser-item-detail.php:31
+#, fuzzy
+msgid "Update to %s"
+msgstr "Hacer upgrade a %s"
+
+#: admin/settings/html/theme-browser-item-detail.php:70
+msgid "Buy Now"
+msgstr "Compra ahora"
+
+#: admin/settings/html/theme-browser-item-detail.php:101
+msgid "Screenshots"
+msgstr "Capturas de pantalla"
+
+#: admin/settings/html/touchboard.php:6
+msgid "Quick Links"
+msgstr "Enlaces rápidos"
+
+#: admin/settings/html/touchboard.php:8
+msgid "What's New Changelog"
+msgstr "Registro de cambios de 'Qué hay de nuevo'"
+
+#: admin/settings/html/touchboard.php:11
+msgid "Knowledgebase & Support"
+msgstr "Base de conocimiento y soporte"
+
+#: admin/settings/html/touchboard.php:12
+msgid "Manage Account & License"
+msgstr "Administrar cuenta y licencia"
+
+#: admin/settings/html/touchboard.php:14
+msgid "WPtouch User Guide"
+msgstr "Guía del usuario de WPtouch"
+
+#: admin/settings/html/touchboard.php:15
+msgid "Mobile-Friendly Guide"
+msgstr "Guía amigable para dispositivos móviles"
+
+#: admin/settings/html/touchboard.php:17
+msgid "WPtouch on Twitter"
+msgstr "WPtouch en Twitter"
+
+#: admin/settings/html/touchboard.php:20
+msgid "Look at Pro Themes"
+msgstr "Ver los temas Pro"
+
+#: admin/settings/html/touchboard.php:21
+msgid "Look at Pro Extensions"
+msgstr "Ver las extensiones Pro"
+
+#: admin/settings/html/touchboard.php:22
+msgid "Look at Pro Features"
+msgstr "Ver las funciones Pro"
+
+#: admin/settings/html/touchboard.php:29
+msgid "WPtouch News"
+msgstr "Novedades WPtouch"
+
+#: admin/settings/html/touchboard.php:30
+msgid "Read More"
+msgstr "Lea más"
+
+#: admin/settings/html/touchboard.php:42
+msgid "%s Change Log"
+msgstr "%s Registro de cambios"
+
+#: admin/settings/html/updates-available.php:7
+msgid "Update All"
+msgstr "Actualizar todos"
+
+#: admin/settings/html/updates-available.php:12 core/admin-render.php:67
+#: core/admin-render.php:69 core/config.php:94
+msgid "Themes"
+msgstr "Temas"
+
+#: admin/settings/html/updates-available.php:40 core/admin-render.php:76
+#: core/admin-render.php:78 core/config.php:95
+msgid "Extensions"
+msgstr "Extensiones"
+
+#: advanced-type/advanced-type.php:46
+msgid ""
+"%sAdvanced Type for WPtouch Pro%s requires %s to be enabled on your server "
+"to load web fonts. Please enable this function on your webhost."
+msgstr ""
+"%sAdvanced Type de WPtouch Pro requiere %s %s estar habilitada en el "
+"servidor para cargar fuentes web. Por favor, active esta función en a su "
+"servidor."
+
+#: advanced-type/advanced-type.php:98
+msgid "Load Fonts"
+msgstr "Cargar más fuentes"
+
+#: advanced-type/advanced-type.php:99
+msgid "Could not load your fonts. Please check project/kit details and reload."
+msgstr ""
+"No se pudo cargar sus fuentes. Por favor, consulte los detalles del proyecto/"
+"kit y vuelva a cargar la página."
+
+#: advanced-type/advanced-type.php:255 advanced-type/advanced-type.php:277
+msgid "Font Source"
+msgstr "Origen de la fuente"
+
+#: advanced-type/advanced-type.php:261 advanced-type/advanced-type.php:283
+msgid "Select the source for your web fonts"
+msgstr "Seleccione el origen de sus fuentes web"
+
+#: advanced-type/advanced-type.php:262
+msgid "Other options will become available once allow_url_fopen is enabled"
+msgstr ""
+"Otras opciones estarán disponibles una vez que allow_url_fopen está "
+"habilitado"
+
+#: advanced-type/advanced-type.php:266
+msgid "Theme Font Pairings"
+msgstr "Emparejamientos de fuentes web"
+
+#: advanced-type/advanced-type.php:300
+msgid "Typekit"
+msgstr "Typekit"
+
+#: advanced-type/advanced-type.php:319
+msgid "Fontdeck"
+msgstr "Fontdeck"
+
+#: advanced-type/advanced-type.php:325
+msgid "Domain"
+msgstr "Dominio"
+
+#: advanced-type/advanced-type.php:333
+msgid "Project"
+msgstr "Proyecto"
+
+#: advanced-type/advanced-type.php:346
+msgid "Latin"
+msgstr "Latín"
+
+#: advanced-type/advanced-type.php:347
+msgid "Latin Extended"
+msgstr "Latín Extendido"
+
+#: advanced-type/advanced-type.php:348
+msgid "Cyrillic"
+msgstr "Cirílico"
+
+#: advanced-type/advanced-type.php:349
+msgid "Cyrillic Extended"
+msgstr "Cirílico Extendido"
+
+#: advanced-type/advanced-type.php:350
+msgid "Greek"
+msgstr "Griego"
+
+#: advanced-type/advanced-type.php:351
+msgid "Greek Extended"
+msgstr "Griego Extendido"
+
+#: advanced-type/advanced-type.php:352
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: advanced-type/advanced-type.php:353
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: advanced-type/advanced-type.php:360
+msgid "Google Font Subsets"
+msgstr "Subconjuntos de fuentes de Google"
+
+#: advanced-type/advanced-type.php:366
+msgid "Load subsets"
+msgstr "Cargando subconjuntos"
+
+#: advanced-type/advanced-type.php:376
+msgid ""
+"Google fonts are available in multiple character sets. WPtouch Pro will load "
+"your selected subsets when available."
+msgstr ""
+"Fuentes de Google están disponibles en varios conjuntos de caracteres. "
+"WPtouch Pro cargara sus subconjuntos seleccionados cuando esté disponible."
+
+#: advanced-type/advanced-type.php:418
+msgid "Heading"
+msgstr "Título"
+
+#: advanced-type/advanced-type.php:419
+msgid "Body"
+msgstr "Cuerpo"
+
+#: advanced-type/advanced-type.php:420
+msgid "Meta"
+msgstr "Meta"
+
+#: advanced-type/advanced-type.php:445
+msgid "Advanced Type"
+msgstr "Advanced Type"
+
+#: advanced-type/advanced-type.php:457
+msgid "Setup Fonts"
+msgstr "Configurar fuentes"
+
+#: advertising/advertising.php:4
+msgid "Basic Ads"
+msgstr "Basic Ads"
+
+#: advertising/advertising.php:22
+msgid "Service"
+msgstr "Servicio"
+
+#: advertising/advertising.php:28
+msgid "Advertising type"
+msgstr "Tipo de publicidad"
+
+#: advertising/advertising.php:34
+msgid "Google Adsense"
+msgstr "Google Adsense"
+
+#: advertising/advertising.php:35
+#, fuzzy
+msgctxt "Refers to a custom advertising service"
+msgid "Custom"
+msgstr "Personalizado"
+
+#: advertising/advertising.php:45
+msgid "Google AdSense"
+msgstr "Google Adsense"
+
+#: advertising/advertising.php:51
+msgid "Publisher ID"
+msgstr "Identificación del editor"
+
+#: advertising/advertising.php:59
+msgid "Slot ID"
+msgstr "Identificación del Slot"
+
+#: advertising/advertising.php:67
+msgid "Code Type"
+msgstr "Tipo de código"
+
+#: advertising/advertising.php:80
+msgid "Custom Ads"
+msgstr "Anuncios personalizados"
+
+#: advertising/advertising.php:86
+msgid "Mobile advertising script"
+msgstr "Código de la publicidad móvil"
+
+#: advertising/advertising.php:99
+msgid "Ad Presentation"
+msgstr "Presentación de anuncios"
+
+#: advertising/advertising.php:105
+msgid "Theme location"
+msgstr "Localización del tema"
+
+#: advertising/advertising.php:110
+msgid "In the header"
+msgstr "En la cabecera"
+
+#: advertising/advertising.php:111
+#, fuzzy
+msgid "Above the page content"
+msgstr "Arriba del contenido de la entrada"
+
+#: advertising/advertising.php:112
+#, fuzzy
+msgid "Below the page content"
+msgstr "Abajo del contenido de la entrada"
+
+#: advertising/advertising.php:121
+msgid "Active Pages"
+msgstr "Páginas activas"
+
+#: advertising/advertising.php:124
+#, fuzzy
+msgid "Blog listings"
+msgstr "Lista de entradas móviles"
+
+#: advertising/advertising.php:125
+msgid "Single posts"
+msgstr "Entradas recientes"
+
+#: advertising/advertising.php:126
+msgid "Static pages"
+msgstr "Páginas estáticas"
+
+#: advertising/advertising.php:127
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: advertising/advertising.php:128
+#, fuzzy
+msgid "Search results"
+msgstr "ningún resultado para la búsqueda"
+
+#: bauhaus/default/404.php:6 classic-redux/default/404.php:6
+#: mobilestore/default/404.php:6 open/default/404.php:6 prose/default/404.php:6
+#: simple/default/404.php:6 themes/foundation/default/404.php:6
+msgid "404 Not Found"
+msgstr "404 no encontrado"
+
+#: bauhaus/default/404.php:8 classic-redux/default/404.php:8
+#: mobilestore/default/404.php:8 open/default/404.php:8 prose/default/404.php:8
+#: simple/default/404.php:8 themes/foundation/default/404.php:8
+msgid "The post or page you requested is no longer available."
+msgstr "La entrada o página solicitada ya no está disponible."
+
+#: bauhaus/default/attachment.php:10 classic-redux/default/attachment.php:10
+#: mobilestore/default/attachment.php:10 open/default/attachment.php:10
+#: prose/default/attachment.php:10 simple/default/attachment.php:10
+#: themes/foundation/default/attachment.php:10
+msgid "Back to %s"
+msgstr "Volver a %s"
+
+#: bauhaus/default/attachment.php:47 classic-redux/default/attachment.php:47
+#: mobilestore/default/attachment.php:47 open/default/attachment.php:47
+#: prose/default/attachment.php:47 simple/default/attachment.php:47
+#: themes/foundation/default/attachment.php:47
+msgid "&laquo; previous in gallery"
+msgstr "&laquo; anterior en la galería"
+
+#: bauhaus/default/attachment.php:49 classic-redux/default/attachment.php:49
+#: mobilestore/default/attachment.php:49 open/default/attachment.php:49
+#: prose/default/attachment.php:49 simple/default/attachment.php:49
+#: themes/foundation/default/attachment.php:49
+msgid "next in gallery &raquo;"
+msgstr "próximo en la galería &raquo;"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "no responses"
+msgstr "sin respuesta"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "1 response"
+msgstr "1 respuesta"
+
+#: bauhaus/default/comments.php:10 classic-redux/default/comments.php:10
+#: classic-redux/default/post-loop.php:33 cms/default/comments.php:10
+#: mobilestore/default/comments.php:10 open/default/comments.php:10
+#: prose/default/comments.php:10 simple/default/comments.php:10
+#: themes/foundation/default/comments.php:10
+msgid "% responses"
+msgstr "% respuestas"
+
+#: bauhaus/default/comments.php:20 bauhaus/default/comments.php:26
+#: classic-redux/default/comments.php:20 classic-redux/default/comments.php:26
+#: cms/default/comments.php:20 cms/default/comments.php:26
+#: mobilestore/default/comments.php:20 mobilestore/default/comments.php:26
+#: open/default/comments.php:20 open/default/comments.php:26
+#: prose/default/comments.php:20 prose/default/comments.php:26
+#: simple/default/comments.php:20 simple/default/comments.php:26
+#: themes/foundation/default/comments.php:20
+#: themes/foundation/default/comments.php:26
+msgid "Load More Comments&hellip;"
+msgstr "Cargar más comentarios&hellip;"
+
+#: bauhaus/default/comments.php:38 classic-redux/default/comments.php:38
+#: cms/default/comments.php:38 mobilestore/default/comments.php:38
+#: open/default/comments.php:38 prose/default/comments.php:38
+#: simple/default/comments.php:38 themes/foundation/default/comments.php:38
+msgid "Comments are closed"
+msgstr "Los comentarios están cerrados"
+
+#: bauhaus/default/comments.php:48 classic-redux/default/comments.php:48
+#: cms/default/comments.php:48 core/menu-walkers.php:352
+#: mobilestore/default/comments.php:48
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:91
+#: open/default/comments.php:48 prose/default/comments.php:48
+#: simple/default/comments.php:48 themes/foundation/default/comments.php:48
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: bauhaus/default/comments.php:51 classic-redux/default/comments.php:51
+#: cms/default/comments.php:51 mobilestore/default/comments.php:51
+#: open/default/comments.php:51 prose/default/comments.php:51
+#: simple/default/comments.php:51 themes/foundation/default/comments.php:51
+msgid "Leave a Reply"
+msgstr "Responder"
+
+#: bauhaus/default/comments.php:51 classic-redux/default/comments.php:51
+#: cms/default/comments.php:51 mobilestore/default/comments.php:51
+#: open/default/comments.php:51 prose/default/comments.php:51
+#: simple/default/comments.php:51 themes/foundation/default/comments.php:51
+msgid "Leave a Reply to %s"
+msgstr "Responder a %s"
+
+#: bauhaus/default/comments.php:54 classic-redux/default/comments.php:54
+#: cms/default/comments.php:54 mobilestore/default/comments.php:54
+#: open/default/comments.php:54 prose/default/comments.php:54
+#: simple/default/comments.php:54 themes/foundation/default/comments.php:54
+msgid "You must be %slogged in%s to post a comment."
+msgstr "Debe estar %sconectado%s para publicar un comentario."
+
+#: bauhaus/default/comments.php:61 classic-redux/default/comments.php:61
+#: cms/default/comments.php:61 mobilestore/default/comments.php:61
+#: open/default/comments.php:61 prose/default/comments.php:61
+#: simple/default/comments.php:61 themes/foundation/default/comments.php:61
+msgid "Logged in as"
+msgstr "Sesión iniciada como"
+
+#: bauhaus/default/comments.php:61 classic-redux/default/comments.php:61
+#: cms/default/comments.php:61 mobilestore/default/comments.php:61
+#: open/default/comments.php:61 prose/default/comments.php:61
+#: simple/default/comments.php:61 themes/foundation/default/comments.php:61
+msgid "Log out"
+msgstr "Cerrar sesión"
+
+#: bauhaus/default/comments.php:65 classic-redux/default/comments.php:65
+#: cms/default/comments.php:65 mobilestore/default/comments.php:65
+#: open/default/comments.php:65 prose/default/comments.php:65
+#: simple/default/comments.php:65 themes/foundation/default/comments.php:65
+msgid "Name"
+msgstr "Nombre"
+
+#: bauhaus/default/comments.php:67 classic-redux/default/comments.php:67
+#: cms/default/comments.php:67 mobilestore/default/comments.php:67
+#: open/default/comments.php:67 prose/default/comments.php:67
+#: simple/default/comments.php:67 themes/foundation/default/comments.php:67
+#: themes/foundation/modules/social-links/social-links.php:94
+msgid "E-Mail"
+msgstr "Correo electrónico"
+
+#: bauhaus/default/comments.php:69 classic-redux/default/comments.php:69
+#: cms/default/comments.php:69 mobilestore/default/comments.php:69
+#: open/default/comments.php:69 prose/default/comments.php:69
+#: simple/default/comments.php:69 themes/foundation/default/comments.php:69
+msgid "Website"
+msgstr "Sitio"
+
+#: bauhaus/default/comments.php:77 classic-redux/default/comments.php:77
+#: cms/default/comments.php:77 mobilestore/default/comments.php:77
+#: open/default/comments.php:77 prose/default/comments.php:77
+#: simple/default/comments.php:77 themes/foundation/default/comments.php:77
+msgid "Publish"
+msgstr "Publicar"
+
+#: bauhaus/default/footer.php:10 cms/default/footer.php:10
+#: mobilestore/default/footer.php:10 open/default/footer.php:10
+#: prose/default/footer.php:10 simple/default/footer.php:10
+#: themes/foundation/default/footer.php:10
+msgid "Back to top"
+msgstr "Volver arriba"
+
+#: bauhaus/default/header-bottom.php:13 bauhaus/default/header-bottom.php:15
+#: blueprint/default/header-bottom.php:35
+#: classic-redux/default/header-bottom.php:50
+#: simple/default/header-bottom.php:26
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: bauhaus/default/header-bottom.php:47 blueprint/default/header-bottom.php:24
+#: classic-redux/default/header-bottom.php:73
+msgid "Search this website"
+msgstr "Búsqueda en este sitio"
+
+#: bauhaus/default/header-bottom.php:48 blueprint/default/header-bottom.php:14
+#: blueprint/default/header-bottom.php:25
+#: classic-redux/default/header-bottom.php:44
+#: classic-redux/default/header-bottom.php:75 cms/root-functions.php:199
+#: mobilestore/default/header-bottom.php:87
+#, fuzzy
+msgid "Search"
+msgstr "Buscando…"
+
+#: bauhaus/default/index.php:33 classic-redux/default/index.php:34
+#: cms/default/header-bottom.php:67 cms/default/index.php:33
+#: mobilestore/default/index.php:33 open/default/index.php:45
+#: prose/default/index.php:33 simple/default/index.php:33
+#: themes/foundation/default/index.php:33
+msgid "newer posts"
+msgstr "entradas recientes"
+
+#: bauhaus/default/index.php:33 classic-redux/default/index.php:34
+#: cms/default/header-bottom.php:63 cms/default/index.php:33
+#: mobilestore/default/index.php:33 open/default/index.php:45
+#: prose/default/index.php:33 simple/default/index.php:33
+#: themes/foundation/default/index.php:33
+msgid "older posts"
+msgstr "entradas anteriores"
+
+#: bauhaus/default/nav-bar.php:6 classic-redux/default/nav-bar.php:6
+#: cms/default/nav-bar.php:6 mobilestore/default/nav-bar.php:6
+#: open/default/nav-bar.php:6 prose/default/nav-bar.php:6
+#: simple/default/nav-bar.php:6 themes/foundation/default/nav-bar.php:6
+msgid "previous post"
+msgstr "entrada anterior"
+
+#: bauhaus/default/nav-bar.php:13 classic-redux/default/nav-bar.php:12
+#: cms/default/nav-bar.php:13 mobilestore/default/nav-bar.php:12
+#: open/default/nav-bar.php:12 prose/default/nav-bar.php:12
+#: simple/default/nav-bar.php:12 themes/foundation/default/nav-bar.php:12
+msgid "next post"
+msgstr "próxima entrada"
+
+#: bauhaus/default/one-comment.php:17 classic-redux/default/one-comment.php:17
+#: cms/default/one-comment.php:17 mobilestore/default/one-comment.php:17
+#: open/default/one-comment.php:17 prose/default/one-comment.php:17
+#: simple/default/one-comment.php:17
+#: themes/foundation/default/one-comment.php:17
+msgid "Your comment is awaiting moderation"
+msgstr "Su comentario está esperando moderación"
+
+#: bauhaus/default/one-comment.php:21 classic-redux/default/one-comment.php:21
+#: cms/default/one-comment.php:21 mobilestore/default/one-comment.php:21
+#: open/default/one-comment.php:21 prose/default/one-comment.php:21
+#: simple/default/one-comment.php:21
+#: themes/foundation/default/one-comment.php:21
+msgid "Reply"
+msgstr "Responder"
+
+#: bauhaus/default/post-loop.php:22 classic-redux/default/post-loop.php:24
+msgid "by"
+msgstr "por"
+
+#: bauhaus/default/related-posts.php:4
+#: related-posts/template/related-posts.php:3
+#: themes/foundation/default/related-posts.php:4
+msgid "Related"
+msgstr "Relacionado"
+
+#: bauhaus/default/search.php:19 classic-redux/default/search.php:5
+#: cms/default/search.php:6 mobilestore/default/search.php:6
+#: open/default/search.php:6 simple/default/search.php:6
+#: themes/foundation/default/search.php:6
+msgid "You searched for \"%s\""
+msgstr "Usted ha buscado \"%s\""
+
+#: bauhaus/default/search.php:27
+#, fuzzy
+msgid "Show %s Results"
+msgstr "%s resultados"
+
+#: bauhaus/default/search.php:52 bauhaus/default/search.php:69
+#, fuzzy
+msgid "No results found"
+msgstr "ningún resultado para la búsqueda"
+
+#: bauhaus/default/search.php:60 classic-redux/default/search.php:47
+#: cms/default/search.php:43 mobilestore/default/search.php:43
+#: open/default/search.php:43 simple/default/search.php:43
+#: themes/foundation/default/search.php:43
+msgid "Load more %s results"
+msgstr "Cargar más resultados %s"
+
+#: bauhaus/default/sharing.php:2 classic-redux/default/sharing.php:2
+#: cms/default/sharing.php:2 mobilestore/default/sharing.php:2
+#: open/default/sharing.php:2 prose/default/sharing.php:2
+#: simple/default/sharing.php:2 themes/foundation/default/sharing.php:2
+msgid "Share"
+msgstr "Compartir"
+
+#: bauhaus/default/sharing.php:3 classic-redux/default/sharing.php:3
+#: cms/default/sharing.php:3 mobilestore/default/sharing.php:3
+#: open/default/sharing.php:3 prose/default/sharing.php:3
+#: simple/default/sharing.php:3 themes/foundation/default/sharing.php:3
+msgid "Tweet"
+msgstr "Tuitea"
+
+#: bauhaus/default/sharing.php:4 classic-redux/default/sharing.php:4
+#: cms/default/sharing.php:4 mobilestore/default/sharing.php:4
+#: open/default/sharing.php:4 prose/default/sharing.php:4
+#: simple/default/sharing.php:4 themes/foundation/default/sharing.php:4
+msgid "Pin"
+msgstr "Pin"
+
+#: bauhaus/default/sharing.php:5 classic-redux/default/sharing.php:5
+#: cms/default/sharing.php:5 mobilestore/default/sharing.php:5
+#: open/default/sharing.php:5 prose/default/sharing.php:5
+#: simple/default/sharing.php:5 themes/foundation/default/sharing.php:5
+msgid "Mail"
+msgstr "Correo electrónico"
+
+#: bauhaus/default/single.php:16
+msgid "no comments"
+msgstr "sin comentarios"
+
+#: bauhaus/default/single.php:16
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: bauhaus/default/single.php:16
+msgid "% comments"
+msgstr "% comentarios"
+
+#: bauhaus/default/single.php:36 classic-redux/default/header-bottom.php:37
+#: classic-redux/default/header-bottom.php:58
+msgid "Categories"
+msgstr "Categorías"
+
+#: bauhaus/default/single.php:39 classic-redux/default/header-bottom.php:41
+#: classic-redux/default/header-bottom.php:65
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: bauhaus/default/switch-link.php:8 classic-redux/default/switch-link.php:8
+#: cms/default/switch-link.php:8 mobilestore/default/switch-link.php:8
+#: open/default/switch-link.php:8 prose/default/switch-link.php:8
+#: simple/default/switch-link.php:8 themes/foundation/default/switch-link.php:8
+msgid "mobile"
+msgstr "móvil"
+
+#: bauhaus/default/switch-link.php:9 classic-redux/default/switch-link.php:9
+#: cms/default/switch-link.php:9 mobilestore/default/switch-link.php:9
+#: open/default/switch-link.php:9 prose/default/switch-link.php:9
+#: simple/default/switch-link.php:9 themes/foundation/default/switch-link.php:9
+msgid "desktop"
+msgstr "escritorio"
+
+#: bauhaus/root-functions.php:117 classic-redux/root-functions.php:89
+msgid "Header Menu"
+msgstr "Menú de cabecera"
+
+#: bauhaus/root-functions.php:119 blueprint/root-functions.php:65
+#: classic-redux/root-functions.php:91 cms/root-functions.php:91
+#: cms/root-functions.php:100 mobilestore/root-functions.php:264
+#: mobilestore/root-functions.php:276 open/root-functions.php:105
+#: prose/root-functions.php:211 simple/root-functions.php:56
+#: simple/root-functions.php:66
+msgid "Choose a menu"
+msgstr "Elija un menú"
+
+#: bauhaus/root-functions.php:120
+msgid "Main menu selection"
+msgstr "Selección del menú principal"
+
+#: bauhaus/root-functions.php:127 blueprint/root-functions.php:73
+#: classic-redux/root-functions.php:99 cms/root-functions.php:107
+#: open/root-functions.php:114 prose/root-functions.php:219
+#: simple/root-functions.php:74
+msgid "Theme background"
+msgstr "Fondo del tema"
+
+#: bauhaus/root-functions.php:128
+msgid "Header & Menu"
+msgstr "Encabezado y Menú"
+
+#: bauhaus/root-functions.php:129 blueprint/root-functions.php:74
+#: classic-redux/root-functions.php:100 cms/root-functions.php:108
+#: mobilestore/root-functions.php:315 open/root-functions.php:115
+#: prose/root-functions.php:221 simple/root-functions.php:75
+msgid "Links"
+msgstr "Enlaces"
+
+#: bauhaus/root-functions.php:130
+msgid "Post/Page Headers"
+msgstr "Encabezados de entradas/páginas"
+
+#: bauhaus/root-functions.php:223
+msgid "Menu animation style"
+msgstr "Estilo de la animación del menú"
+
+#: bauhaus/root-functions.php:228
+msgid "Off-canvas"
+msgstr "Fuera de la lona"
+
+#: bauhaus/root-functions.php:229
+msgid "Drop-down"
+msgstr "Desplegable"
+
+#: bauhaus/root-functions.php:237
+msgid "Show search in header"
+msgstr "Mostrar búsqueda en la cabecera"
+
+#: bauhaus/root-functions.php:254 classic-redux/root-functions.php:205
+msgid "Post thumbnails"
+msgstr "Miniaturas de entrada"
+
+#: bauhaus/root-functions.php:259 classic-redux/root-functions.php:210
+msgid "No thumbnails"
+msgstr "Sin miniaturas"
+
+#: bauhaus/root-functions.php:260 classic-redux/root-functions.php:211
+msgid "Blog listing only"
+msgstr "Sólo en los listados de entradas"
+
+#: bauhaus/root-functions.php:261 classic-redux/root-functions.php:212
+msgid "Blog listing, single posts"
+msgstr "Listado de entradas, entradas"
+
+#: bauhaus/root-functions.php:262
+msgid "Blog listing, single posts & pages"
+msgstr "Listado de entradas, entradas y páginas"
+
+#: bauhaus/root-functions.php:263
+msgid "All (blog, single, pages, search & archive)"
+msgstr "Todos (blog, entradas, páginas, búsqueda y archivo)"
+
+#: bauhaus/root-functions.php:271
+msgid "Thumbnail Type"
+msgstr "Tipo de miniatura"
+
+#: bauhaus/root-functions.php:276
+msgid "Post featured images"
+msgstr "Miniaturas de entrada"
+
+#: bauhaus/root-functions.php:277 classic-redux/root-functions.php:227
+msgid "Post custom field"
+msgstr "Campo personalizado"
+
+#: bauhaus/root-functions.php:285 classic-redux/root-functions.php:235
+msgid "Thumbnail custom field name"
+msgstr "Nombre personalizado del campo de miniatura"
+
+#: bauhaus/root-functions.php:296 classic-redux/root-functions.php:268
+msgid "Show post categories and tags"
+msgstr "Mostrar categorías y etiquetas"
+
+#: bauhaus/root-functions.php:307 classic-redux/root-functions.php:246
+msgid "Show post date"
+msgstr "Mostrar fecha"
+
+#: bauhaus/root-functions.php:318 classic-redux/root-functions.php:257
+msgid "Show post author"
+msgstr "Mostrar autor"
+
+#: bauhaus/root-functions.php:329
+msgid "Show comment bubbles on posts"
+msgstr "Mostrar burbujas de comentarios en las entradas"
+
+#: bauhaus/root-functions.php:340 classic-redux/root-functions.php:279
+msgid "Use infinite scrolling for blog"
+msgstr "Utilizar el desplazamiento infinito para entradas"
+
+#: blueprint/default/header-bottom.php:13
+#: classic-redux/default/header-bottom.php:23
+#: classic-redux/default/header-bottom.php:34
+#: classic-redux/default/header-bottom.php:109
+#: mobilestore/default/header-bottom.php:57 prose/default/header-bottom.php:21
+msgid "Menu"
+msgstr "Menú"
+
+#: blueprint/default/header-bottom.php:33
+#: classic-redux/default/header-bottom.php:48
+#: simple/default/header-bottom.php:24
+#: themes/foundation/modules/login/login-html.php:20
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: blueprint/root-functions.php:63 mobilestore/root-functions.php:262
+#: open/root-functions.php:103 prose/root-functions.php:209
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: blueprint/root-functions.php:66 open/root-functions.php:106
+msgid "Menus are awesome!"
+msgstr "Los menús son impresionantes!"
+
+#: classic-redux/default/header-bottom.php:85
+msgid "Tweets"
+msgstr "Tweets"
+
+#: classic-redux/default/header-bottom.php:89
+msgid "Follow %s on Twitter"
+msgstr "Siga %s en Twitter"
+
+#: classic-redux/default/post-loop.php:56
+msgid "Read This Post"
+msgstr "Leer entrada"
+
+#: classic-redux/default/search.php:15 cms/default/search.php:16
+#: mobilestore/default/search.php:16 open/default/search.php:16
+#: simple/default/search.php:16 themes/foundation/default/search.php:16
+msgid "%s results"
+msgstr "%s resultados"
+
+#: classic-redux/default/search.php:38 cms/default/search.php:34
+#: mobilestore/default/search.php:34 open/default/search.php:34
+#: simple/default/search.php:34 themes/foundation/default/search.php:34
+msgid "No search results found"
+msgstr "ningún resultado para la búsqueda"
+
+#: classic-redux/default/single.php:18
+msgid "Written by %s"
+msgstr "Escrito por %s"
+
+#: classic-redux/root-functions.php:98 cms/root-functions.php:106
+#: open/root-functions.php:113 simple/root-functions.php:73
+msgid "Header background"
+msgstr "Fondo de cabecera"
+
+#: classic-redux/root-functions.php:213
+msgid "All (blog, single, search and archive)"
+msgstr "Todos (blog, entrada, búsqueda y archivo)"
+
+#: classic-redux/root-functions.php:221
+msgid "Thumbnail Selection"
+msgstr "Selección de miniaturas"
+
+#: classic-redux/root-functions.php:226
+msgid "Post featured image"
+msgstr "Imagen miniatura de entrada"
+
+#: classic-redux/root-functions.php:290
+msgid "Use rounded corners"
+msgstr "Usar esquinas redondeadas"
+
+#: classic-redux/root-functions.php:308
+msgid "Show page title areas on pages"
+msgstr "Mostrar área de título en páginas"
+
+#: classic-redux/root-functions.php:322
+msgid "Header Menu Area"
+msgstr "Área de menú de cabecera "
+
+#: classic-redux/root-functions.php:328
+msgid "Drop-down button says \"Menu\""
+msgstr "Botón desplegable dice \"Menú\""
+
+#: classic-redux/root-functions.php:336
+msgid "Show tab bar"
+msgstr "Mostrar barra de pestañas"
+
+#: classic-redux/root-functions.php:344
+msgid "Tab-bar shows categories or tags"
+msgstr "Barra de pestañas muestra categorías o etiquetas"
+
+#: classic-redux/root-functions.php:349
+msgid "Categories and tags"
+msgstr "Categorías y etiquetas"
+
+#: classic-redux/root-functions.php:350
+msgid "Categories only"
+msgstr "Sólo categorías"
+
+#: classic-redux/root-functions.php:351
+msgid "Tags only"
+msgstr "Sólo etiquetas"
+
+#: classic-redux/root-functions.php:352
+msgid "No categories or tags"
+msgstr "Sin categorías o etiquetas"
+
+#: classic-redux/root-functions.php:358
+msgid "Max categories / tags"
+msgstr "Número máximo de categorías / etiquetas"
+
+#: cms/default/header-bottom.php:17
+msgid "menu"
+msgstr "menú"
+
+#: cms/default/header-bottom.php:26
+msgid "login"
+msgstr "iniciar sesión"
+
+#: cms/default/header-bottom.php:30
+msgid "logout"
+msgstr "cerrar sesión"
+
+#: cms/default/header-bottom.php:44 simple/default/footer-top.php:3
+msgid "search this website"
+msgstr "búsqueda en este sitio"
+
+#: cms/default/header-bottom.php:45 simple/default/footer-top.php:5
+msgid "search"
+msgstr "buscar"
+
+#: cms/default/single.php:12 themes/foundation/default/single.php:13
+msgid "By"
+msgstr "Por"
+
+#: cms/root-functions.php:45
+msgid "Alt Menu"
+msgstr "Menú alternativo"
+
+#: cms/root-functions.php:89
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: cms/root-functions.php:98
+msgid "Alternate Menu"
+msgstr "Menú Alternativo"
+
+#: cms/root-functions.php:146
+msgid "Show featured images on single posts"
+msgstr "Mostrar miniaturas en las entradas"
+
+#: cms/root-functions.php:164
+msgid "Show titles on pages"
+msgstr "Mostrar títulos en las páginas"
+
+#: cms/root-functions.php:180
+msgid "Category Slider"
+msgstr "Barra deslizante de categoría"
+
+#: cms/root-functions.php:186
+msgid "Enable category slider"
+msgstr "Activar barra deslizante de categorías"
+
+#: cms/root-functions.php:205
+msgid "Enable search"
+msgstr "Habilitar la búsqueda"
+
+#: cms/root-functions.php:219 simple/root-functions.php:219
+msgid "Tiled Background Image"
+msgstr "Imagen de fondo"
+
+#: cms/root-functions.php:225 simple/root-functions.php:225
+msgid "(Scaled for retina displays)"
+msgstr "(Escalado para pantallas retina)"
+
+#: cms/root-functions.php:238
+msgid "Second Menu"
+msgstr "Segundo Menú"
+
+#: cms/root-functions.php:244
+msgid "Second\t menu button label (if used)"
+msgstr "Etiqueta del botón del segundo menú (si se utiliza)"
+
+#: cms/root-functions.php:259
+msgid "Front Page Alternate Content"
+msgstr "Contenido alternativo de la página de inicio"
+
+#: cms/root-functions.php:265 simple/root-functions.php:206
+msgid "Front page alternate content"
+msgstr "Contenido alternativo de la página de inicio"
+
+#: core/addon-theme-installer.php:168
+msgid "No server support for directly downloading new Cloud packages."
+msgstr ""
+"No hay soporte del servidor para descargar directamente los nuevos paquetes "
+"de la nube."
+
+#: core/addon-theme-installer.php:173
+msgid ""
+"Unable to write to directory %s. Try relaxing permissions to allow writing "
+"to this location."
+msgstr ""
+"No fue posible guardar en el directorio %s. Intente modificar los permisos "
+"para permitir que se guarde en esta ubicación."
+
+#: core/addon-theme-installer.php:178
+msgid "No server support for unzipping files."
+msgstr "No hay soporte del servidor para descomprimir archivos."
+
+#: core/addon-theme-installer.php:193
+msgid "Unable to download the Cloud package."
+msgstr "No fue posible descargar el paquete en la nube."
+
+#: core/admin-ajax.php:98
+msgid "Version %s"
+msgstr "Versión %s"
+
+#: core/admin-ajax.php:104
+msgid ""
+"There is a temporary issue retrieving the change-log.  Please try again "
+"later."
+msgstr ""
+"Hay un problema temporal en la recuperación del registro de cambios. Por "
+"favor, intente más tarde."
+
+#: core/admin-ajax.php:184
+msgid "Code found! %s Analytics was automatically configured for you."
+msgstr "¡Código encontrado! %s Analítica ha sido configurado automáticamente."
+
+#: core/admin-ajax.php:203
+msgid ""
+"Unable to find your Google Analytics code. You can enter it manually in the "
+"settings later."
+msgstr ""
+"No ha sido posible encontrar su código Google Analytics. Puede insertarlo "
+"manualmente en las configuraciones más tarde."
+
+#: core/admin-menu.php:34
+msgid "Setup Wizard"
+msgstr "Asistente de configuración"
+
+#: core/admin-menu.php:35 core/class-wptouch-pro.php:1501
+#: web-app-mode/web-app-mode.php:36
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: core/admin-menu.php:36
+msgid "License %s Support"
+msgstr "Soporte a licencia %s"
+
+#: core/admin-page-templates.php:17
+msgid "Mobile Page Template"
+msgstr "Plantilla de página móvil"
+
+#: core/admin-render.php:4
+msgid ""
+"Your WPtouch Pro license has expired. Renew now at a discount to continue "
+"receiving product updates and support."
+msgstr ""
+"Su licencia WPtouch ha expirado. Renueve ahora con descuento para continuar "
+"a receber atualizações do produto e suporte."
+
+#: core/admin-render.php:4
+msgid "Renew Now"
+msgstr "Renovar ahora"
+
+#: core/admin-render.php:10
+msgid "This copy of %s is currently unlicensed."
+msgstr "Esta copia de %s no tiene licencia en este momento."
+
+#: core/admin-render.php:13
+msgid "Add a license %s"
+msgstr "Agregar licencia %s"
+
+#: core/admin-render.php:37
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: core/admin-render.php:38
+msgid "Reset Settings"
+msgstr "Restablecer configuraciones"
+
+#: core/admin-render.php:51
+msgid "Setup"
+msgstr "Configuración"
+
+#: core/admin-render.php:61 core/config.php:89
+msgid "General"
+msgstr "General"
+
+#: core/admin-render.php:62
+msgid "Site Compatibility"
+msgstr "Compatibilidad del sitio"
+
+#: core/admin-render.php:63 core/config.php:91
+msgid "Devices"
+msgstr "Dispositivos"
+
+#: core/admin-render.php:64 core/config.php:92
+msgid "Menu Settings"
+msgstr "Ajustes del menú"
+
+#: core/admin-render.php:71 themes/foundation/root-functions.php:9
+msgid "Theme Settings"
+msgstr "Configuraciones de tema"
+
+#: core/class-wptouch-pro.php:566
+msgid ""
+"Automatic theme migration from uploads/wptouch-data directory failed. Please "
+"manually move these files to wp-content/wptouch-data, or %scontact support%s "
+"to address this issue."
+msgstr ""
+"La migración automática de tema desde el directorio uploads/wptouch-data ha "
+"fallado. Por favor, lleve manualmente los archivos a wp-content/wptouch-"
+"data, o %spóngase en contacto con el soporte técnico%s para solucionar este "
+"problema."
+
+#: core/class-wptouch-pro.php:585
+msgid ""
+"%sWPtouch: %s was recently disabled, but is still affecting your website and "
+"caching pages.%s"
+msgstr ""
+"%sWPtouch: %s ha sido desactivado recientemente, pero todavía está afectando "
+"su sitio y almacenando páginas en caché.%s"
+
+#: core/class-wptouch-pro.php:586
+msgid ""
+"%sPlease reactivate the plugin, disable page caching, then deactivate the "
+"plugin again to correct this issue.%s"
+msgstr ""
+"%sPor favor, reactive el plugin, inhabilite el almacenamiento de páginas en "
+"caché y después desactive el plugin otra vez para corrigir el problema.%s"
+
+#: core/class-wptouch-pro.php:587 core/class-wptouch-pro.php:596
+msgid ""
+"%sFixing this issue prevents cached desktop pages being served to mobile "
+"devices and vice-versa.%s"
+msgstr ""
+"%sLa corrección de este problema evita que las páginas de escritorio en "
+"caché sean enviadas a dispositivos móviles y viceversa.%s"
+
+#: core/class-wptouch-pro.php:588 core/class-wptouch-pro.php:597
+msgid ""
+"%sOnce fixed, this message will be dismissed automatically. Until fixed, "
+"%sWPtouch will not be shown%s to mobile visitors, and cannot be previewed.%s"
+msgstr ""
+"%sUna vez corregido el problema, este mensaje desaparecerá automáticamente. "
+"Hasta ese momento, %sWPtouch no será exhibido%s para visitantes móviles, y "
+"no se podrá previsualizar.%s"
+
+#: core/class-wptouch-pro.php:595
+msgid "%sWPtouch: %s needs to be configured to work correctly with WPtouch.%s"
+msgstr ""
+"%sWPtouch: %s debe ser configurado para funcionar correctamente con WPtouch."
+"%s"
+
+#: core/class-wptouch-pro.php:598
+msgid ""
+"%sTo fix the issue, follow our %sstep-by-step setup guide%s on support."
+"wptouch.com%s"
+msgstr ""
+"%sPara solucionar este problema, debe seguir la %sguía paso a paso%s en el "
+"sitio support.wptouch.com%s"
+
+#: core/class-wptouch-pro.php:610
+msgid "Repair Required"
+msgstr "Mantenimiento necesario"
+
+#: core/class-wptouch-pro.php:617
+msgid "Your theme was either broken or missing."
+msgstr "Su tema está roto o ausente."
+
+#: core/class-wptouch-pro.php:618
+msgid "We downloaded a fresh copy for you."
+msgstr "Le descargamos una copia nueva."
+
+#: core/class-wptouch-pro.php:619 core/class-wptouch-pro.php:629
+msgid "OK"
+msgstr "OK"
+
+#: core/class-wptouch-pro.php:622
+msgid ""
+"We were unable to install your WPtouch Pro theme from the Cloud. %s Please "
+"visit %sthis article%s for more information."
+msgstr ""
+"No ha sido posible instalar su tema WPtouch Pro desde la nube. %s Por favor, "
+"vea %seste artículo%s para obtener más información."
+
+#: core/class-wptouch-pro.php:625
+msgid "Server Issue"
+msgstr "Problema del servidor"
+
+#: core/class-wptouch-pro.php:627
+msgid ""
+"Your server setup is preventing WPtouch Pro from installing from the Cloud. "
+"%s Please visit %sthis article%s for more information on how to fix it."
+msgstr ""
+"La configuración de su servidor no permite que WPtouch Pro sea instalado "
+"desde la nube. %sPor favor, lea %seste artículo%s para obtener más "
+"información sobre cómo corregir el problema."
+
+#: core/class-wptouch-pro.php:848
+msgid ""
+"This will reset all WPtouch Pro settings.\n"
+"Are you sure?"
+msgstr ""
+"Todas las configuraciones de WPtouch Pro serán restablecidas.\n"
+"¿Desea continuar?"
+
+#: core/class-wptouch-pro.php:849
+msgid ""
+"This will reset all WPtouch Pro settings and delete the wptouch-data "
+"folder.\n"
+"Are you sure?"
+msgstr ""
+"Esto va a restablecer las configuraciones WPtouch Pro y eliminar la carpeta "
+"wptouch-data.\n"
+"¿Desea continuar?"
+
+#: core/class-wptouch-pro.php:850
+msgid ""
+"This will reset all WPtouch Pro settings, delete the wptouch-data folder, "
+"and deactivate the plugin. Are you sure?"
+msgstr ""
+"Esto va a restablecer las configuraciones WPtouch Pro, eliminar la carpeta "
+"wptouch-data y desactivar el plugin. ¿Desea continuar?"
+
+#: core/class-wptouch-pro.php:851
+msgid "The item failed to download for this reason: %reason%"
+msgstr "No fue posible terminar la descarga por este motivo: %motivo%"
+
+#: core/class-wptouch-pro.php:852
+msgid "You are about to reset your license information. Proceed?"
+msgstr ""
+"Está a punto de restablecer la información de la licencia. ¿Desea continuar?"
+
+#: core/class-wptouch-pro.php:854
+msgid "Upload Failed: Not a valid image."
+msgstr "El envío ha fallado: imagen inválida."
+
+#: core/class-wptouch-pro.php:855
+msgid ""
+"WPtouch is saving settings. Please do not refresh the page while saving."
+msgstr ""
+"WPtouch está guardando las configuraciones. Por favor, no actualice la "
+"página durante el proceso."
+
+#: core/class-wptouch-pro.php:856
+msgid "Install Themes"
+msgstr "Instalar temas"
+
+#: core/class-wptouch-pro.php:857
+msgid "Install Extensions"
+msgstr "Instalar extensiones"
+
+#: core/class-wptouch-pro.php:1537
+msgid "%s Changelog"
+msgstr "%s registro de cambios"
+
+#: core/class-wptouch-pro.php:2889
+msgid "Directory Problem"
+msgstr "Problema de directorio"
+
+#: core/class-wptouch-pro.php:2890
+msgid "One or more required directories could not be created"
+msgstr "No se pudo crear uno o más directorios necesarios"
+
+#: core/config.php:90
+msgid "Compatibility"
+msgstr "Compatibilidad"
+
+#: core/globals.php:193
+msgid "smartphone"
+msgstr "smartphone"
+
+#: core/globals.php:195
+msgid "tablet"
+msgstr "tablet"
+
+#: core/globals.php:462
+msgid "Auto-detect"
+msgstr "Detección automática"
+
+#. translators: %s: title of menu item which is invalid
+#: core/menu-walkers.php:206
+msgid "%s (Invalid)"
+msgstr "%s (Inválido)"
+
+#. translators: %s: title of menu item in draft status
+#: core/menu-walkers.php:210
+msgid "%s (Pending)"
+msgstr "%s (Pendiente)"
+
+#: core/menu-walkers.php:223
+msgid "sub item"
+msgstr "subelemento"
+
+#: core/menu-walkers.php:238
+msgid "Move up"
+msgstr "Mover hacia arriba"
+
+#: core/menu-walkers.php:251
+msgid "Move down"
+msgstr "Mover hacia abajo"
+
+#: core/menu-walkers.php:253 core/menu-walkers.php:255
+msgid "Edit Menu Item"
+msgstr "Editar elemento del menú"
+
+#: core/menu-walkers.php:264
+msgid "URL"
+msgstr "URL"
+
+#: core/menu-walkers.php:271
+msgid "Navigation Label"
+msgstr "Etiqueta de navegación"
+
+#: core/menu-walkers.php:277
+msgid "Title Attribute"
+msgstr "Atributo del título"
+
+#: core/menu-walkers.php:284
+msgid "Open link in a new window/tab"
+msgstr "Abrir enlace en una nueva pestaña/ventana"
+
+#: core/menu-walkers.php:289
+msgid "CSS Classes (optional)"
+msgstr "Clases CSS (opcional)"
+
+#: core/menu-walkers.php:295
+msgid "Link Relationship (XFN)"
+msgstr "Relación con el enlace (XFN)"
+
+#: core/menu-walkers.php:303
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"La descripción será exhibida en el menú si el tema actual ofrece soporte "
+"para tal."
+
+#: core/menu-walkers.php:313
+msgid "Mobile Menu Icon"
+msgstr "Ícone de menú móvil"
+
+#: core/menu-walkers.php:317
+msgid "WPtouch Icons"
+msgstr "Íconos WPtouch"
+
+#: core/menu-walkers.php:317
+msgid "Change Icon"
+msgstr "Cambiar ícono"
+
+#: core/menu-walkers.php:318
+msgid "Use Default"
+msgstr "Usar el predeterminado"
+
+#: core/menu-walkers.php:326
+msgid "Move"
+msgstr "Mover"
+
+#: core/menu-walkers.php:327
+msgid "Up one"
+msgstr "Uno hacia arriba"
+
+#: core/menu-walkers.php:328
+msgid "Down one"
+msgstr "Uno hacia abajo"
+
+#: core/menu-walkers.php:331
+msgid "To the top"
+msgstr "Hasta arriba del todo"
+
+#: core/menu-walkers.php:338
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: core/menu-walkers.php:581
+msgid "Feed for all posts filed under %s"
+msgstr "Feed para todas las entradas archivadas en %s"
+
+#: include/html/desktop-switch.php:2
+msgid "Desktop Version"
+msgstr "Versión de escritorio"
+
+#: include/html/desktop-switch.php:2
+msgid "Switch To Mobile Version"
+msgstr "Cambiar a la Versión móvil"
+
+#: include/html/footer.php:7
+msgid "Powered by<br/>%s%s%s"
+msgstr "Creado con<br/>%s%s%s"
+
+#: include/html/load-times.php:2
+msgid "%d queries in %0.1f ms"
+msgstr "%d consultas en %0.1f ms"
+
+#: include/html/page-template.php:8
+msgid "Default Template"
+msgstr "Plantilla predeterminada"
+
+#: infinity-cache/infinity-cache.php:89 infinity-cache/infinity-cache.php:270
+msgid "Purge Page Cache"
+msgstr "Purgar caché de página"
+
+#: infinity-cache/infinity-cache.php:163
+msgid "Enable Infinity Cache"
+msgstr "Habilitar Infinity Cache"
+
+#: infinity-cache/infinity-cache.php:171
+msgid "Create cache for desktop users"
+msgstr "Crear caché para usuarios de escritorio"
+
+#: infinity-cache/infinity-cache.php:172
+msgid "If you are using another cache plugin such as W3, you can disable this."
+msgstr ""
+"Si está utilizando otro plugin de caché como W3, puede desactivar esto."
+
+#: infinity-cache/infinity-cache.php:193
+msgid "Compress output using GZIP"
+msgstr "Comprimir salida usando GZIP"
+
+#: infinity-cache/infinity-cache.php:203
+msgid "Maximum age of cached content"
+msgstr "Edad máxima de contenido almacenado en caché"
+
+#: infinity-cache/infinity-cache.php:204
+msgid ""
+"Each cached page will automatically be regenerated after this period elapses"
+msgstr ""
+"Cada página en caché automáticamente se regenera después de que transcurra "
+"este período"
+
+#: infinity-cache/infinity-cache.php:208 infinity-cache/infinity-cache.php:209
+#: infinity-cache/infinity-cache.php:210 infinity-cache/infinity-cache.php:211
+#: infinity-cache/infinity-cache.php:212
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: infinity-cache/infinity-cache.php:219
+msgid "Remove stale cache file interval"
+msgstr "Intervalo para eliminar archivos de caché rancios"
+
+#: infinity-cache/infinity-cache.php:224
+msgid "Hourly"
+msgstr "Cada hora"
+
+#: infinity-cache/infinity-cache.php:225
+msgid "Daily"
+msgstr "Diariamente"
+
+#: infinity-cache/infinity-cache.php:232
+msgid "Disable caching for any of these matched URL fragments"
+msgstr ""
+"Desactivar el almacenamiento en caché para cualquiera de estos fragmentos de "
+"URL coincidentes"
+
+#: infinity-cache/infinity-cache.php:233
+msgid ""
+"Add one URL fragment per line, i.e. %s, to not cache pages that contain each "
+"URL fragment"
+msgstr ""
+"Añadir un fragmento de URL por línea, es decir %s, para no almacenar en "
+"caché las páginas que contienen cada fragmento de URL."
+
+#: infinity-cache/infinity-cache.php:241
+msgid "Content Distribution Network Service"
+msgstr "Servicio de red de distribución de contenidos (CDN)"
+
+#: infinity-cache/infinity-cache.php:242
+msgid ""
+"Using a content distribution network (CDN) can significantly enhance the "
+"responsiveness of your website."
+msgstr ""
+"El uso de una red de distribución de contenidos (CDN) puede mejorar "
+"significativamente la capacidad de respuesta de su sitio web."
+
+#: infinity-cache/infinity-cache.php:255
+msgid "URL %d"
+msgstr "URL %d"
+
+#: infinity-cache/infinity-cache.php:256
+msgid ""
+"Add the URLs you have configured for your CDN, for example http://cdn%d."
+"mysite.com. Add your domain for multisite as well."
+msgstr ""
+"Añadir las direcciones URL que ha configurado para el CDN, por ejemplo "
+"http://cdn%d.mysite.com. Añadir su dominio para el sitio de múltiples "
+"también."
+
+#: infinity-cache/infinity-cache.php:278
+msgid "Infinity Cache"
+msgstr ""
+
+#: infinity-cache/infinity-cache.php:287
+msgid "CDN"
+msgstr ""
+
+#: infinity-cache/infinity-cache.php:706
+msgid "An example for this URL is: %s%s%s."
+msgstr "Un ejemplo de este URL es: %s%s%s."
+
+#: jquery-enhanced/jquery-enhanced.php:29
+msgid "Enable jQuery Enhanced"
+msgstr "Habilitar jQuery Enhanced"
+
+#: jquery-enhanced/jquery-enhanced.php:38
+msgid "Choose a version"
+msgstr "Elija una versión"
+
+#: jquery-enhanced/jquery-enhanced.php:39
+msgid ""
+"jQuery 2.x does not include support for older mobile devices and operating "
+"systems. Can cause issues with other plugins that rely on older jQuery code. "
+"Use with caution."
+msgstr ""
+"jQuery 2.x no incluye soporte para dispositivos móviles y sistemas "
+"operativos anteriores. Puede causar problemas con otros plugins que se basan "
+"en los más antiguos código de jQuery. Utilizar con precaución."
+
+#: jquery-enhanced/jquery-enhanced.php:43
+msgid "Latest jQuery 1.x"
+msgstr "Última jQuery 1.x"
+
+#: jquery-enhanced/jquery-enhanced.php:44
+msgid "Latest jQuery 2.x"
+msgstr "Última jQuery 2.x"
+
+#: jquery-enhanced/jquery-enhanced.php:51
+msgid "Load jQuery in the footer instead of the header"
+msgstr "Cargar jQuery en el pie de página en lugar de la cabecera"
+
+#: jquery-enhanced/jquery-enhanced.php:59
+msgid "jQuery Enhanced"
+msgstr ""
+
+#: make-child/make-child.php:28
+msgid "Title of child theme"
+msgstr "Título del tema hijo"
+
+#: make-child/make-child.php:37
+msgid "Parent theme"
+msgstr "Tema padre"
+
+#: make-child/make-child.php:38
+msgid "The parent theme your child will be based off of."
+msgstr "El tema de los padres que su hijo se basa en"
+
+#: make-child/make-child.php:42
+msgid "Bauhaus"
+msgstr ""
+
+#: make-child/make-child.php:43
+msgid "CMS"
+msgstr ""
+
+#: make-child/make-child.php:44
+msgid "MobileStore"
+msgstr ""
+
+#: make-child/make-child.php:45
+msgid "Prose"
+msgstr ""
+
+#: make-child/make-child.php:46
+msgid "Classic"
+msgstr ""
+
+#: make-child/make-child.php:47
+msgid "Open"
+msgstr ""
+
+#: make-child/make-child.php:48
+msgid "Simple"
+msgstr ""
+
+#: make-child/make-child.php:54
+msgid "Make Child Theme"
+msgstr ""
+
+#: mobile-content/mobile-content.php:25
+msgid "WPtouch Alternate Mobile Content"
+msgstr "Contenido Alternativo Móvil de WPtouch"
+
+#: mobile-content/mobile-content.php:49
+msgid "Mobile Content"
+msgstr ""
+
+#: mobile-content/mobile-content.php:55
+msgid "Enable mobile content display"
+msgstr "Permitir la visualización de contenido móvil"
+
+#: mobile-content/mobile-content.php:63
+msgid "Mobile Content adds a content meta box to post and page editors."
+msgstr ""
+"Mobile Content añade una caja de meta en editores de páginas y entradas."
+
+#: mobilestore/default/functions.php:135
+#: mobilestore/default/woocommerce/checkout/form-login.php:16
+msgid "Login now"
+msgstr "Inicia sesión ahora"
+
+#: mobilestore/default/functions.php:136
+msgid "Close"
+msgstr "Cerrar"
+
+#: mobilestore/default/functions.php:137
+msgid "Add Company Name"
+msgstr "Añadir Nombre de Empresa"
+
+#: mobilestore/default/functions.php:138
+msgid "Add Order Notes"
+msgstr "Añadir notas de la orden"
+
+#: mobilestore/default/functions.php:139
+msgid "CVC"
+msgstr "CVC"
+
+#: mobilestore/default/functions.php:200
+msgid "view more products"
+msgstr "ver más productos"
+
+#: mobilestore/default/functions.php:218
+msgid "Added to cart"
+msgstr "Añadir al carro"
+
+#: mobilestore/default/functions.php:401
+msgid "More"
+msgstr "Mas"
+
+#: mobilestore/default/header-bottom.php:10
+msgid "Product Categories"
+msgstr "Categorías de Producto"
+
+#: mobilestore/default/header-bottom.php:16
+msgid "Recently Viewed"
+msgstr "Visto Recientemente"
+
+#: mobilestore/default/header-bottom.php:21
+msgid "Site Menu"
+msgstr "Menú del sitio"
+
+#: mobilestore/default/header-bottom.php:75
+msgid "Cart"
+msgstr "Carro"
+
+#: mobilestore/default/header-bottom.php:85
+msgid "Search the store"
+msgstr "Buscar en la tienda"
+
+#: mobilestore/default/header-bottom.php:90
+msgid "Recent Searches"
+msgstr "Búsquedas recientes"
+
+#: mobilestore/default/header-bottom.php:90
+msgid "Clear"
+msgstr "Despejar"
+
+#: mobilestore/default/header-bottom.php:138
+msgid "Most Popular Products"
+msgstr "Productos populares"
+
+#: mobilestore/default/header-bottom.php:151
+msgid "%s: Most Popular"
+msgstr "%s: Más Popular"
+
+#: mobilestore/default/header-bottom.php:172
+msgid "Back to blog index"
+msgstr "Volver al índice del blog"
+
+#: mobilestore/default/header-bottom.php:184
+msgid "sorting"
+msgstr "clasificación"
+
+#: mobilestore/default/header-bottom.php:185
+msgid "filter by"
+msgstr "filtrado por"
+
+#: mobilestore/default/post-loop.php:9 open/default/post-loop.php:9
+#: simple/default/post-loop.php:9
+msgid "Read This Post &rsaquo;"
+msgstr "Leer entrada &rsaquo;"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:18
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:33
+msgid "Shipping #%d"
+msgstr "Envío #%d"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:20
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:35
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:112
+msgid "Shipping"
+msgstr "Envío"
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:74
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Por favor, utilice la calculadora de envíos para ver los métodos de envío "
+"disponibles."
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:78
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Por favor continúe a la caja e introduzca su dirección completa para ver si "
+"hay algún método de envío disponibles."
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:82
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+"Por favor, introduzca sus datos para ver los métodos de envío disponibles."
+
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:91
+#: mobilestore/default/woocommerce/cart/cart-shipping.php:97
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"No parece haber ninguna métodos de envío disponibles. Por favor comprobar su "
+"dirección, o póngase en contacto con nosotros si necesita ayuda."
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:19
+#: mobilestore/default/woocommerce/cart/mini-cart.php:77
+#: mobilestore/default/woocommerce/checkout/review-order.php:68
+msgid "Subtotal"
+msgstr "Total parcial"
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:66
+msgid " (taxes estimated for %s)"
+msgstr "(impuestos estimados para %s)"
+
+#: mobilestore/default/woocommerce/cart/cart-totals.php:69
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Nota: El envío y los impuestos se estiman y se actualizarán durante el pago "
+"basado en su información de facturación y envío."
+
+#: mobilestore/default/woocommerce/cart/cart.php:51
+msgid "Available on backorder"
+msgstr "Disponible por pedido pendiente"
+
+#: mobilestore/default/woocommerce/cart/cart.php:57
+msgid "Remove this item"
+msgstr "Eliminar este producto"
+
+#: mobilestore/default/woocommerce/cart/cart.php:83
+msgid "Update Cart"
+msgstr "Actualizar Carrito"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+msgid "Coupon"
+msgstr "Cupón"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+#: mobilestore/default/woocommerce/checkout/review-order.php:84
+msgid "Coupon code"
+msgstr "Código de cupón"
+
+#: mobilestore/default/woocommerce/cart/cart.php:93
+#: mobilestore/default/woocommerce/checkout/form-coupon.php:20
+#: mobilestore/default/woocommerce/checkout/review-order.php:86
+msgid "Apply"
+msgstr "Aplicar"
+
+#: mobilestore/default/woocommerce/cart/cart.php:113
+msgid "Proceed to Checkout"
+msgstr "Pasar por la caja"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:23
+msgid "edit cart"
+msgstr "editar carrito"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:26
+msgid "checkout"
+msgstr "revisa"
+
+#: mobilestore/default/woocommerce/cart/mini-cart.php:69
+msgid "No products in the cart."
+msgstr "No hay productos en el carrito."
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr "Debe estar %sconectado%s para pasar por la caja"
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:45
+msgid "Your Order"
+msgstr "Su pedido"
+
+#: mobilestore/default/woocommerce/checkout/form-checkout.php:45
+msgid "Edit Items"
+msgstr "Editar productos"
+
+#: mobilestore/default/woocommerce/checkout/form-login.php:16
+msgid "Shopped here before?"
+msgstr "¿Ha comprado aquí antes?"
+
+#: mobilestore/default/woocommerce/checkout/form-login.php:23
+msgid ""
+"Enter your login details in the boxes below. If you are a new customer "
+"please proceed to the Billing &amp; Shipping section."
+msgstr ""
+"Introduzca sus datos de acceso en los cuadros a continuación. Si usted es un "
+"nuevo cliente pase a la Facturación &amp; Sección del envío."
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:19
+#: mobilestore/default/woocommerce/checkout/review-order.php:31
+#: mobilestore/default/woocommerce/order/order-details.php:20
+msgid "Product"
+msgstr "Producto"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:20
+msgid "Totals"
+msgstr "Totales"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:52
+msgid "Payment"
+msgstr "Pago"
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:77
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"Lo sentimos, parece que no existen métodos de pago disponibles para su "
+"ubicación. Por favor, póngase en contacto con nosotros si necesita ayuda o "
+"desea hacer arreglos alternativos."
+
+#: mobilestore/default/woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr "Pagar orden"
+
+#: mobilestore/default/woocommerce/checkout/form-shipping.php:31
+msgid "Ship to a different address?"
+msgstr "¿Enviar a una dirección diferente?"
+
+#: mobilestore/default/woocommerce/checkout/form-shipping.php:57
+msgid "Additional Information"
+msgstr "Información Adicional"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:30
+#: mobilestore/default/woocommerce/checkout/review-order.php:175
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Por favor, introduzca sus datos para ver los métodos de pago disponibles."
+
+#: mobilestore/default/woocommerce/checkout/payment.php:32
+#: mobilestore/default/woocommerce/checkout/review-order.php:177
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no existen métodos de pago disponibles para su "
+"estado. Por favor, póngase en contacto con nosotros si necesita ayuda o "
+"desea hacer arreglos alternativos."
+
+#: mobilestore/default/woocommerce/checkout/payment.php:43
+#: mobilestore/default/woocommerce/checkout/review-order.php:188
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Debido a que su navegador no soporta JavaScript, o no funciona, por favor "
+"asegúrese de hacer clic en el botón <em>Actualizar Totales</ em> antes de "
+"realizar su pedido. Se le puede cobrar más de la cantidad indicada "
+"anteriormente si no lo hace."
+
+#: mobilestore/default/woocommerce/checkout/payment.php:43
+#: mobilestore/default/woocommerce/checkout/review-order.php:188
+msgid "Update totals"
+msgstr "Actualizar Totales"
+
+#: mobilestore/default/woocommerce/checkout/payment.php:54
+#: mobilestore/default/woocommerce/checkout/review-order.php:205
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"He leído y acepto los <a href=\"%s\" target=\"_blank\">términos y "
+"condiciones</a>"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:32
+#: mobilestore/default/woocommerce/order/order-details.php:21
+msgid "Total"
+msgstr "Total"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:129
+msgid "Order Total"
+msgstr "Total del pedido"
+
+#: mobilestore/default/woocommerce/checkout/review-order.php:195
+msgid "Place order"
+msgstr "Realizar pedido"
+
+#: mobilestore/default/woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your search."
+msgstr "No se encontraron productos que coincidan con su búsqueda."
+
+#: mobilestore/default/woocommerce/myaccount/my-account.php:19
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+"Hola <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Cerrar sesión</a>)."
+
+#: mobilestore/default/woocommerce/myaccount/my-account.php:26
+msgid "<a href=\"%s\">Edit your password and account details</a>."
+msgstr "<a href=\"%s\">Editar sus detalles de cuenta y contraseña</a>."
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:52
+msgid "Recent Orders"
+msgstr "Pedidos recientes"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:75
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:84
+msgid "Pay"
+msgstr "Pagar"
+
+#: mobilestore/default/woocommerce/myaccount/my-orders.php:97
+msgid "View"
+msgstr "Ver"
+
+#: mobilestore/default/woocommerce/order/order-details.php:66
+msgid "Download file%s"
+msgstr "Descargar archivo%s"
+
+#: mobilestore/default/woocommerce/order/order-details.php:97
+msgid "Your details"
+msgstr "Tus detalles"
+
+#: mobilestore/default/woocommerce/order/order-details.php:101
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: mobilestore/default/woocommerce/order/order-details.php:102
+msgid "Telephone"
+msgstr "Teléfono"
+
+#: mobilestore/default/woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr "Dirección de Envio"
+
+#: mobilestore/default/woocommerce/order/order-details.php:122
+#: mobilestore/default/woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr "N/A"
+
+#: mobilestore/default/woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr "Dirección de Envío"
+
+#: mobilestore/root-functions.php:6
+msgid "Store"
+msgstr "Tienda"
+
+#: mobilestore/root-functions.php:47
+msgid ""
+"%s %s is not installed and activated.%s %s requires it to work properly."
+msgstr ""
+"%s %s no está instalado y activado. %s %s requiere para que funcione "
+"correctamente."
+
+#: mobilestore/root-functions.php:112
+msgid ""
+"Web-App Mode is not available because your site does not use a supported "
+"payment gateway.%sSee %s for further information."
+msgstr ""
+"Modo de Web-App no está disponible debido a que su sitio no utiliza una "
+"pasarela de pago compatible. %sVer%s para más información."
+
+#: mobilestore/root-functions.php:265
+msgid "Off-Canvas left menu"
+msgstr "Menú de la lona izquierdo"
+
+#: mobilestore/root-functions.php:274
+msgid "Footer Menu"
+msgstr "Menú del pie"
+
+#: mobilestore/root-functions.php:277
+msgid "Menu shown in the MobileStore footer"
+msgstr "Menú que se muestra en el pie MobileStore"
+
+#: mobilestore/root-functions.php:284
+msgid "Menu & Cart Background"
+msgstr "Fondo del menú y carrito"
+
+#: mobilestore/root-functions.php:287
+msgid "Header & Footer Background"
+msgstr "Fondo del encabezado y pie"
+
+#: mobilestore/root-functions.php:305
+msgid "Body Background"
+msgstr "Fondo del cuerpo"
+
+#: mobilestore/root-functions.php:343
+msgid "Primary Actions & Purchase Flow"
+msgstr "Acciones primarios y del flujo de compra"
+
+#: mobilestore/root-functions.php:348
+msgid "Highlight Color"
+msgstr "Color de resaltado"
+
+#: mobilestore/root-functions.php:464
+msgid "Product Listing"
+msgstr "Listado de productos"
+
+#: mobilestore/root-functions.php:470
+msgid "Show top-selling products carousel above product listings"
+msgstr ""
+"Mostrar carrusel de los productos más vendidos por encima de los listados de "
+"productos"
+
+#: mobilestore/root-functions.php:478
+msgid "Number of products shown per page in product listings"
+msgstr "Número de productos mostrados por página en las listas de productos"
+
+#: mobilestore/root-functions.php:486
+msgid "First Product Listing View"
+msgstr "Primera vista de la lista de productos"
+
+#: mobilestore/root-functions.php:491
+msgid "Grid view"
+msgstr "Vista en cuadrícula"
+
+#: mobilestore/root-functions.php:492
+msgid "List view"
+msgstr "Vista en lista"
+
+#: mobilestore/root-functions.php:503
+msgid "Pagination"
+msgstr "Paginación"
+
+#: mobilestore/root-functions.php:509
+msgid "Product Pagination Type"
+msgstr "Tipo de paginación de lista de productos"
+
+#: mobilestore/root-functions.php:514
+msgid "Use AJAX load more"
+msgstr "Utilizar AJAX para cargar más"
+
+#: mobilestore/root-functions.php:515
+msgid "Use numbered pages"
+msgstr "Utilizar páginas numeradas"
+
+#: mobilestore/root-functions.php:528
+msgid "Product Filters"
+msgstr "Filtros de productos"
+
+#: mobilestore/root-functions.php:534
+msgid "Include WooCommerce product filters for"
+msgstr "Incluir filtros de WooCommerce  para productos"
+
+#: mobilestore/root-functions.php:550
+msgid "Single Product Pages"
+msgstr "Páginas de productos"
+
+#: mobilestore/root-functions.php:556
+msgid "Allow zooming on product images"
+msgstr "Permitir el zoom en las imágenes de productos"
+
+#: mobilestore/root-functions.php:571
+msgid "Side Menu Options"
+msgstr "Opciones del menú lateral"
+
+#: mobilestore/root-functions.php:577
+msgid "Show category menu"
+msgstr "Mostrar menú de categorías"
+
+#: mobilestore/root-functions.php:585
+msgid "Show recently viewed products"
+msgstr "Mostrar productos vistos recientemente"
+
+#: mobilestore/root-functions.php:599
+msgid "Cart Options"
+msgstr "Opciones de compra"
+
+#: mobilestore/root-functions.php:605
+msgid "Enable off-canvas mini-cart"
+msgstr "Habilitar mini-carrito fuera de la lona"
+
+#: mobilestore/root-functions.php:614
+msgid "Enable AJAX add to cart"
+msgstr "Habilitar AJAX añadir al carrito"
+
+#: mobilestore/root-functions.php:790
+msgid "Site logo display size"
+msgstr "Tamaño de logotipo del sitio"
+
+#: mobilestore/root-functions.php:795
+msgid "Short (default)"
+msgstr "Corto (predeterminado)"
+
+#: mobilestore/root-functions.php:796
+msgid "Tall (longer vertically for square logos)"
+msgstr "Alto (longitud verticalmente para logotipos cuadrados)"
+
+#: mobilestore/root-functions.php:804
+msgid "Show site description in large header"
+msgstr "Mostrar descripción del sitio en cabecera grande"
+
+#: multi-ads/multi-ads.php:257
+msgid "Header Ad"
+msgstr "Anuncio de cabecera"
+
+#: multi-ads/multi-ads.php:259
+msgid "Footer Ad"
+msgstr "Anuncio de pie"
+
+#: multi-ads/multi-ads.php:261
+msgid "Pre-content Ad"
+msgstr "Anuncio de pre-contenido"
+
+#: multi-ads/multi-ads.php:263
+msgid "Post-content Ad"
+msgstr "Anuncio de post-contenido"
+
+#: multi-ads/multi-ads.php:265
+msgid "Mid-content Ad"
+msgstr "Anuncio de centro del contenido"
+
+#: multi-ads/multi-ads.php:286
+msgid "Enable ad location"
+msgstr "Activar ubicación de anuncios"
+
+#: multi-ads/multi-ads.php:294
+msgid "Perform A/B test with secondary advertising unit"
+msgstr "Realizar la prueba A/B con la unidad secundaria de publicidad"
+
+#: multi-ads/multi-ads.php:302
+msgid "Primary Advertising Unit"
+msgstr "Unidad de publicidad primaria"
+
+#: multi-ads/multi-ads.php:303
+msgid "HTML, CSS and JS are all accepted."
+msgstr "Se aceptan: HTML, CSS y JS."
+
+#: multi-ads/multi-ads.php:310
+msgid "Secondary Advertising Unit"
+msgstr "Unidad secundaria de publicidad"
+
+#: multi-ads/multi-ads.php:311
+msgid "If defined, secondary advertising code will be shown 50% of the time."
+msgstr ""
+"Si se define, código de publicidad secundario se mostrará 50% del tiempo."
+
+#: multi-ads/multi-ads.php:318
+msgid "Display on archive/post listings"
+msgstr "Mostrar en listas de archivos/entradas"
+
+#: multi-ads/multi-ads.php:326
+msgid "Display on single posts"
+msgstr "Mostrar en entradas"
+
+#: multi-ads/multi-ads.php:334
+msgid "Display on static pages"
+msgstr "Mostrar en páginas"
+
+#: multi-ads/multi-ads.php:342
+msgid "Display on taxonomy listings"
+msgstr "Mostrar en lista de taxonomías"
+
+#: multi-ads/multi-ads.php:350
+msgid "Display in search results"
+msgstr "Mostrar en resultados de búsqueda"
+
+#: multi-ads/multi-ads.php:358
+msgid "Minimum characters in post/page to show ad."
+msgstr "Caracteres mínimos en entradas/páginas para mostrar anuncios."
+
+#: multi-ads/multi-ads.php:371
+msgid "Ignored URLs"
+msgstr "URL ignorados"
+
+#: multi-ads/multi-ads.php:377
+msgid "Do not show ads on these URLs"
+msgstr "No mostrar anuncios en estas URL"
+
+#: multi-ads/multi-ads.php:378
+msgid ""
+"Each permalink URL fragment should be on its own line and relative, e.g. \"/"
+"about\" or \"/products/store\""
+msgstr ""
+"Cada fragmento de URL debe estar en su propia línea y relativa, por ejemplo, "
+"\"/acerca-de\" o \"/productos/tienda\""
+
+#: open/default/front-page.php:26
+msgid "We&lsquo;re <em>open</em> every %s %s."
+msgstr "<em>Abrimos</em> todos %s %s."
+
+#: open/default/front-page.php:28
+msgid "Sorry, we&lsquo;re <em>closed</em> every %s."
+msgstr "Lo sentimos, estamos <em>cerrados</em> todo %s."
+
+#: open/default/functions.php:20 open/default/location.php:5
+#: simple/default/front-page.php:20
+msgid "Our Location"
+msgstr "Nuestra ubicación"
+
+#: open/default/functions.php:24 open/default/hours.php:5
+msgid "Our Hours"
+msgstr "Nuestro Horario"
+
+#: open/default/hours.php:12 open/root-functions.php:286
+msgid "Sunday"
+msgstr "Domingo"
+
+#: open/default/hours.php:13 open/root-functions.php:294
+msgid "Monday"
+msgstr "Lunes"
+
+#: open/default/hours.php:14 open/root-functions.php:302
+msgid "Tuesday"
+msgstr "Martes"
+
+#: open/default/hours.php:15 open/root-functions.php:310
+msgid "Wednesday"
+msgstr "Miércoles"
+
+#: open/default/hours.php:16 open/root-functions.php:318
+msgid "Thursday"
+msgstr "Jueves"
+
+#: open/default/hours.php:17 open/root-functions.php:326
+msgid "Friday"
+msgstr "Viernes"
+
+#: open/default/hours.php:18 open/root-functions.php:334
+msgid "Saturday"
+msgstr "Sábado"
+
+#: open/default/hours.php:34
+msgid "Closed"
+msgstr "Cerrado"
+
+#: open/root-functions.php:112
+msgid "Main branding colour"
+msgstr "Color principal"
+
+#: open/root-functions.php:133
+msgid "Open Homepage Menu"
+msgstr "Abrir el menú de página de inicio"
+
+#: open/root-functions.php:139
+msgid "Show full menu on Open homepage"
+msgstr "Mostrar menú completo en la página de inicio"
+
+#: open/root-functions.php:156
+msgid "Tagline"
+msgstr "Lema"
+
+#: open/root-functions.php:162
+msgid "Displayed below your logo on the homepage."
+msgstr "Se muestra a continuación de su logotipo en la página principal."
+
+#: open/root-functions.php:176 prose/root-functions.php:116
+msgid "Header Image"
+msgstr "Imagen de encabezado"
+
+#: open/root-functions.php:182
+msgid "Displayed behind header on pages."
+msgstr "Se muestra detrás de la cabecera en páginas."
+
+#: open/root-functions.php:196
+msgid "Homepage Logo Background"
+msgstr "Logo de fondo en la página principal"
+
+#: open/root-functions.php:202
+msgid "Display a white background behind the site logo."
+msgstr "Mostrar un fondo blanco detrás del logo del sitio."
+
+#: open/root-functions.php:216
+msgid "Location"
+msgstr "Ubicación"
+
+#: open/root-functions.php:222
+msgid "Map address"
+msgstr "Direcciones de mapa"
+
+#: open/root-functions.php:236
+msgid "Call to Action"
+msgstr "Llamado de acción"
+
+#: open/root-functions.php:242
+msgid "Use Call to Action button on pages"
+msgstr "Utilizar el botón de llamado de acción en páginas"
+
+#: open/root-functions.php:250
+msgid "Button Label"
+msgstr "Etiqueta de botón"
+
+#: open/root-functions.php:258
+msgid "Target URL (prefix phone numbers with tel:)"
+msgstr "URL de destino (los números de teléfono de prefijo con tel:)"
+
+#: open/root-functions.php:272
+msgid "Hours"
+msgstr "Horas"
+
+#: open/root-functions.php:278
+msgid "Use built-in Hours feature"
+msgstr "Utiliza la función incorporada de horas"
+
+#: open/root-functions.php:342
+msgid "Note"
+msgstr "Nota"
+
+#: pro/professional.php:17
+msgid "Show WPML language switcher in theme footer"
+msgstr "Mostrar el selector de idiomas WPML en el pie del tema"
+
+#: pro/professional.php:195 pro/professional.php:219
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#: pro/professional.php:604
+msgid "Some themes or extensions could not be updated."
+msgstr "Algunos temas o extensiones no pudieron ser actualizados."
+
+#: prose/default/functions.php:33
+msgid "Load more from this collection"
+msgstr "Cargar más de esta colección"
+
+#: prose/default/functions.php:34
+msgid "%d minute"
+msgstr "%d minuto"
+
+#: prose/default/functions.php:35
+msgid "%d minutes"
+msgstr "%d minutos"
+
+#: prose/default/functions.php:36
+msgid "%d minute remaining"
+msgstr "%d minuto restante"
+
+#: prose/default/functions.php:37
+msgid "%d minutes remaining"
+msgstr "%d minutos restantes"
+
+#: prose/default/functions.php:38
+msgid "Share post"
+msgstr "Compartir"
+
+#: prose/default/header-bottom.php:19
+msgid "Collections"
+msgstr "Colecciónes"
+
+#: prose/default/header-bottom.php:22
+msgid "Options"
+msgstr "Opciones"
+
+#: prose/default/header-bottom.php:43
+msgid "Reading Text Size"
+msgstr "Tamaño del texto"
+
+#: prose/default/header-bottom.php:46
+msgid "Small"
+msgstr "Pequeño"
+
+#: prose/default/header-bottom.php:49
+msgid "Medium"
+msgstr "Mediano"
+
+#: prose/default/header-bottom.php:52
+msgid "Large"
+msgstr "Grande"
+
+#: prose/default/header-bottom.php:55
+msgid "Text Sample"
+msgstr "Muestra de texto"
+
+#: prose/default/header-bottom.php:101
+msgid "Collection"
+msgstr "Colección"
+
+#: prose/default/header-bottom.php:103
+msgid "Posts Tagged"
+msgstr "Entradas etiquetadas"
+
+#: prose/default/related-posts.php:8
+msgid "Read Next"
+msgstr "Leer siguiente"
+
+#: prose/default/single.php:31
+msgid "Discuss this post"
+msgstr "Comenta esta entrada"
+
+#: prose/default/single.php:33
+msgid "View discussion"
+msgstr "Ver discusión"
+
+#: prose/root-functions.php:60
+msgid "Show comments when reading posts"
+msgstr "Muestra comentarios al leer los mensajes"
+
+#: prose/root-functions.php:61
+msgid "Comment form will not appear for posts with comments turned off."
+msgstr ""
+"Formulario de comentarios no aparecerá para las entradas con los comentarios "
+"desactivados."
+
+#: prose/root-functions.php:72
+msgid "Show categories as \"collections\" in menu"
+msgstr "Mostrar categorías como \"colecciones\" en el menú"
+
+#: prose/root-functions.php:84
+msgid "Use featured image as the header background when viewing single posts"
+msgstr ""
+"Utilice las funciones de imagen como el fondo de la cabecera durante la "
+"visualización de entradas individuales"
+
+#: prose/root-functions.php:96
+msgid "Maximum number of items in categories/collections"
+msgstr "Número máximo de elementos en las categorías/colecciones"
+
+#: prose/root-functions.php:122
+msgid "Displayed behind header on pages and posts without featured images."
+msgstr ""
+"Se muestra detrás de la cabecera de las páginas y entradas sin imágenes "
+"miniaturas."
+
+#: prose/root-functions.php:136
+msgid "Site Intro"
+msgstr "Introducción del sitio"
+
+#: prose/root-functions.php:142
+msgid "Displayed on post listing page below site name."
+msgstr "Se muestra en la lista de entradas debajo del nombre del sitio."
+
+#: prose/root-functions.php:156
+msgid "Drop Caps"
+msgstr "Capitulares"
+
+#: prose/root-functions.php:162
+msgid "Use a drop cap at the start of each blog post."
+msgstr "Utilice una letra capital en el inicio de cada entrada del blog."
+
+#: prose/root-functions.php:212
+msgid "Off-canvas menu for Prose"
+msgstr "Menú fuera de la lona para Prose"
+
+#: prose/root-functions.php:220 themes/foundation/root-functions.php:10
+msgid "Branding"
+msgstr "Personalización"
+
+#: related-posts/related-posts.php:3 related-posts/related-posts.php:12
+#: related-posts/related-posts.php:30
+msgid "Related Posts"
+msgstr "Entradas Relacionadas"
+
+#: related-posts/related-posts.php:36
+msgid "Ignore tags when identifying related posts"
+msgstr ""
+"No haga caso de las etiquetas en la identificación de las entradas "
+"relacionados"
+
+#: related-posts/related-posts.php:44
+msgid "Include post excerpts"
+msgstr "Incluir extractos de entradas"
+
+#: related-posts/related-posts.php:52
+msgid "Maximum number of related posts to show"
+msgstr "El número máximo de entradas relacionadas para mostrar"
+
+#: responsive-images/responsive-images.php:107
+msgid "Responsive Images"
+msgstr ""
+
+#: responsive-images/responsive-images.php:113
+msgid "Include desktop optimizations for mobile devices"
+msgstr "Incluir optimizaciones de escritorio para dispositivos móviles"
+
+#: responsive-images/responsive-images.php:114
+msgid "Normally only images on mobile are optimized"
+msgstr "Normalmente sólo las imágenes en el móvil están optimizados"
+
+#: responsive-images/responsive-images.php:121
+msgid "Performance preference"
+msgstr "Preferencia de rendimiento"
+
+#: responsive-images/responsive-images.php:126
+msgid "Optimize for page speed"
+msgstr "Optimizar para velocidad de la página"
+
+#: responsive-images/responsive-images.php:127
+msgid "Optimize for quality"
+msgstr "Optimizar para la calidad"
+
+#: simple/default/front-page.php:14
+msgid "Call Us"
+msgstr "Llamanos"
+
+#: simple/default/header-bottom.php:17
+msgid "Toggle Menu"
+msgstr "Menú de palanca"
+
+#: simple/root-functions.php:54
+msgid "Site Menu (Pulldown)"
+msgstr "Menú del sitio (Desplegable)"
+
+#: simple/root-functions.php:57
+msgid "Pull-down menu at top of pages"
+msgstr "Menú desplegable en la parte superior de las páginas"
+
+#: simple/root-functions.php:64
+msgid "Front Page Menu"
+msgstr "Menú de página frontal"
+
+#: simple/root-functions.php:67
+msgid "Displayed below front page menu and content"
+msgstr "Se muestra a continuación el menú frontal y el contenido"
+
+#: simple/root-functions.php:158
+msgid "Enable search on blog pages"
+msgstr "Habilitar la búsqueda en las páginas del blog"
+
+#: simple/root-functions.php:173
+msgid "Special Menu Items"
+msgstr "Elementos de menú especiales"
+
+#: simple/root-functions.php:179
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#: simple/root-functions.php:187
+msgid "Address"
+msgstr "Dirección"
+
+#: simple/root-functions.php:200
+msgid "Front Page Content"
+msgstr "Contenido de la página principal"
+
+#: themes/foundation/default/formerror.php:6
+msgid "Comment Error"
+msgstr "Error en el comentario"
+
+#: themes/foundation/default/formerror.php:8
+msgid "Please enter all fields correctly to post a comment."
+msgstr ""
+"Por favor, ingrese todos los campos correctamente para publicar un "
+"comentario."
+
+#: themes/foundation/default/formerror.php:9
+msgid "Go back"
+msgstr "Volver"
+
+#: themes/foundation/modules/base/base.php:64
+msgid "Loading"
+msgstr "Cargando"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:160
+msgid "Custom Post Support"
+msgstr "Entradas personalizadas"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:166
+msgid "Enable custom post-type support"
+msgstr "Activar ayuda de tipo de entrada personalizada"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:193
+msgid "Include custom post-type posts in blog index"
+msgstr "Incluir tipos de entradas personalizadas en el índice del blog"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:201
+msgid "Custom Post Types"
+msgstr "Tipos de entrada personalizada"
+
+#: themes/foundation/modules/custom-posts/custom-posts.php:207
+msgid ""
+"Select which custom post types WPtouch Pro should load when displaying your "
+"site."
+msgstr ""
+"Seleccionar qué tipos de entradas personalizadas WPtouch Pro debe cargar al "
+"exhibir el sitio."
+
+#: themes/foundation/modules/featured/featured.php:294
+msgid "Number of posts in slider"
+msgstr "Número de entradas en la barra"
+
+#: themes/foundation/modules/featured/featured.php:307
+msgid "Slide automatically "
+msgstr "Deslizar automáticamente"
+
+#: themes/foundation/modules/featured/featured.php:315
+msgid "Slides repeat"
+msgstr "Repetición de diapositivas"
+
+#: themes/foundation/modules/featured/featured.php:323
+msgid "Make images grayscale"
+msgstr "Convertir imágenes a escala de grises"
+
+#: themes/foundation/modules/featured/featured.php:331
+msgid "Slider posts also show in listings"
+msgstr "Las entradas de la barra también aparecen en las listas"
+
+#: themes/foundation/modules/featured/featured.php:339
+msgid "Slide transition speed"
+msgstr "Velocidad de transición de diapositivas"
+
+#: themes/foundation/modules/featured/featured.php:344
+msgid "Slow"
+msgstr "Lenta"
+
+#: themes/foundation/modules/featured/featured.php:345
+msgid "Normal"
+msgstr "Normal"
+
+#: themes/foundation/modules/featured/featured.php:346
+msgid "Fast"
+msgstr "Rápida"
+
+#: themes/foundation/modules/featured/featured.php:357
+msgid "Show latest posts"
+msgstr "Mostrar las últimas entradas"
+
+#: themes/foundation/modules/featured/featured.php:358
+msgid "Show posts from a specific tag"
+msgstr "Mostrar entradas de una etiqueta específica"
+
+#: themes/foundation/modules/featured/featured.php:359
+msgid "Show posts from a specific category"
+msgstr "Mostrar entradas de una categoría específica"
+
+#: themes/foundation/modules/featured/featured.php:360
+msgid "Show posts from a specific post type"
+msgstr "Mostrar entradas de un tipo específico"
+
+#: themes/foundation/modules/featured/featured.php:361
+msgid "Show only specific posts or pages"
+msgstr "Mostrar solamente entradas o páginas específicas"
+
+#: themes/foundation/modules/featured/featured.php:367
+#: themes/foundation/modules/featured/featured.php:375
+msgid "Only this tag"
+msgstr "Solamente esta etiqueta"
+
+#: themes/foundation/modules/featured/featured.php:368
+#: themes/foundation/modules/featured/featured.php:376
+#: themes/foundation/modules/featured/featured.php:385
+msgid "Enter the tag/category slug name"
+msgstr "Ingrese el título de la etiqueta/categoría"
+
+#: themes/foundation/modules/featured/featured.php:384
+msgid "Only this category"
+msgstr "Solamente esta categoría"
+
+#: themes/foundation/modules/featured/featured.php:393
+msgid "Only this post type"
+msgstr "Solamente este tipo de entrada"
+
+#: themes/foundation/modules/featured/featured.php:402
+msgid "Comma-separated list of post/page IDs"
+msgstr "Lista separada por comas de IDs de entrada/página"
+
+#: themes/foundation/modules/featured/featured.php:411
+msgid "Featured Slider"
+msgstr "Barra deslizante"
+
+#: themes/foundation/modules/featured/featured.php:418
+msgid "Enable featured slider"
+msgstr "Activar barra deslizante"
+
+#: themes/foundation/modules/featured/featured.php:419
+msgid "Requires at least 2 entries to contain featured images"
+msgstr "Requiere al menos 2 entradas con imágenes"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:20
+msgid "Browser Default Fonts"
+msgstr "Fuentes predeterminadas del navegador"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:28
+msgid "Typography"
+msgstr "Tipografía"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:34
+msgid "Font Pairing"
+msgstr "Combinación de fuentes"
+
+#: themes/foundation/modules/google-fonts/google-fonts.php:35
+msgid ""
+"Choose a Google font pairing designed for this theme, or default browser "
+"fonts."
+msgstr ""
+"Elija una combinación de fuentes de Google proyectada para este tema, o "
+"fuentes predeterminadas del navegador."
+
+#: themes/foundation/modules/login/login-html.php:7
+msgid "Remember Me"
+msgstr "Recordarme"
+
+#: themes/foundation/modules/login/login-html.php:9
+msgid "Log In"
+msgstr "Iniciar sesión"
+
+#: themes/foundation/modules/login/login-html.php:30
+msgid "Sign-up"
+msgstr "Inscribirse"
+
+#: themes/foundation/modules/login/login-html.php:31
+msgid "Lost password?"
+msgstr "¿Ha olvidado su contraseña?"
+
+#: themes/foundation/modules/login/login.php:22
+msgid "Account Username"
+msgstr "Nombre de usuario de la cuenta"
+
+#: themes/foundation/modules/login/login.php:23
+msgid "Account Password"
+msgstr "Contraseña de la cuenta"
+
+#: themes/foundation/modules/login/login.php:32
+msgid "Login Form"
+msgstr "Formulario de acceso"
+
+#: themes/foundation/modules/login/login.php:38
+msgid "Allow Login"
+msgstr "Permitir inicio de sesión"
+
+#: themes/foundation/modules/login/login.php:39
+msgid "Will add login/out links"
+msgstr "Añadirá enlaces de inicio/cierre de sesión"
+
+#: themes/foundation/modules/login/login.php:46
+msgid "Include \"Sign-up\" and \"Lost Password?\" links"
+msgstr "Incluir enlaces para “Inscribirse” y “¿Ha olvidado su contraseña?”"
+
+#: themes/foundation/modules/media/media.php:34
+msgid "Video Handling"
+msgstr "Manejo de videos"
+
+#: themes/foundation/modules/media/media.php:40
+msgid "Use FitVids to automatically scale videos"
+msgstr "Usar FitVids para adaptar los vídeos automáticamente"
+
+#: themes/foundation/modules/media/media.php:41
+msgid ""
+"FitVids is a small JavaScript helper that will detect videos from a variety "
+"of web sources and automatically scale them to fill the container and format "
+"them with the correct aspect ratio."
+msgstr ""
+"FitVids es un pequeño auxiliar de JavaScript que detecta vídeos de várias "
+"fuentes distintas y los adapta automáticamente para rellenar el espacio, "
+"además de formatearlos con la proporción adecuada."
+
+#: themes/foundation/modules/sharing/sharing.php:94
+msgid "Social Sharing"
+msgstr "Compartir en redes sociales"
+
+#: themes/foundation/modules/sharing/sharing.php:100
+msgid "Will show Facebook, Twitter, Pinterest and Email buttons."
+msgstr ""
+"Se mostrarán los botones de Facebook, Twitter, Pinterest y correo "
+"electrónico."
+
+#: themes/foundation/modules/sharing/sharing.php:108
+msgid "Show sharing links on posts"
+msgstr "Mostrar enlaces para compartir en las entradas"
+
+#: themes/foundation/modules/sharing/sharing.php:116
+msgid "Also show on pages"
+msgstr "Mostrar también en las páginas"
+
+#: themes/foundation/modules/sharing/sharing.php:124
+msgid "Sharing links location"
+msgstr "Ubicación de los enlaces para compartir"
+
+#: themes/foundation/modules/sharing/sharing.php:129
+msgid "Above post content"
+msgstr "Arriba del contenido de la entrada"
+
+#: themes/foundation/modules/sharing/sharing.php:130
+msgid "Below post content"
+msgstr "Abajo del contenido de la entrada"
+
+#: themes/foundation/modules/sharing/sharing.php:136
+msgid "Color scheme"
+msgstr "Combinación de colores"
+
+#: themes/foundation/modules/sharing/sharing.php:141
+msgid "Theme colors"
+msgstr "Colores del tema"
+
+#: themes/foundation/modules/sharing/sharing.php:142
+msgid "Social network colors"
+msgstr "Colores de la red social"
+
+#: themes/foundation/modules/social-links/social-links.php:8
+msgid "Social Media Links"
+msgstr "Enlaces de medios sociales"
+
+#: themes/foundation/modules/social-links/social-links.php:15
+msgid "Full URL to your Facebook page"
+msgstr "URL completa para su página Facebook"
+
+#: themes/foundation/modules/social-links/social-links.php:23
+msgid "Full URL to your Twitter profile"
+msgstr "URL completa para su perfil en Twitter"
+
+#: themes/foundation/modules/social-links/social-links.php:31
+msgid "Full URL to your Google+ profile"
+msgstr "URL completa para su perfil en Google+"
+
+#: themes/foundation/modules/social-links/social-links.php:39
+msgid "Full URL to your Instagram profile"
+msgstr "URL completa para su perfil en Instagram"
+
+#: themes/foundation/modules/social-links/social-links.php:46
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: themes/foundation/modules/social-links/social-links.php:47
+msgid "Full URL to your Tumblr profile"
+msgstr "URL completa para su perfil en Tumblr"
+
+#: themes/foundation/modules/social-links/social-links.php:55
+msgid "Full URL to your Pinterest page"
+msgstr "URL completa para su página Pinterest"
+
+#: themes/foundation/modules/social-links/social-links.php:63
+msgid "Full URL to your Vimeo page"
+msgstr "URL completa para su página Vimeo"
+
+#: themes/foundation/modules/social-links/social-links.php:71
+msgid "Full URL to your %s profile"
+msgstr "URL completa para su perfil en %s"
+
+#: themes/foundation/modules/social-links/social-links.php:78
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: themes/foundation/modules/social-links/social-links.php:79
+msgid "Full URL to your LinkedIn profile"
+msgstr "URL completa para su perfil en LinkedIn"
+
+#: themes/foundation/modules/social-links/social-links.php:87
+msgid "Full URL to your Yelp profile"
+msgstr "URL completa para su perfil en Yelp"
+
+#: themes/foundation/modules/social-links/social-links.php:95
+msgid "E-Mail address"
+msgstr "Dirección de correo electrónico"
+
+#: themes/foundation/modules/social-links/social-links.php:103
+msgid "Full URL to your RSS feed"
+msgstr "URL completa para su feed RSS"
+
+#: themes/foundation/modules/tablets/tablets.php:58
+msgid "iPad"
+msgstr "iPad"
+
+#: themes/foundation/modules/tablets/tablets.php:64
+#: themes/foundation/root-functions.php:409
+msgid "%d by %d pixels (PNG)"
+msgstr "%d por %d píxeles (PNG)"
+
+#: themes/foundation/root-functions.php:11
+msgid "Media Handling"
+msgstr "Manejo de medios"
+
+#: themes/foundation/root-functions.php:12
+msgid "Bookmark Icons"
+msgstr "Marcar íconos como favoritos"
+
+#: themes/foundation/root-functions.php:13
+msgid "Custom Content"
+msgstr "Contenido personalizado"
+
+#: themes/foundation/root-functions.php:44
+msgid "Language: "
+msgstr "Idioma:"
+
+#: themes/foundation/root-functions.php:349
+msgid "Number of posts in post listings"
+msgstr "Número de entradas en listas de entradas"
+
+#: themes/foundation/root-functions.php:350
+msgid ""
+"Overrides the WordPress Reading settings for \"Blog pages show at most\""
+msgstr ""
+"Invalida las configuraciones de lectura de WordPress para \"Las páginas del "
+"blog mostrarán un máximo de\""
+
+#: themes/foundation/root-functions.php:362
+msgid "Excluded categories"
+msgstr "Categorías excluidas"
+
+#: themes/foundation/root-functions.php:363
+msgid "Comma separated by category name"
+msgstr "Separadas por coma por nombre de categoría"
+
+#: themes/foundation/root-functions.php:370
+msgid "Excluded tags"
+msgstr "Etiquetas excluidas"
+
+#: themes/foundation/root-functions.php:371
+msgid "Comma separated by tag name"
+msgstr "Separadas por comas por nombre de etiqueta"
+
+#: themes/foundation/root-functions.php:382
+msgid "Blog"
+msgstr "Blog"
+
+#: themes/foundation/root-functions.php:392
+#: themes/foundation/root-functions.php:1129
+msgid "Pages"
+msgstr "Páginas"
+
+#: themes/foundation/root-functions.php:403
+msgid "Site Icon"
+msgstr "Ícono del sitio"
+
+#: themes/foundation/root-functions.php:425
+msgid "Site Logo"
+msgstr "Logo del sitio"
+
+#: themes/foundation/root-functions.php:437
+msgid "Header"
+msgstr "Encabezado"
+
+#: themes/foundation/root-functions.php:447
+msgid "Footer"
+msgstr "Pie"
+
+#: themes/foundation/root-functions.php:453
+msgid "Custom footer content (HTML is allowed)"
+msgstr "Contenido del pie personalizado (HTML permitido)"
+
+#: themes/foundation/root-functions.php:794
+msgid "search results for '%s'"
+msgstr "resultados de la búsqueda para '%s'"
+
+#: themes/foundation/root-functions.php:796
+msgid "%sCategories &rsaquo;%s %s"
+msgstr "%sCategorías &rsaquo;%s %s"
+
+#: themes/foundation/root-functions.php:798
+msgid "Tags &rsaquo; %s"
+msgstr "Etiquetas &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:800
+#: themes/foundation/root-functions.php:802
+#: themes/foundation/root-functions.php:804
+msgid "Archives &rsaquo; %s"
+msgstr "Archivos &rsaquo; %s"
+
+#: themes/foundation/root-functions.php:819
+msgid "Load more from this category"
+msgstr "Cargar más de esta categoría"
+
+#: themes/foundation/root-functions.php:821
+msgid "Load more tagged like this"
+msgstr "Cargar más marcados de esta manera"
+
+#: themes/foundation/root-functions.php:823
+msgid "Load more from this day"
+msgstr "Cargar más de este día"
+
+#: themes/foundation/root-functions.php:825
+msgid "Load more from this month"
+msgstr "Cargar más de este mes"
+
+#: themes/foundation/root-functions.php:827
+msgid "Load more from this year"
+msgstr "Cargar más de este año"
+
+#: themes/foundation/root-functions.php:829
+msgid "Load more in this section"
+msgstr "Cargar más en esta sección"
+
+#: themes/foundation/root-functions.php:831
+msgid "Load more entries"
+msgstr "Cargar más entradas"
+
+#: themes/foundation/root-functions.php:1078
+msgid "Post"
+msgstr "Entrada"
+
+#: themes/foundation/root-functions.php:1080
+msgid "Page"
+msgstr "Página"
+
+#: web-app-mode/web-app-mode.php:3
+msgid "Web-App Mode"
+msgstr "Modo de Web-App"
+
+#: web-app-mode/web-app-mode.php:18
+msgid "Web-App Mode Unavailable"
+msgstr "Modo de Web-App no disponible"
+
+#: web-app-mode/web-app-mode.php:42
+msgid "Enable persistence"
+msgstr "Habilitar persistencia"
+
+#: web-app-mode/web-app-mode.php:43
+msgid "Loads the last visited URL for visitors on open."
+msgstr "Carga la última URL visitada para los visitantes al abrir"
+
+#: web-app-mode/web-app-mode.php:50
+msgid "URLs to ignore in Web-App Mode"
+msgstr "URLs de ignorar en modo Web-App"
+
+#: web-app-mode/web-app-mode.php:62
+msgid "Notice Message"
+msgstr "Mensaje de Aviso"
+
+#: web-app-mode/web-app-mode.php:68
+msgid "Show a web app notice message for new iOS visitors"
+msgstr ""
+"Mostrar un mensaje de aviso en modo web-app para nuevos visitantes en iOS"
+
+#: web-app-mode/web-app-mode.php:76
+msgid "Message will be shown again for visitors"
+msgstr "El mensaje se mostrara de nuevo para los visitantes"
+
+#: web-app-mode/web-app-mode.php:81
+msgid "Every visit"
+msgstr "Cada visita"
+
+#: web-app-mode/web-app-mode.php:82
+msgid "After 1 day"
+msgstr "Después de 1 día"
+
+#: web-app-mode/web-app-mode.php:83
+msgid "After 7 days"
+msgstr "Después de 7 días"
+
+#: web-app-mode/web-app-mode.php:84
+msgid "In 1 month"
+msgstr "En 1 mes"
+
+#: web-app-mode/web-app-mode.php:90
+msgid "Notice message contents"
+msgstr "Contenido del aviso"
+
+#: web-app-mode/web-app-mode.php:91
+msgid "[icon] is used to display your bookmark icon. Do not remove it."
+msgstr "[icon] se utiliza para mostrar el icono de marcador. No lo quite."
+
+#: web-app-mode/web-app-mode.php:101
+msgid "Startup Images"
+msgstr "Imágenes Iniciales"
+
+#: web-app-mode/web-app-mode.php:126 web-app-mode/web-app-mode.php:134
+msgid "iPad (%d by %d pixels)"
+msgstr "iPad %d por %d píxeles (PNG)"
+
+#: web-app-mode/web-app-mode.php:149
+msgid "iPhone (%d by %d pixels)"
+msgstr "iPhone %d por %d píxeles (PNG)"
+
+#: web-app-mode/web-app-mode.php:158
+msgid "Web-App Startup Screens (iOS)"
+msgstr "Imágenes iniciales de modo Web-App (iOS)"
+
+#: web-app-mode/web-app-mode.php:327
+msgid ""
+"Install this Web-App on your home screen: tap [icon] then \"Add to Home "
+"Screen\""
+msgstr ""
+"Instalar este Web-App en la pantalla principal: toque [icono] y luego "
+"\"Añadir a pantalla de inicio\""
+
+#: web-app-mode/web-app-mode.php:374
+msgid "External link— open it in the browser?"
+msgstr "Enlace externo - abrirlo en el navegador?"
+
+#: web-app-mode/web-app-mode.php:375
+msgid "File link— Do you want to open it in the browser?"
+msgstr "Enlace de archivo - ¿Quieres abrirlo en el navegador?"
+
+#. Plugin Name of the plugin/theme
+msgid "WPtouch Pro"
+msgstr "WPtouch Pro"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.wptouch.com/"
+msgstr "http://www.wptouch.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"The easy way to create great mobile experiences with your WordPress website."
+msgstr ""
+"La manera sencilla de crear excelentes experiencias móviles con su sitio "
+"WordPress."
+
+#. Author of the plugin/theme
+msgid "BraveNewCode Inc."
+msgstr "BraveNewCode Inc."
+
+#~ msgid " Next you can configure network settings."
+#~ msgstr " En la próxima etapa, puede configurar ajustes de red."
+
+#~ msgid "Admin Language"
+#~ msgstr "Idioma del administrador"
+
+#~ msgid ""
+#~ "By default network activations of WPtouch Pro mean that the Network Admin "
+#~ "controls theme and extension downloads and updates. You can also choose "
+#~ "to allow sub-sites to behave like independent installations, and control "
+#~ "themes and extensions themselves."
+#~ msgstr ""
+#~ "En los ajustes predeterminados, las activaciones de WPtouch Pro en la red "
+#~ "significan que el administrador de la red controla las descargas y "
+#~ "actualizaciones de temas y extensiones. También se puede permitir que los "
+#~ "sub-sitios se porten como instalaciones independientes y controlen los "
+#~ "temas y extensiones solos."
+
+#~ msgid "Control theme and extension downloads and updates"
+#~ msgstr "Controlar descargas y actualizaciones de temas y extensiones"
+
+#~ msgid "Control themes and extension downloads and updates"
+#~ msgstr "Controlar descargas y actualizaciones de temas y extensiones"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS personalizado"
+
+#~ msgid "Custom CSS Declarations"
+#~ msgstr "Declaraciones de CSS personalizadas"
+
+#~ msgid "Device + Orientation"
+#~ msgstr "Dispositivo + Orientación"
+
+#~ msgid ""
+#~ "If enabled, sub-sites can only activate/deactivate themes and extensions "
+#~ "that have been downloaded in the network admin."
+#~ msgstr ""
+#~ "Si activado, los sub-sitios solamente pueden habilitar/inhabilitar temas "
+#~ "y extensiones que se han descargado en la red del administrador."
+
+#~ msgid "Multisite Network Activation"
+#~ msgstr "Activación de red multisite"
+
+#~ msgid "Multisite Setup"
+#~ msgstr "Configuración de red multisite"
+
+#~ msgid "No extensions available"
+#~ msgstr "No hay extensiones disponibles"
+
+#~ msgid "No themes available"
+#~ msgstr "No hay temas disponibles"
+
+#~ msgid ""
+#~ "Since you have network activated WPtouch Pro, you can configure the way "
+#~ "themes and extensions are controlled in your environment."
+#~ msgstr ""
+#~ "Como WPtouch Pro está activado en la red, se puede configurar la manera "
+#~ "como los temas y las extensiones se controlan en su ambiente."
+
+#~ msgid "Some extensions could not be updated."
+#~ msgstr "Algunas extensiones no pudieron ser actualizadas."
